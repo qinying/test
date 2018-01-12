@@ -10,7 +10,11 @@ import unittest
 import HTMLTestRunner
 import datetime
 from test.testcase.index import test_index
-
+# import cgi
+#
+# form = cgi.FieldStorage()
+# site_name = form.getvalue('name')
+# site_url  = form.getvalue('url')
 
 if __name__=='__main__':
     suite = unittest.TestSuite()

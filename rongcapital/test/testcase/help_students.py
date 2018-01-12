@@ -2,7 +2,6 @@
 from datetime import date
 import data
 import datetime
-import requests
 import random
 from jsondate import data
 import time

@@ -20,7 +20,7 @@ class Login():
         driver = webdriver.Chrome("/Users/qinying/Downloads/chromedriver")
         time.sleep(4)
         # driver = webdriver.PhantomJS(executable_path="/Users/qinying/.pyenv/versions/2.7.13/lib/python2.7/site-packages/phantomjs")  # 实体化浏览器
-        driver.get('http://123.56.79.58:8121/#/login')  # 打开个地址
+        driver.get('http://211.159.180.106:7070/dsj-agent-back')  # 打开个地址
         driver.maximize_window()  # 设置浏览器窗口最大化
         driver.implicitly_wait(30)
         codeMain()
@@ -30,12 +30,12 @@ class Login():
         # p = chaojiying.PostPic(im, 1902)
         # o = p['pic_str']
 
-        driver.find_element_by_name("userLoginName").send_keys("laolin_test002")
+        driver.find_element_by_name("username").send_keys("agent")
         time.sleep(1)
-        driver.find_element_by_name("password").send_keys("54554697a")
+        driver.find_element_by_name("password").send_keys("123456")
         time.sleep(1)
         driver.get_screenshot_as_file('/Users/qinying/PycharmProjects/rongcapital/test/img/code.png')
-        driver.find_element_by_name("imgcode").send_keys(raw_input("请输入验证码： "))
+        driver.find_element_by_name("verifyCode").send_keys(raw_input("请输入验证码： "))
         #driver.find_element_by_name("imgcode").send_keys(o)
         time.sleep(1)
         driver.find_element_by_xpath('//*[@id="loginForm"]/div[4]/div/button').click()
