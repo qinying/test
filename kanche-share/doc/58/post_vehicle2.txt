@@ -1,0 +1,329 @@
+先请求，http://tracklog.58.com/referrer4.js，获得id58 cookie
+
+
+Remote Address:211.151.115.25:80
+Request URL:http://post.58.com/1/29/s5/submit?rand=0.7916471564676613
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Cache-Control:max-age=0
+Connection:keep-alive
+Content-Length:8970
+Content-Type:multipart/form-data; boundary=----WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Cookie:id58=05dvOVM1eNRWjh73O33eAg==; nearby=NOTSHOW; vip=v%3D1%26vipuserpline%3D0%26masteruserid%3D9477089719815%26vipkey%3D4ae53f7dc271d3ed8ccb84b386f6c000%26vipusertype%3D2; myfeet_tooltip=end; bangtoptipclose=1; city=bj; JSESSIONID=1C2F2E1892194AA408A86733464436D9; www58com="AutoLogin=false&UserID=24163039925511&UserName=goqnz_p2&CityID=0&Email=&AllMsgTotal=0&CommentReadTotal=0&CommentUnReadTotal=0&MsgReadTotal=0&MsgUnReadTotal=0&RequireFriendReadTotal=0&RequireFriendUnReadTotal=0&SystemReadTotal=0&SystemUnReadTotal=0&UserCredit=0&UserScore=0&PurviewID=&IsAgency=false&Agencys=null&SiteKey=6132DEA395E09C43ACCFF00857F0280CEC6650A6A31B804DD&Phone=&WltUrl=&UserLoginVer=887EB60F8846773DBBD0F1CAFB2DF5AE2&LT=1405158907263"; 58cooper="userid=24163039925511&username=goqnz_p2&cooperkey=8f8d78219579ed8c582a02891526f708"; PPU="UID=24163039925511&PPK=1c90b140&PPT=8e0b190e&SK=2A31A22D970634059A642BC0075580932744984EDFF4B4BCC&LT=1405158907276&UN=goqnz_p2&LV=e5d60885"; bangbangid=24163039925511; post_uuid=b83bc71e-a844-4cf9-8c28-90b106758164; new_session=0; init_refer=; CNZZDATA30017898=cnzz_eid%3D226256613-1404122759-http%253A%252F%252Fbj.58.com%252F%26ntime%3D1405158895; __utma=253535702.439443889.1396013271.1404925175.1405158895.40; __utmb=253535702.7.8.1405159007617; __utmc=253535702; __utmz=253535702.1404489785.37.11.utmcsr=my.58.com|utmccn=(referral)|utmcmd=referral|utmcct=/; __utmv=253535702.0|1=MemberType=Person=1
+Host:post.58.com
+Origin:http://post.58.com
+Referer:http://post.58.com/1/29/s5
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+Query String Parametersview sourceview URL encoded
+rand:0.7916471564676613
+Request Payload
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="zimu"
+
+408783
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="brand"
+
+408844
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="chexi"
+
+409151
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="ObjectType"
+
+1
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="carchexing"
+
+409156
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="displacement"
+
+408854
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="gearbox"
+
+408822
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="kucheid"
+
+427420
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shangshishijian"
+
+515717
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="tingshoushijian"
+
+515719
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="yczb_cheling"
+
+524250
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="yczb_licheng"
+
+524253
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="madein"
+
+408852
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="chexibieming"
+
+515883
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="erscpinpai"
+
+奥迪A6
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="rundistanceqj"
+
+8_12
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="chelingqj"
+
+2005_2008
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="buytime"
+
+2005
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shangpaiyuefen"
+
+515683
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="buyfrom"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="baoyang"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="yunying"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shiguqk"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="chengse"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="neishi"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="syxian"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shouxu"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="cheshenyanse"
+
+1
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="pic"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="pictag"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc1"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc2"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc3"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc4"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc5"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc6"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc7"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="picdesc8"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="imageLoad"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="rundistance"
+
+10
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="MinPrice"
+
+20
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="MinPriceqj"
+
+40_999999
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="Title"
+
+奥迪A6 2004款 2.4 技术领先-车况非常好
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="Content"
+
+车况非常好，没有任何大小事故，连剐蹭都很少。
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="goblianxiren"
+
+老王
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="faburen"
+
+0
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="Phone"
+
+13717832817
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="type"
+
+0
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="cspailiang"
+
+2.4
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="biansuqi"
+
+自动
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shigumiaoshu"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="cjshijian"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="qxshijian"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="syshijian"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="xinxibianhao"
+
+FNXNT6
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="yczbpic"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="yczhibao"
+
+525381
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="xbsx"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shangpainianyue"
+
+200503
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="cateapplyed"
+
+29
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="localapplyed"
+
+1
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shifoufufeifabu"
+
+0
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="shifouyishou"
+
+0
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="paifangbiaozhun"
+
+
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="canjiapaimai"
+
+0
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="iqas_mcresult"
+
+1232121154366192515869603517
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="cube_post_jsonkey"
+
+{"jzJson":null,"znJson":null,"zdJson":null,"jzFee":"0","znFee":"0","zdFee":"0","jzCop":"0","znCop":"0","zdCop":"0","sourceId":"1501","productId":"100002","secondCateId":"29","dispSecondCateId":"29","cityId":"1","dispCityId":"1","showZd":1,"showZn":0,"showCpt":0,"showCpc":0}
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="HiddenForPara"
+
+5863:zimu|5866:brand|5867:chexi|2539:ObjectType|5868:carchexing|5871:displacement|5872:gearbox|5880:kucheid|6809:shangshishijian|6811:tingshoushijian|7068:yczb_cheling|7069:yczb_licheng|5870:madein|6808:chexibieming|5865:rundistanceqj|5883:chelingqj|1196:buytime|6860:shangpaiyuefen|6852:buyfrom|6855:baoyang|6853:yunying|4922:shiguqk|6856:chengse|6857:neishi|6866:neishiquexian|6869:syxian|6859:shouxu|4917:cheshenyanse|5864:MinPriceqj
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="gobquzhi"
+
+zimu=A&brand=%E5%A5%A5%E8%BF%AA&chexi=A6&objecttype=%E8%BD%BF%E8%BD%A6&carchexing=2004%E6%AC%BE%202.4%20%E6%8A%80%E6%9C%AF%E9%A2%86%E5%85%88&displacement=2.4&gearbox=%E8%87%AA%E5%8A%A8&kucheid=272106&shangshishijian=2004&tingshoushijian=2005&yczb_cheling=2&yczb_licheng=0&madein=%E5%90%88%E8%B5%84&chexibieming=%E5%A5%A5%E8%BF%AAA6&rundistanceqj=8-12%E4%B8%87%E5%85%AC%E9%87%8C&chelingqj=5-8%E5%B9%B4&buytime=2005%E5%B9%B4&shangpaiyuefen=3%E6%9C%88&cheshenyanse=%E9%BB%91%E8%89%B2&minpriceqj=40%E4%B8%87%E4%BB%A5%E4%B8%8A&cateapplyed=29&localapplyed=1
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="gobalsokey"
+
+A|A6|2004款 2.4 技术领先|2.4|自动|272106|2004|2005|2|0|合资|奥迪A6|8-12万公里|2005年|3月|黑色|10万元|20万元
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="fcookie"
+
+7ce00a65-06fc-45c3-9ade-830abf2d8d02
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="hiddenTextBoxJoinValue"
+
+奥迪:A6:2004款 2.4 技术领先:奥迪A6 2004款 2.4 技术领先:车况非常好:老王
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S
+Content-Disposition: form-data; name="xiaobao_option"
+
+0
+------WebKitFormBoundaryQ2vhUhKyYptY8j8S--
+Response Headersview source
+Cache-Control:private
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:text/html;charset=UTF-8
+Date:Sat, 12 Jul 2014 09:56:47 GMT
+Server:nginx/1.4.7
+Set-Cookie:JSESSIONID=FEAC9AD6796661697AFCD8D9220998AB; Path=/; HttpOnly
+Set-Cookie:post_uuid=b83bc71e-a844-4cf9-8c28-90b106758164; Expires=Tue, 15-Jul-2014 09:56:47 GMT; Path=/
+Set-Cookie:postedinfo1=18580352977798; Domain=.58.com; Expires=Sat, 12-Jul-2014 10:01:47 GMT; Path=/
+Transfer-Encoding:chunked
+Vary:Accept-Encoding

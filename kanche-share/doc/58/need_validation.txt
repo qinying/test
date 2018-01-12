@@ -1,0 +1,10 @@
+<script type="text/javascript">
+document.domain='58.com';
+						if(parent.showvalidcode())
+			parent.$.c.Error.setErrorTip('请填写验证码','tipDiv');
+		else
+			parent.$.c.Error.setErrorTip('请输入正确的验证码','tipDiv');
+												parent.clearform();
+parent.clearPassportTimeout();
+parent.$.formValidator.subfalse('submitForm', 'btnSubmit', '登录');
+</script>

@@ -1,0 +1,194 @@
+Remote Address:127.0.0.1:1080
+Request URL:http://www.ganji.com/pub/pub.php?act=pub&cid=6&mcid=14&method=submit&domain=bj
+Request Method:POST
+Status Code:302 Moved Temporarily
+Request Headersview source
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Cache-Control:max-age=0
+Connection:keep-alive
+Content-Length:4925
+Content-Type:multipart/form-data; boundary=----WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Cookie:ganji_uuid=9885925842447516756744; _gl_tracker=%7B%22sid%22%3A68415628628%7D; citydomain=bj; GANJISESSID=c1824443da378ab5841e9e1f9ff5b6d8; supercookie=ZmDlAmL5AmRmWTEuA2D5AmDlMJWwL2SvMwOwMzMxZwD4ZJV3LmuwZwN3A2Z4Z2DkZGV%3D; NTKF_CACHE_DATA=%7B%22uid%22%3Anull%2C%22tid%22%3Anull%2C%22fid%22%3A%221409301077293831%22%2C%22d%22%3A%7B%7D%7D; sscode=XA4uoeZUfGZ1ExwOXASWtct1; GanjiEmail=being.ren%40kanche.com; GanjiUserName=kanche001; GanjiUserInfo=%7B%22user_id%22%3A342769713%2C%22email%22%3A%22being.ren%40kanche.com%22%2C%22username%22%3A%22kanche001%22%2C%22user_name%22%3A%22kanche001%22%2C%22nickname%22%3A%22%5Cu8bb8%5Cu5148%5Cu751f%22%7D; bizs=%5B7%5D; last_name=kanche001; LastLoginTime=114-9-10; NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%5D%2C%22t%22%3A%2200%3A49%3A11%22%7D; __utma=32156897.965893879.1409300799.1410281324.1410287170.3; __utmb=32156897.2.10.1410287170; __utmc=32156897; __utmz=32156897.1409300799.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Host:www.ganji.com
+Origin:http://www.ganji.com
+Referer:http://www.ganji.com/pub/pub.php?act=pub&method=load&cid=6&mcid=14&domain=bj&deal=1
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+Query String Parametersview sourceview URL encoded
+act:pub
+cid:6
+mcid:14
+method:submit
+domain:bj
+Request Payload
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="major_category_id"
+
+14
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="auto_type"
+
+0
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="autotype"
+
+0
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="beforeAudit"
+
+false
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="show_before_audit"
+
+0
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="show_before_audit_reason"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="origin"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="deal_type"
+
+1
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="minor_category"
+
+大众
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="minorCategory"
+
+1207,dazhong,大众
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="tag"
+
+2814,jiakechong,甲壳虫
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="car"
+
+29778
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="user_defined_category"
+
+2009款  2.0L 自动 顶配敞篷版
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="car_color"
+
+6
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="gearbox"
+
+2
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="air_displacement"
+
+2.0
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="accidents"
+
+1
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="license_date"
+
+2012
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="license_year"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="license_math"
+
+3
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="insurance_year_add"
+
+2018
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="insurance_month_add"
+
+3
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="strong_insurance_year"
+
+2018
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="strong_insurance_month"
+
+3
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="road_haul"
+
+3
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="price"
+
+23
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="images"
+
+[[{"image":"gjfs08/M0B/1B/10/wKhz9VQPSJ,xVw,mAADiQKO-bTo810.jpg","thumb_image":"gjfs08/M0B/1B/10/wKhz9VQPSJ,xVw,mAADiQKO-bTo810_80-80c_6-0.jpg","width":800,"height":600,"id":"guid_1_14102877724660_9186801575124264","is_new":true},{"image":"gjfs08/M05/1B/1A/wKhz9lQPSffBpxz,AAEU56taMHY384.jpg","thumb_image":"gjfs08/M05/1B/1A/wKhz9lQPSffBpxz,AAEU56taMHY384_80-80c_6-0.jpg","width":800,"height":600,"id":"guid_2_14102881135530_9745428070891649","is_new":true},{"image":"gjfs08/M05/1B/19/wKhz9VQPSfiEezlTAADW147YA2g052.jpg","thumb_image":"gjfs08/M05/1B/19/wKhz9VQPSfiEezlTAADW147YA2g052_80-80c_6-0.jpg","width":800,"height":600,"id":"guid_3_14102881173770_8991331693250686","is_new":true}],[]]
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="is_video_upload"
+
+0
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="video_unique"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="title"
+
+大众甲壳虫2009款  2.0L 自动 顶配敞篷版
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="description"
+
+2009款 大众甲壳虫敞篷版2.0-手自一体标配 【进口】
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="four_s"
+
+1
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="imageSecond"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="person"
+
+王先生
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="agent"
+
+2
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="phone"
+
+13811927333
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="back_phone"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="district_id"
+
+179
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="checkcode"
+
+
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA
+Content-Disposition: form-data; name="id"
+
+0
+------WebKitFormBoundary2aKB3cnP3bfZ6SjA--
+Response Headersview source
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection:keep-alive
+Content-Type:text/html
+Date:Tue, 09 Sep 2014 18:42:52 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+Location:http://bj.ganji.com/common/success.php?id=5077560&title=%E5%A4%A7%E4%BC%97%E7%94%B2%E5%A3%B3%E8%99%AB2009%E6%AC%BE++2.0L+%E8%87%AA%E5%8A%A8+%E9%A1%B6%E9%85%8D%E6%95%9E%E7%AF%B7%E7%89%88&category=vehicle&type=1&district_id=6&bang=1
+Server:nginx
+Transfer-Encoding:chunked

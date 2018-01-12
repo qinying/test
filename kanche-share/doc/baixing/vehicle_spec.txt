@@ -1,0 +1,30 @@
+
+--Request Headers--
+POST /autocomplete/ajax HTTP/1.1
+Host: beijing.baixing.com
+Connection: keep-alive
+Content-Length: 125
+Accept: */*
+Origin: http://beijing.baixing.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://beijing.baixing.com/fabu/ershouqiche/?
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Cookie: __trackId=140851835492123; __city=beijing; __ascc=1408518508; _ga=GA1.2.326963059.1408518354; __uuid=114084171399475.b5bef
+Form Data:
+params:车品牌,大众;
+goal:车系列
+cityId:m28
+categoryId:ershouqiche
+
+--Response--
+[大众宝来, 大众宝来hs, 大众宝来经典]
+
+params:车系列,大众桑塔纳志俊;
+goal:车号
+cityId:m28
+categoryId:ershouqiche
+
+[大众桑塔纳志俊 2008款 1.8l 手动 休闲型, 大众桑塔纳志俊 2008款 2.0l 手动 豪华型]

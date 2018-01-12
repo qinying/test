@@ -1,0 +1,7 @@
+GET http://passport.58.com/validatecode
+Referer: http://passport.58.com/login/
+
+
+return:
+
+Set-Cookie: PassportVerifyCode=PassPort58-8ef76b36-342f-4c11-b4bf-627e8523d5b2; Domain=passport.58.com; Path=/

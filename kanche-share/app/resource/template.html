@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>二手车检测报告</title>
+</head>
+<body style="width:1000px;margin:0 auto;background-color:#fff;">
+<h1 style="text-align:center;">二手车检测报告</h1>
+<div style="text-align:center">
+    <span style="float:left;margin-left:20px">NO. {{number}}</span>
+    <span style="text-align:center">检测日期：{{date}}</span>
+</div>
+<div>
+    <h3 style="margin-left:20px">一：车辆基本情况</h3>
+</div>
+<div style="padding: 0 20px;height:100%;margin:0 auto;display:flex;border:1px solid #ddd;padding-right:0px;margin:0 20px;">
+    <div style="float:left;border-right:1px solid #ddd;">
+        <p style="margin: 20px;margin-top: 30px;">品牌型号：{{brand}}</p>
+        <p style="margin: 20px;">号牌号码：{{licenseNumber}}</p>
+        <p style="margin: 20px;">车辆类型：{{vehicleType}}</p>
+        <p style="margin: 20px;">注册登记日期：{{registerDate}}</p>
+        <p style="margin: 20px;">表显里程（万公里）：{{mileAge}}</p>
+        <p style="margin: 20px;">颜色：{{color}}</p>
+        <p style="margin: 20px;">车辆识别码：{{vin}}</p>
+        <p style="margin: 20px;">使用性质：{{vehicleUsage}}</p>
+    </div>
+    <div style="float:left;height:100%;">
+        <img src= "{{picture}}"   style="margin:10px;float:right;height:320px;" alt=""/>
+    </div>
+</div>
+<div style='padding: 0 20px;height:100%;margin:0 auto;display: flex;margin-top:30px'>
+    <table style="width:100%">
+        <tr>
+            <td>序号</td>
+            <td colspan="2">行驶证与车辆核实情况</td>
+            <td>其他说明</td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>核实证件有效期</td>
+            <td><input type="checkbox" checked="true" >有效期内<input type="checkbox">不在效期</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>核实证件与车辆识别代码、发动机号码一致性</td>
+            <td><input type="checkbox" checked="true" >一致<input type="checkbox">不一致</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>证件品牌型号与车辆车型标志一致性</td>
+            <td><input type="checkbox" checked="true" >一致<input type="checkbox">不一致</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>ABC柱有无损伤</td>
+            <td><input type="checkbox">有<input type="checkbox" checked="true" >无</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>横竖梁有无修复痕迹</td>
+            <td><input type="checkbox">有<input type="checkbox" checked="true" >无</td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+<div>
+    <h3 style="margin-left:20px;margin-top:30px">二：事故排查结果</h3>
+</div>
+<div style="padding: 0 20px;height:100%;margin:0 auto;display: flex;">
+    <table style="width:100%;">
+        <tr>
+            <td><input type="checkbox"  checked="true" />非泡水车</td>
+            <td><input type="checkbox"  checked="true" />非火烧车</td>
+            <td><input type="checkbox"  checked="true" />安全系统良好</td>
+            <td><input type="checkbox" checked="true" />电子设备良好</td>
+        </tr>
+        <tr>
+            <td><input type="checkbox" checked="true" />刹车系统良好</td>
+            <td><input type="checkbox" checked="true" />无烧油漏油</td>
+            <td><input type="checkbox" checked="true" />动态检测系统无异响</td>
+            <td><input type="checkbox" checked="true" />无重大撞击</td>
+        </tr>
+        <tr>
+            <td>外观描述</td>
+            <td colspan="3">无补漆，整体无事故</td>
+        </tr>
+    </table>
+</div>
+<div>
+    <h3 style="margin-left:20px;margin-top:30px">三：检测结论</h3>
+</div>
+<div  style="padding: 0 20px;height:100%;margin:0 auto;display: flex;">
+    <table style="width:100%;margin-bottom:30px;">
+        <tr>
+            <td> 车身描述</td>
+            <td>良好</td>
+        </tr>
+        <tr>
+            <td>发动机描述</td>
+            <td>发动机工作良好</td>
+        </tr>
+        <tr>
+            <td>底盘概述</td>
+            <td>底盘良好</td>
+        </tr>
+        <tr>
+            <td>电子系统概述</td>
+            <td>电子系统工作良好</td>
+        </tr>
+        <tr>
+            <td>综合评价</td>
+            <td>
+                <input type="checkbox" name="" id="" checked="true" > 成色极新
+                <input type="checkbox" name="" id=""> 成色较新
+                <input type="checkbox" name="" id=""> 成色一般
+            </td>
+        </tr>
+    </table>
+</div>
+<style>
+    table{
+    width:100%;
+    border-collapse:collapse;
+    }
+    td{
+    border: 1px solid #ddd;
+    padding: 3px;
+    }
+    h1{
+
+    }
+</style>
+</body>
+</html>

@@ -1,0 +1,4 @@
+CDN0616C0034
+Exception: 'vendor'
+['Traceback (most recent call last):\n', '  File "./sharer.py", line 46, in send_req\n    (code, msg) = sharer.shareVehicle(req)\n', '  File "/var/ubuntu/workspace/python/kkche-share/che168.py", line 193, in shareVehicle\n    title = specDetail[\'vendor\'] + specDetail[\'model\']\n', "KeyError: 'vendor'\n"]
+

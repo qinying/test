@@ -1,0 +1,3 @@
+<iframe width="100%" height="600px" frameborder="0" src="http://post.58.com/v1/29/s5/" id="postFrame" scrolling="no" onload="dyniframesize(this)" style="height: 2391px;"></iframe>
+
+<script type="text/javascript">document.domain='58.com'; parent.$.bll.simple.vip_postsuccess({ "infoid":"18719792589065", "typeid":"1", "jz_key":"94770897198151406248379769","infostate":"1", "url":"http://fang.vip.58.com/postreceiver?infoid=18719792589065&type=1", "carprice":"0.0" })</script>

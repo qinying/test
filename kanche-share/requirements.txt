@@ -1,0 +1,12 @@
+procname
+lxml
+Pillow
+dt8601
+cookies
+web.py
+simpleJson
+mongoengine
+img_rotate
+pymongo==2.7
+suds
+GitPython

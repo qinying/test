@@ -1,0 +1,41 @@
+Remote Address:61.240.134.26:80
+Request URL:http://dealer.che168.com/Handler/SaleMan/SaveSalesManInfo.ashx?action=Update&type=1&salesId=73123
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Connection:keep-alive
+Content-Length:136
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:sessionid=a09f00f6-83c4-4ab3-87b6-ba31ae990239; DealerCheckCode=7A67551702AD6532; 2scDealerInfo=A15C38FAE4175C438F9C97D29A69795EDF15974A1C18494855057652F5A58CEBA7CC9864129B33D82013B2241A3671D00D7133396A5C507FF8C6A0AABD0234CE; 2scDealerName=%e5%8c%97%e4%ba%ac%e5%b8%85%e8%bd%a6%e4%ba%8c%e6%89%8b%e8%bd%a6; 2scDealerId=98027; sessionvisit=62d0ddb2-2af1-43d3-bb3a-b11af601e0cb; sessionip=106.186.20.9; area=999999; __utma=209014663.1503156567.1402280702.1402280702.1402389826.2; __utmb=209014663.22.10.1402389826; __utmc=209014663; __utmz=209014663.1402280702.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Host:dealer.che168.com
+Origin:http://dealer.che168.com
+Referer:http://dealer.che168.com/saleman/detail/?type=1&salesid=73123
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Query String Parametersview sourceview URL encoded
+action:Update
+type:1
+salesId:73123
+Form Dataview sourceview URL encoded
+Name:(unable to decode value)
+Mobile:18801316834
+QQ:
+Weixin:
+Job:1
+hid:
+OldPhotoName:/2014/5/6/5070412722110402635.jpg
+NewPhotoFileName:
+Response Headersview source
+Cache-Control:no-cache
+Content-Length:74
+Content-Type:text/html; charset=gb2312
+Date:Tue, 10 Jun 2014 08:51:10 GMT
+Expires:-1
+Powered-By-ChinaCache:MISS from 10002113w2
+Powered-By-ChinaCache:MISS from 060320a3SF
+Pragma:no-cache
+s:15
+Server:Microsoft-IIS/7.5

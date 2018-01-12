@@ -1,0 +1,27 @@
+gotoapp 200
+#Response Header
+
+Cache-Control	private
+Content-Encoding	gzip
+Content-Length	690
+Content-Type	text/html; charset=utf-8
+Date	Sat, 23 Aug 2014 02:23:31 GMT
+Server	Microsoft-IIS/7.5
+ServerName	186
+Set-Cookie	Api.Client.Current.UserKey_59bcdcb7-1e37-4b95-9334-4e12a582156f=; domain=easypass.cn; expires=Fri, 22-Aug-2014 02:23:31 GMT; path=/ Api.Client.Current.UserSecret_59bcdcb7-1e37-4b95-9334-4e12a582156f=; domain=easypass.cn; expires=Fri, 22-Aug-2014 02:23:31 GMT; path=/ 268785=59bcdcb7-1e37-4b95-9334-4e12a582156f:afa94589-cf59-4c53-9818-e3c1ae884936{BD7980F164CD0DCAD9A49529DD2F365D}; expires=Sun, 24-Aug-2014 02:23:32 GMT; path=/
+Vary	Accept-Encoding
+X-AspNet-Version	4.0.30319
+X-Powered-By	ASP.NET-160
+p3p	CP=CAO PSA OUR
+
+#Request Header
+
+view source
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding	gzip, deflate
+Accept-Language	en-US,en;q=0.5
+Connection	keep-alive
+Cookie	currentLoginPage=/IMS/Login.aspx; isAuto=False; 268785=59bcdcb7-1e37-4b95-9334-4e12a582156f:a59c44de-7768-4b69-92cf-65ba2e015f28{BCC78AA0BA5059759E13F1AB2BFF0164}; ASP.NET_SessionId=tsehebnbqlyww3jvqplevlit; EasySystem=8A602CC3C0D4C7FD6C5E75B9D4FAAD4FDC011BEE926D2158C4D1A5EC0569FBCC145CBAC41DCC3E63F48EA23C5F179DD6CB520F4578653E5667EB6597E839225E2F81184FA3610C24A766A9AB10A598D26046A8A83AD2F026AA0F4D0A5A9AB807EAC214B8D8C7B2272F429B583D939E8A93916A97; loginKey=72635792E1F007A2904ED7A1856E0BB6; loginName=100060074@tc; newLoginName=268785
+Host	dealer.easypass.cn
+Referer	http://dealer.taoche.com/
+User-Agent	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0

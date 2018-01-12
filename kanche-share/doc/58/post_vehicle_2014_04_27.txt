@@ -1,0 +1,382 @@
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="vin"
+
+LDC912W3150144184
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="zimu"
+
+408784
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="brand"
+
+410181
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="chexi"
+
+517822
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="ObjectType"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="carchexing"
+
+517831
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="displacement"
+
+409644
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="gearbox"
+
+408822
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="kucheid"
+
+517832
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shangshishijian"
+
+515743
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="yczb_cheling"
+
+524250
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="yczb_licheng"
+
+524251
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="madein"
+
+408852
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="chexibieming"
+
+517823
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="erscpinpai"
+
+标致308
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="rundistanceqj"
+
+3_5
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="chelingqj"
+
+2011_2013
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="buytime"
+
+2013
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shangpaiyuefen"
+
+515683
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="buyfrom"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="baoyang"
+
+515673
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="yunying"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shiguqk"
+
+515713
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="chengse"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="neishi"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="syxian"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shouxu"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="cheshenyanse"
+
+3
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="pic"
+
+/p1/big/n_t0ea4c35e84502800f3575.jpg|/p1/big/n_t0ea4c3a1545f5800f3571.jpg|/p1/big/n_t0ea4c3ae94630800f356e.jpg|/p1/big/n_t0ea4c3b344640800f355d.jpg|/p1/big/n_t0ea4c3c344682800f355c.jpg|/p1/big/n_t0ea4c3d9746d5800f355a.jpg|/p1/big/n_t0ea4c3d1d46b6800f356a.jpg|/p1/big/n_t0ea4c367f4530800f3574.jpg|/p1/big/n_t0ea4c414e47d1800f3563.jpg|/p1/big/n_t0ea4c443c4891800f355f.jpg|/p1/big/n_t0ea4c3f1f4746800f355c.jpg|/p1/big/n_t0ea4c43ad4876800f355c.jpg|/p1/big/n_t0ea4c40ef47bf800f3558.jpg|/p1/big/n_t0ea4c444d4895800f355d.jpg|/p1/big/n_t0ea4c424c481e800f3568.jpg|/p1/big/n_t0ea4c40344790800f356e.jpg
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="pictag"
+
+左前|||||||||||||||
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc1"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc2"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc3"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc4"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc5"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc6"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc7"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc8"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc9"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc10"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc11"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc12"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc13"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc14"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc15"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="picdesc16"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="imageLoad"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="rundistance"
+
+4.5
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="MinPrice"
+
+4.3
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="installment"
+
+678611
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="MinPriceqj"
+
+40_999999
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="Title"
+
+标致308 2012款 1.6 手自一体 风尚型-车很新,没有事故。
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="Content"
+
+<p><span id="comp-paste-div-9019"><u>     车易得值心二手车连锁大卖场</u>团队以透明、专业、品质、价值为经营准则，以全流程服务为经营宗旨，让客户买到<b>称心如意</b>的值“心”好车。<br>     车易得每台车都免费提供180天/10000公里动力双选和180天/10000公里、360天/20000公里的选择性全面延期质保 ！！！！！车辆信息公开，保证不售事故车、泡水车、过火车，不调里程表，七天无理由退换(外迁车除外)，质保车辆享受两年\五万公里的保值回购；购车支持贷款最低首付支持百分之二十支付、24小时维修救援等服务。<br>     网上电话预约客户还可享受购车送精美实用礼品等专享优惠活动。 详细活动信息请登录车易得值“心”好车官网www.cheyide.com.cn,或致电4006221039 18810396708 18810396718<br>望京店：北京市朝阳区阜荣街10号新一城沃尔玛购物中心地下2层<br>大兴店地址：北京市大兴区西红门鸿坤广场B2层（近4号线西红门站，西红门桥向西500米）<br>德州店：德州市开发区中敖大道汇一汽贸综合园车易得值新二手车连锁大卖场</span><br></p>
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="mfghProxy"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="qtktProxy"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="goblianxiren"
+
+车易得客服
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="Phone"
+
+4006221039
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="IM"
+
+2281233455
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="qitadianhua"
+
+18810396718
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="caraddress"
+
+北京市朝阳区阜荣街10号新一城沃尔玛购物中心地下2层
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="cylb"
+
+525376
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="type"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="cspailiang"
+
+1.6
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="biansuqi"
+
+自动
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shigumiaoshu"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="cjshijian"
+
+2015|3
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="qxshijian"
+
+2015|4
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="syshijian"
+
+2015|5
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="xinxibianhao"
+
+9BDK9R
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="yczbpic"
+
+http://pic.58.com/p1/big/n_t0ea4c7799545c800f3569.jpg
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="yczhibao"
+
+525379
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="xbsx"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="qtkt"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="mianfeiguohu"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shangpainianyue"
+
+201303
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="cateapplyed"
+
+29
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="localapplyed"
+
+1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shifoufufeifabu"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="shifouyishou"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="escwltv2"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="paifangbiaozhun"
+
+403
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="wanglintongbieming"
+
+北京车易得旧机动车经纪有限公司
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="car_promotion"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="vinstate"
+
+678609
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="postparam_userid"
+
+19431158925830
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="hidPostParam"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="qqtalk"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="iqas_mcresult"
+
+0010822451824111615806810121
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="cube_post_jsonkey"
+
+
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="HiddenForPara"
+
+5863:zimu|5866:brand|5867:chexi|2539:ObjectType|5868:carchexing|5871:displacement|5872:gearbox|5880:kucheid|6809:shangshishijian|7068:yczb_cheling|7069:yczb_licheng|5870:madein|6808:chexibieming|5865:rundistanceqj|5883:chelingqj|1196:buytime|6860:shangpaiyuefen|6852:buyfrom|6855:baoyang|6853:yunying|4922:shiguqk|6856:chengse|6857:neishi|6866:neishiquexian|6869:syxian|6859:shouxu|4917:cheshenyanse|5864:MinPriceqj
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="gobquzhi"
+
+zimu=B&brand=%E6%A0%87%E8%87%B4&chexi=308&objecttype=%E8%BD%BF%E8%BD%A6&carchexing=2012%E6%AC%BE%201.6%20%E6%89%8B%E8%87%AA%E4%B8%80%E4%BD%93%20%E9%A3%8E%E5%B0%9A%E5%9E%8B&displacement=1.6&gearbox=%E8%87%AA%E5%8A%A8&kucheid=286064&shangshishijian=2011&yczb_cheling=2&yczb_licheng=6&madein=%E5%90%88%E8%B5%84&chexibieming=%E6%A0%87%E8%87%B4308&rundistanceqj=3-5%E4%B8%87%E5%85%AC%E9%87%8C&chelingqj=1-3%E5%B9%B4&buytime=2013%E5%B9%B4&shangpaiyuefen=3%E6%9C%88&baoyang=%E6%98%AF&shiguqk=%E6%97%A0&cheshenyanse=%E9%93%B6%E8%89%B2&minpriceqj=40%E4%B8%87%E4%BB%A5%E4%B8%8A&cateapplyed=29&localapplyed=1
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="gobalsokey"
+
+B|308|2012款 1.6 手自一体 风尚型|1.6|自动|286064|2011|2|6|合资|标致308|3-5万公里|2013年|3月|是|银色|4.5万元|4.3万元
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="fcookie"
+
+1ad71e01-66d3-49e2-b2b0-ff95213e25cc
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="hiddenTextBoxJoinValue"
+
+LDC912W3150144184:标致:2012款 1.6 手自一体 风尚型:标致308 2012款 1.6 手自一体 风尚型:车很新,没有事故。:车易得客服:18810396718:北京市朝阳区阜荣街10号新一城沃尔玛购物中心地下2层
+------WebKitFormBoundary7GST3BgBjyKp9T7R
+Content-Disposition: form-data; name="xiaobao_option"
+
+0
+------WebKitFormBoundary7GST3BgBjyKp9T7R--

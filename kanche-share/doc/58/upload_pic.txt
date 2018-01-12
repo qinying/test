@@ -1,0 +1,33 @@
+http://pic.kuche.com/postpic/upload?flash=1
+
+
+把图片宽度压缩到640再传
+
+Content-length	25952
+Content-type	application/octet-stream
+File-Extensions	jpg
+Pic-Bulk	0
+Pic-Cut	0*0*0*0
+Pic-IsAddWaterPic	True
+Pic-Path	/p1/big/
+Pic-Size	640*640
+Pic-dpi	0
+pic-name	/p1/tiny/
+
+
+返回头：
+Connection	keep-alive
+Content-Length	27
+Content-Type	text/html
+Date	Tue, 08 Jul 2014 17:28:25 GMT
+Last-Modified	Tue, 08 Jul 2014 17:28:24 GMT
+Server	nginx/1.4.7
+Status	0
+
+返回：
+n_s12335789955926481066.jpg
+
+图片地址：
+http://pic.58.com/p1/tiny/n_s12335789955926481066.jpg
+http://pic.58.com/p1/big/n_s12335789955926481066.jpg
+http://pic.58.com/p1/big/n_s12338150700384937023.jpg

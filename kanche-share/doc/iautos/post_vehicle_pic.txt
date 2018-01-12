@@ -1,0 +1,82 @@
+
+--Request Headers--
+
+POST /shopadmin/uploadimg/simple/ HTTP/1.1
+
+Host: www.iautos.cn
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0 FirePHP/0.7.4
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Cookie: NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%7B%2217291%22%3A824604%7D%5D%2C%22t%22%3A%2211%3A21%3A00%22%7D; PHPSESSID=qis1guthnt4kd4k7kalifc2qr1; earea=beijing; TopDefaultArea=%25u5317%25u4EAC; ipearea=beijing; username=%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; userinfo=0; itoken=300bed172a91293edf1a4dc3147f5c4f; NTKF_CACHE_DATA=%7B%22uid%22%3A%22kf_9871_ISME9754_guestA72D5963-4A21-7F%22%2C%22tid%22%3A%221409281917688741%22%2C%22fid%22%3A%221409281917686536%22%2C%22d%22%3A%7B%7D%7D; NTKF_T2D_CLIENTID=guestA72D5963-4A21-7F46-5665-6C662C1FF112
+x-insight: activate
+Connection: keep-alive
+Content-Length	113309
+Content-Type	multipart/form-data; boundary=lvvefrkpjcadrhcespacjbdumauistsq
+
+
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="btnUrl" http://www.iautos.cn/static2013/images/shopadmin/car_photo_hover.jpg
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="maxSize" 8388608
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="photoCount" 20
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="is_add_watermark" 0
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="shopid" 0
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="userid" 114841
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="brand_id" 0
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="DropSelect" 1
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="uploadurl" /shopadmin/uploadimg/simple/
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="Filename" a1163761-6f41-4777-b88b-81541ad1cb7e.jpg
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="flashId" flash1
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="cid" 1
+--aeqiwupihwwntuijwvnandioytcureiv Content-Disposition: form-data; name="Filedata"; filename="a1163761-6f41-4777-b88b-81541ad1cb7e.jpg" Content-Type: application/octet-stream ÿØÿà�JFIF��..........
+--aeqiwupihwwntuijwvnandioytcureiv--
+
+
+
+
+解析为:
+btnUrl	http://www.iautos.cn/static2013/images/shopadmin/car_photo_hover.jpg
+maxSize	8388608
+photoCount	20
+is_add_watermark	0
+shopid	0
+userid	114841
+brand_id	0
+DropSelect	1
+uploadurl	/shopadmin/uploadimg/simple/
+Filename	a1163761-6f41-4777-b88b-81541ad1cb7e.jpg
+flashId	flash1
+cid	1
+Filedata	ÿØÿà�
+
+
+
+
+--Response Headers--
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+Content-Length: 176
+Accept-Ranges: bytes
+Date: Thu, 21 Aug 2014 10:34:52 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown
+
+
+{
+  "url": "http:\/\/photo.iautos.cn\/carupload\/photo\/2014\/0829\/11\/20140829112227506158.jpg",
+  "pic": "20140829112227506158.jpg",
+  "extension": "jpg",
+  "mime": "image\/jpeg",
+  "size": 34128,
+  "hash": "ae6012d93e5ee083ddcd334f407c70376ac49179"
+}
+

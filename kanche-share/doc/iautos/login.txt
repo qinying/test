@@ -1,0 +1,123 @@
+
+--Request Headers--
+
+GET /user/login/ HTTP/1.1
+Host: www.iautos.cn
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+DNT: 1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+
+--Response Headers--
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Vary: Accept-Encoding
+Set-Cookie: earea=beijing; expires=Fri, 19-Sep-2014 09:00:24 GMT; path=/; domain=iautos.cn
+Set-Cookie: TopDefaultArea=%25u5317%25u4EAC; expires=Fri, 19-Sep-2014 09:00:24 GMT; path=/; domain=iautos.cn
+Set-Cookie: ipearea=beijing; expires=Fri, 19-Sep-2014 09:00:24 GMT; path=/; domain=iautos.cn
+Set-Cookie: PHPSESSID=sn6k6sdfni3fb71l11d5kl9of1; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: username=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: userinfo=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; httponly
+Set-Cookie: itoken=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; httponly
+Set-Cookie: username=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=iautos.cn
+Set-Cookie: userinfo=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=iautos.cn; httponly
+Set-Cookie: itoken=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=iautos.cn; httponly
+Set-Cookie: username=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=iautos.cn
+Content-Encoding: gzip
+Content-Length: 2712
+Accept-Ranges: bytes
+Date: Wed, 20 Aug 2014 09:00:23 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown
+
+
+
+--Request Headers--
+
+POST /user/login/ HTTP/1.1
+Host: www.iautos.cn
+Connection: keep-alive
+Content-Length: 126
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://www.iautos.cn
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+DNT: 1
+Referer: http://www.iautos.cn/user/login/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: earea=beijing; TopDefaultArea=%25u5317%25u4EAC; ipearea=beijing; PHPSESSID=fnq2f474qkn6fi75co35kldq81
+
+username=%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&password=168168&validatecode=7qas&btnSubmit=%E7%99%BB%E5%BD%95&backurl=
+
+
+--Response Headers--
+（商户账户）
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: username=%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; path=/
+Set-Cookie: userinfo=0; path=/; httponly
+Set-Cookie: itoken=300bed172a91293edf1a4dc3147f5c4f; path=/; httponly
+Location: http://www.iautos.cn/shopadmin/default/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 20 Aug 2014 08:52:32 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown
+（个人账户）
+Location: http://www.iautos.cn/home/user/
+
+
+
+
+
+--Request Headers--
+
+GET /shopadmin/default/ HTTP/1.1
+Host: www.iautos.cn
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+DNT: 1
+Referer: http://www.iautos.cn/user/login/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: earea=beijing; TopDefaultArea=%25u5317%25u4EAC; ipearea=beijing; PHPSESSID=fnq2f474qkn6fi75co35kldq81; username=%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; userinfo=0; itoken=300bed172a91293edf1a4dc3147f5c4f
+
+
+--Response Headers--
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+Content-Length: 3794
+Accept-Ranges: bytes
+Date: Wed, 20 Aug 2014 08:52:33 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown

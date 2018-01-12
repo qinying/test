@@ -1,0 +1,163 @@
+name="__VIEWSTATE" /dfadfadfasdf
+
+name="__SCROLLPOSITIONX" 0 
+
+name="__SCROLLPOSITIONY" 2237 
+
+name="__EVENTTARGET" ctl00$ContentPlaceHolder1$btnSubmit 
+
+name="__EVENTARGUMENT" 
+
+name="setTime" 55 
+
+name="ctl00$ContentPlaceHolder1$txtVinCode" 
+
+name="ctl00$ContentPlaceHolder1$hidVinCode" 
+
+name="ctl00$ContentPlaceHolder1$txtCarTitle" 
+
+name="ctl00$ContentPlaceHolder1$hidSelfCarId" 0 
+
+name="ctl00$ContentPlaceHolder1$hidMainBrandId" 3 
+
+name="ctl00$ContentPlaceHolder1$hidSerialId" 2032 
+
+name="ctl00$ContentPlaceHolder1$hidCarId" 11414 
+
+name="ctl00$ContentPlaceHolder1$hidMainBrandName" 宝马 
+
+name="ctl00$ContentPlaceHolder1$hidSerialName" 宝马X5(进口) 
+
+name="ctl00$ContentPlaceHolder1$hidCarName" 11款 xDrive35i 尊贵型 
+
+name="ctl00$ContentPlaceHolder1$hidMainBrandGroup" B 
+
+name="ctl00$ContentPlaceHolder1$hidSerialGroup" 宝马 
+
+name="ctl00$ContentPlaceHolder1$hidCarGroup" 2011 款 
+
+name="ctl00$ContentPlaceHolder1$hidEditOrAdd" 1 
+
+name="ctl00$ContentPlaceHolder1$hidBasicSetCarId" 
+
+name="ctl00$ContentPlaceHolder1$hidBasicSets" 
+
+name="ctl00$ContentPlaceHolder1$selExhaustValue" -1 
+
+name="ctl00$ContentPlaceHolder1$txtEvalue" 
+
+name="inputGearBox" 自动 
+
+name="basicSet" 1 
+
+name="basicSet" 2 
+
+name="basicSet" 3 
+
+name="basicSet" 4 
+
+name="basicSet" 5 
+
+name="basicSet" 6 
+
+name="basicSet" 7 
+
+name="basicSet" 8 
+
+name="basicSet" 9 
+
+name="basicSet" 10 
+
+name="basicSet" 11 
+
+name="basicSet" 12 
+
+name="basicSet" 13 
+
+name="ctl00$ContentPlaceHolder1$hidStandardCarTypeConfig" 111111111111100000 
+
+name="ctl00$ContentPlaceHolder1$txtSelfConfig" 最多可输入3个配置，逗号隔开 
+
+name="ctl00$ContentPlaceHolder1$hidColor" 咖啡色 
+
+name="innerColor" 深 
+
+name="ctl00$ContentPlaceHolder1$hidInnerColor" 深 
+
+name="isLicensed" 1 
+
+name="ctl00$ContentPlaceHolder1$hidIsLicensed" 1 
+
+name="ctl00$ContentPlaceHolder1$txtLicenseCity" 北京 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseProviceId" 2 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseCityId" 201 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseProviceName" 北京 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseCityName" 北京 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseProviceIndex" 0.06451612903225806 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseCityIndex" 1 
+
+name="ctl00$ContentPlaceHolder1$hidLicenseBakProviceId" 2 
+
+name="ctl00$ContentPlaceHolder1$txtDrivingMileage" 12 
+
+name="ctl00$ContentPlaceHolder1$hidBuyCarDate" 2012-1-1 
+
+name="ctl00$ContentPlaceHolder1$hidExamineExpireDate" 2016-1-1 
+
+name="ctl00$ContentPlaceHolder1$hidInsuranceExpireDate" 2016-1-1 
+
+name="isCards" 1 
+
+name="ctl00$ContentPlaceHolder1$hidIsCards" 1 
+
+name="ctl00$ContentPlaceHolder1$hidImageJson" [{"PictureDesc": "", "PicturePath": "02140lvrdk.jpg", "UppId": "1","Md5":"5a3d3c5fb20a0e7c6b81b11849284b7b"},{"PictureDesc": "", "PicturePath": "02140lvre2.jpg", "UppId": "2","Md5":"116cb16b29f3980572a95b0a3162b669"},{"PictureDesc": "", "PicturePath": "02140lvre8.jpg", "UppId": "3","Md5":"06fc643e11fb56f0c02aaf2933d66040"},{"PictureDesc": "", "PicturePath": "02140lvreg.jpg", "UppId": "4","Md5":"49ee103956e7cbad9333f924eded609d"}] 
+
+name="ctl00$ContentPlaceHolder1$hidDriveLicensePic" 
+
+name="ctl00$ContentPlaceHolder1$hidvideojson" {"videoid":"0"} 
+
+name="ctl00$ContentPlaceHolder1$hiduploadedVideoid" 0 
+
+name="ctl00$ContentPlaceHolder1$hiduploadingVideoid" 
+
+name="carType" 0 
+
+name="ctl00$ContentPlaceHolder1$hidCarType" 0 
+
+name="maintainRecord" 2 
+
+name="ctl00$ContentPlaceHolder1$hidMaintainRecord" 2 
+
+name="ctl00$ContentPlaceHolder1$txtZBMonth" 
+
+name="ctl00$ContentPlaceHolder1$txtZBMileage" 
+
+name="ctl00$ContentPlaceHolder1$hidTransferAgent" 
+
+name="ctl00$ContentPlaceHolder1$txtStateDescription" 此车外形优雅时尚内饰豪华精致，配置丰富动力强劲，操控精准舒适，整体车况一流外观内饰非常新，发动机保养到位变速箱换挡顺畅，支持检测， 天窗，一键启动，换挡拨片，巡航定速，真皮多功能方向盘，方向盘电动调节，真皮电动座椅带电加热，座椅记忆，GPS导航，BOSE音响，多碟CD，蓝牙电话，倒车雷达，倒车影像，自动恒温空调，电动折叠后视镜，自动氙气大灯，感应雨刷，大灯清洗等等 
+
+name="ctl00$ContentPlaceHolder1$txtDisplayPrice" 65 
+
+name="ctl00$ContentPlaceHolder1$txtLowestPrice" 
+
+name="ctl00$ContentPlaceHolder1$ddlLinkman" 292397 
+
+name="ctl00$ContentPlaceHolder1$hidDvlId" 292397 
+
+name="ctl00$ContentPlaceHolder1$ddlLinkman2" 292397 
+
+name="ctl00$ContentPlaceHolder1$hidDvlId2" 292397 
+
+name="ctl00$ContentPlaceHolder1$hidHasSecondLinkman" 0 
+
+name="ctl00$ContentPlaceHolder1$hiddealerservice" 0000000 
+
+name="ctl00$ContentPlaceHolder1$hidDraftId" 
+
+name="ctl00$ContentPlaceHolder1$hidapplayservice" 1,2,3,4,5,6,7, -----------------------------1110252971536274814181932439-- 

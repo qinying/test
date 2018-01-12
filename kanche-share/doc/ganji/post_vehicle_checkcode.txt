@@ -1,0 +1,57 @@
+GET http://www.ganji.com/pub/pub.php?act=pub&method=load&cid=6&mcid=14&domain=bj&deal=1
+pub/pub.php?act=pub&method=load&cid=6&mcid=14&domain=bj&deal=1#
+如果存在如下的html片段
+<tr id="showcode" style="display:;">
+<td>
+<td>验证码</td>
+<td>
+<input id="checkcode_input" class="input2" maxlength="4" value="" name="checkcode" autocomplete="off">
+<img id="img_checkcode" align="absmiddle" src="/common/checkcode.php?nocache=1409301207">
+<span id="tip_span_checkcode"></span>
+<script>
+<a onclick="resetCheckcode();return false;" href="javascript:void(0);">看不清？换个验证码</a>
+</td>
+</tr>
+则需要验证码
+
+POST http://www.ganji.com/pub/pub.php?act=pub&cid=6&mcid=14&method=submit&domain=bj
+
+major_category_id	14
+auto_type	0
+autotype	0
+beforeAudit	false
+show_before_audit	0
+show_before_audit_reason
+origin
+deal_type	1
+minor_category	MINI(迷你)
+minorCategory	1284,mini,MINI(迷你)
+tag	3107,minicooper,MiniCooper
+car
+user_defined_category
+car_color	7
+gearbox	2
+air_displacement	1.6
+accidents	1
+license_date	2012
+license_year
+license_math	2
+insurance_year_add	2015
+insurance_month_add	2
+strong_insurance_year	2015
+strong_insurance_month	2
+road_haul	2
+price	22
+images	[[{"image":"gjfs09/M08/88/D8/wKhz81QAOxy6CKlJAAGjuMDCzfs915.jpg","thumb_image":"gjfs09/M08/88/D8/wKhz81QAOxy6CKlJAAGjuMDCzfs915_80-80c_6-0.jpg","width":800,"height":600,"id":"guid_1_14093012760470_2696920488911745","is_new":true},{"image":"gjfs09/M08/88/E4/wKhz81QAOyb89rdcAAG2S9eqNCc062.jpg","thumb_image":"gjfs09/M08/88/E4/wKhz81QAOyb89rdcAAG2S9eqNCc062_80-80c_6-0.jpg","width":800,"height":600,"id":"guid_2_14093012860260_7219803527474082","is_new":true}],[]]
+is_video_upload	0
+video_unique
+title	MINI(迷你)MiniCooper
+description	很新，没有任何事故，也没有任何划痕。
+four_s	1
+imageSecond
+person	老王
+agent	2
+phone	13811927333
+back_phone
+district_id	179
+checkcode	n8hs

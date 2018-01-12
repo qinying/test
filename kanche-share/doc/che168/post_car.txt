@@ -1,0 +1,66 @@
+Remote Address:221.192.135.196:80
+Request URL:http://dealer.che168.com/Handler/CarManager/SaleCar.ashx
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:text/plain, */*; q=0.01
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Connection:keep-alive
+Content-Length:520
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:sessionid=a09f00f6-83c4-4ab3-87b6-ba31ae990239; DealerCheckCode=7A67551702AD6532; 2scDealerInfo=A15C38FAE4175C438F9C97D29A69795EDF15974A1C18494855057652F5A58CEBA7CC9864129B33D82013B2241A3671D00D7133396A5C507FF8C6A0AABD0234CE; 2scDealerName=%e5%8c%97%e4%ba%ac%e5%b8%85%e8%bd%a6%e4%ba%8c%e6%89%8b%e8%bd%a6; 2scDealerId=98027; sessionip=106.186.20.9; area=999999; UsedCarBrowseHistory=2790426,; tagid=7A5B8370-EC18-6B83-4A4A-B75CAB2F44B7; __utma=209014663.1503156567.1402280702.1402280702.1402389826.2; __utmb=209014663.37.10.1402389826; __utmc=209014663; __utmz=209014663.1402280702.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); sessionvisit=12034a0b-d3fa-4ec6-81b7-2cd96e4023d7
+Host:dealer.che168.com
+Origin:http://dealer.che168.com
+Referer:http://dealer.che168.com/car/publish/?s=null&order=null
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Form Dataview parsed
+infoid=0&carname=%25E5%25A5%25A5%25E8%25BF%25AAQ3%25202014%25E6%25AC%25BE%252030%2520TFSI%2520%25E6%25A0%2587%25E5%2587%2586%25E5%259E%258B&brandid=33&seriesid=2951&specid=18971&options=3,4,5,7,11,18&displa=1.4&gearbos=%u624B%u52A8&iscontainfee=0&price=25&mileage=5&pid=110000&cid=110100&registedate=2014-2&Examine=2014-3&Insurance=2014-1&Taxtime=2015&TransferTimes=1&CarUse=1&colorcode=1&linkman=%u9500%u552E%u7ECF%u7406&linkmanid=73123&remark=aa&CertificateType=0&pictures=/2014/6/10/5192395650992015153.jpg&fromType=0
+Response Headersview source
+Cache-Control:no-cache
+Content-Length:9
+Content-Type:text/plain; charset=gb2312
+Date:Tue, 10 Jun 2014 09:30:04 GMT
+Expires:-1
+Powered-By-ChinaCache:MISS from 250769J3f2
+Powered-By-ChinaCache:MISS from 060311E3q2
+Pragma:no-cache
+s:12
+
+
+
+======
+carname=奥迪Q3 2014款 30 TFSI 标准型，utf8编码，两遍urlencode ...
+
+
+
+
+Remote Address:60.217.232.199:80
+Request URL:http://dealer.che168.com/Handler/CarManager/SaleCar.ashx
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:text/plain, */*; q=0.01
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Connection:keep-alive
+Content-Length:634
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:sessionid=a09f00f6-83c4-4ab3-87b6-ba31ae990239; tagid=7A5B8370-EC18-6B83-4A4A-B75CAB2F44B7; DealerCheckCode=864416D55768A5F5; 2scDealerInfo=D99142AA0878B5938447AB39F8FE4246991F597A864DDDB548C83CED7207A55668C077E66F3E3FD24427F5D1AEFABC34004D9DA9BD913D25DB7AF3C2D6E7B1885F7590083024B79E; 2scDealerName=%e5%8c%97%e4%ba%ac%e7%9c%8b%e7%9c%8b%e8%bd%a6%e4%ba%8c%e6%89%8b%e8%bd%a6; 2scDealerId=147591; UsedCarBrowseHistory=2834690,2781104,2793206,2790426; userarea=0; __utma=247243734.192937428.1402486071.1403145781.1404188836.9; __utmc=247243734; __utmz=247243734.1402810467.2.2.utmcsr=dealer.che168.com|utmccn=(referral)|utmcmd=referral|utmcct=/car/carlist/; sessionip=106.186.20.9; area=999999; __utma=209014663.1503156567.1402280702.1404283302.1404288973.20; __utmc=209014663; __utmz=209014663.1402280702.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Host:dealer.che168.com
+Origin:http://dealer.che168.com
+Referer:http://dealer.che168.com/car/publish/?s=1&order=0
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Form Dataview parsed
+infoid=0&carname=%25E5%25A5%25A5%25E8%25BF%25AAA4%25202008%25E6%25AC%25BE%25201.8T%2520%25E4%25B8%25AA%25E6%2580%25A7%25E9%25A3%258E%25E6%25A0%25BC%25E7%2589%2588&brandid=33&seriesid=19&specid=3623&options=3,4,5,7,10,11,12,13,17,18&displa=1.8&gearbos=%u81EA%u52A8&iscontainfee=0&price=30&mileage=2&pid=110000&cid=110100&registedate=2009-1&Examine=2015-1&Insurance=2015-1&Taxtime=2015&TransferTimes=1&CarUse=1&colorcode=1&linkman=%u9500%u552E%u4EE3%u8868&linkmanid=77789&remark=%u963F%u65B9%u4F4Df%u989Dw%u6076%u6CD5&CertificateType=0&pictures=/2014/7/2/5684793102249695720.jpg,/2014/7/2/5615321909832493424.jpg&examinepics=&fromType=0
+Response Headersview source
+Cache-Control:no-cache
+Content-Length:9
+Content-Type:text/plain; charset=gb2312
+Date:Wed, 02 Jul 2014 10:36:22 GMT
+Expires:-1
+Powered-By-ChinaCache:MISS from 060531Q35u
+Pragma:no-cache
+s:12

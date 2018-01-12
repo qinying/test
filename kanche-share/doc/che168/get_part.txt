@@ -1,0 +1,30 @@
+Remote Address:221.192.135.196:80
+Request URL:http://dealer.che168.com/Handler/CarManager/SalesCarPart.ashx?cd=gca&spid=18971
+Request Method:GET
+Status Code:200 OK
+Request Headersview source
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Connection:keep-alive
+Cookie:sessionid=a09f00f6-83c4-4ab3-87b6-ba31ae990239; DealerCheckCode=7A67551702AD6532; 2scDealerInfo=A15C38FAE4175C438F9C97D29A69795EDF15974A1C18494855057652F5A58CEBA7CC9864129B33D82013B2241A3671D00D7133396A5C507FF8C6A0AABD0234CE; 2scDealerName=%e5%8c%97%e4%ba%ac%e5%b8%85%e8%bd%a6%e4%ba%8c%e6%89%8b%e8%bd%a6; 2scDealerId=98027; sessionip=106.186.20.9; area=999999; UsedCarBrowseHistory=2790426,; tagid=7A5B8370-EC18-6B83-4A4A-B75CAB2F44B7; __utma=209014663.1503156567.1402280702.1402280702.1402389826.2; __utmb=209014663.37.10.1402389826; __utmc=209014663; __utmz=209014663.1402280702.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); sessionvisit=12034a0b-d3fa-4ec6-81b7-2cd96e4023d7
+Host:dealer.che168.com
+Referer:http://dealer.che168.com/car/publish/?s=null&order=null
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Query String Parametersview sourceview URL encoded
+cd:gca
+spid:18971
+Response Headersview source
+Cache-Control:private
+Content-Length:790
+Content-Type:text/plain;charset=gb2312
+Date:Tue, 10 Jun 2014 09:24:47 GMT
+Powered-By-ChinaCache:MISS from 25076913f1
+Powered-By-ChinaCache:MISS from 060311E3q2
+s:15
+
+
+response
+
+{"CarOption":"遮阳板化妆镜,车内空气调节/花粉过滤,前雾灯,单碟CD,牵引力控制(ASR/TCS/TRC等),前电动车窗,后座出风口,自动头灯,后排座椅比例放倒,ABS防抱死,副驾驶安全气囊,CD支持MP3/WMA,自动驻车/上坡辅助,外接音源接口(AUX/USB/iPod等),驾驶座安全气囊,后雨刷,发动机启停技术,后电动车窗,后视镜加热,温度分区控制,ISOFIX儿童座椅接口,方向盘前后调节,行车电脑显示屏,发动机电子防盗,后排头部气囊(气帘),驾驶位电动调节,防紫外线/隔热玻璃,真皮方向盘,安全带未系提示,自动空调,前座中央扶手,腰部支撑调节,内后视镜自动防眩目,车窗防夹手功能,车内中控锁,座椅高低调节,后倒车雷达,前排侧气囊,日间行车灯,遥控钥匙,车身稳定控制(ESC/ESP/DSC等),感应雨刷,前排头部气囊(气帘),后视镜电动调节,刹车辅助(EBA/BAS/BA等),方向盘上下调节,≥8喇叭扬声器系统,铝合金轮圈,制动力分配(EBD/CBC等),","displa":"1.4","gearbox":"6挡手动","isShopBrandCar":"0"}

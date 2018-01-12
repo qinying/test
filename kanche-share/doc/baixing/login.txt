@@ -1,0 +1,78 @@
+
+测试方法
+curl 'http://localhost:3011/login/check?site=baixing.com&username=北京看车二手车&password=kanche1'
+
+获取登录页面
+curl -v http://beijing.baixing.com/oz/login/x > login_get.html
+
+返回结果
+Set-Cookie: __trackId=140844621137916; expires=Thu, 18-Aug-2016 11:03:31 GMT; path=/; domain=baixing.com; httponly
+Set-Cookie: __city=beijing; expires=Fri, 19-Sep-2014 11:03:31 GMT; path=/; domain=baixing.com
+Set-Cookie: __uuid=114084462113109.9efeb; expires=Sun, 18-Aug-2019 11:03:31 GMT; path=/; domain=baixing.com
+
+<html><body><form><input class="input" type="hidden" data-parent=".p-line" title="[token]" value="3dd71f450dcd403416ad435a07441c92" name="token" maxlength="50">
+
+提交登录信息
+curl -v http://beijing.baixing.com/oz/login/x \
+  --request POST \
+  --header "Content-Type: application/x-www-form-urlencoded" \
+  --cookie "__trackId=140844621137916;__city=beijing;__uuid=114084462113109.9efeb" \
+  --data "identity=北京看车二手车" \
+  --data "password=kanche1" \
+  --data "token=6104050eb3e67750637736f8ec86cbb7" \
+  > login_post.html
+
+返回结果 - 成功
+Set-Cookie: __t=ut53c38ed3a14fe6.15683305; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com; httponly
+Set-Cookie: __u=110915048; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com
+Set-Cookie: __c=b5c566309e2cea0bacf0462ec676a34de4e2ac55; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com
+Set-Cookie: __n=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com
+
+<script>var reg = /\w+.(?:\w+.)?(baixing.(?:com|cn))/ig;document.domain = window.location.host.replace(reg, '$1');parent.window._userAuthCallback(0);</script>
+
+返回结果 - 失败
+<html><body><div class="alert"><ul><li>账号不存在，请检查后重试。#2011</li></ul></div>
+<html><body><div class="alert"><ul><li>提交的表单TOKEN不正确。</li></ul></div>
+<html><body><div class="alert"><ul><li>您输入的密码和帐号不匹配，请重新输入。#2008</li></ul></div>
+<html><body><div class="alert"><ul><li>密码尝试次数太多了，请1个小时后再试。点此使用短信验证码登录 #2006</li></ul></div>
+
+
+原始信息
+--Request Headers--
+POST /oz/login/x HTTP/1.1
+Host: beijing.baixing.com
+Connection: keep-alive
+Content-Length: 96
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://beijing.baixing.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://beijing.baixing.com/oz/login/x
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Cookie: __trackId=140531281846681; __city=beijing; _bfa=1.1407143994974.1ltp2q.1.1407143994974.1407143994974.1.1; __fb=1; __ascc=1408419158; _ppc_t=1; mc=0%2C0; _ga=GA1.2.2067729556.1405312838; _auth_type=frontendUnknown; __uuid=114084171399475.b5bef
+
+
+--Form Data--
+identity:北京看看车二手车
+password:kanche1
+token:6104050eb3e67750637736f8ec86cbb7
+
+
+--Response Headers--
+HTTP/1.1 200 OK
+Date: Tue, 19 Aug 2014 03:14:56 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: close
+Set-Cookie: __t=ut53c38ed3a14fe6.15683305; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com; httponly
+Set-Cookie: __u=110915048; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com
+Set-Cookie: __c=b5c566309e2cea0bacf0462ec676a34de4e2ac55; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com
+Set-Cookie: __n=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; expires=Thu, 27-Nov-2014 03:14:56 GMT; path=/; domain=baixing.com
+Set-Cookie: _auth_redirect=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=baixing.com
+Vary: Accept-Encoding
+Last-Modified: Tue, 19 Aug 2014 03:14:56 GMT
+Cache-Control: private, max-age=0, no-cache, must-revalidate, no-cache=Set-Cookie, proxy-revalidate
+Expires: -1
+BX-ReID: 53f2c12fe603428738
+Content-Encoding: gzip

@@ -1,0 +1,286 @@
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="zimu"
+
+408786
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="brand"
+
+411611
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="chexi"
+
+411615
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="ObjectType"
+
+1
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="carchexing"
+
+411642
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="displacement"
+
+409644
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="gearbox"
+
+408822
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="kucheid"
+
+423457
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shangshishijian"
+
+515877
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="yczb_cheling"
+
+524250
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="yczb_licheng"
+
+524253
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="madein"
+
+408813
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="chexibieming"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="erscpinpai"
+
+大众甲壳虫
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="rundistanceqj"
+
+1_3
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="chelingqj"
+
+2010_2012
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="buytime"
+
+2010
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shangpaiyuefen"
+
+515686
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="buyfrom"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="baoyang"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="yunying"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shiguqk"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="neishi"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="syxian"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shouxu"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="cheshenyanse"
+
+10
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="pic"
+
+/p1/big/n_s02339241295924362123.jpg|/p1/big/n_s12339241414477655074.jpg|/p1/big/n_s02339241510636633096.jpg|/p1/big/n_s02339242698359378023.jpg|/p1/big/n_s12339241575353999125.jpg
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="pictag"
+
+||||
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc1"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc2"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc3"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc4"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc5"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc6"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc7"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="picdesc8"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="imageLoad"; filename=""
+Content-Type: application/octet-stream
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="rundistance"
+
+2
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="MinPrice"
+
+16
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="MinPricej"
+
+40_999999
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="Title"
+
+大众甲壳虫 2001款 New Beetle 1.6 自动-车况非常好
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="Content"
+
+车况非常好，没有任何大小事故，连剐蹭都很少。
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="goblianxiren"
+
+赵辰
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="faburen"
+
+0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="Phone"
+
+13701169027
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="type"
+
+0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="cspailiang"
+
+1.6
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="biansuqi"
+
+自动
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shigumiaoshu"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="cjshijian"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="qxshijian"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="syshijian"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="xinxibianhao"
+
+FNXM52
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="yczbpic"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="yczhibao"
+
+524253
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="xbsx"
+
+
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shangpainianyue"
+
+201006
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="cateapplyed"
+
+29
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="localapplyed"
+
+1
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shifoufufeifabu"
+
+0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="shifouyishou"
+
+0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="paifangbiaozhun"
+
+408
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="canjiapaimai"
+
+0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="iqas_mcresult"
+
+1222125073423522517456086664
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="cube_post_jsonkey"
+
+{"jzJson":null,"znJson":null,"zdJson":null,"jzFee":"0","znFee":"0","zdFee":"0","jzCop":"0","znCop":"0","zdCop":"0","sourceId":"1501","productId":"100002","showZd":1,"showZn":0,"showCpt":0,"showCpc":0}
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="HiddenForPara"
+
+5863:zimu|5866:brand|5867:chexi|2539:ObjectType|5868:carchexing|5871:displacement|5872:gearbox|5880:kucheid|6809:shangshishijian|7068:yczb_cheling|7069:yczb_licheng|5870:madein|6808:chexibieming|5865:rundistanceqj|5883:chelingqj|1196:buytime|6860:shangpaiyuefen|6852:buyfrom|6855:baoyang|6853:yunying|4922:shiguqk|6856:chengse|6857:neishi|6866:neishiquexian|6869:syxian|6859:shouxu|4917:cheshenyanse|5864:MinPriceqj
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="gobquzhi"
+
+zimu=D&brand=%E5%A4%A7%E4%BC%97&chexi=%E7%94%B2%E5%A3%B3%E8%99%AB&objecttype=%E8%BD%BF%E8%BD%A6&carchexing=2001%E6%AC%BE%20New%20Beetle%201.6%20%E8%87%AA%E5%8A%A8&displacement=1.6&gearbox=%E8%87%AA%E5%8A%A8&kucheid=277221&shangshishijian=2001&yczb_cheling=2&yczb_licheng=0&madein=%E8%BF%9B%E5%8F%A3&chexibieming=%E8%BD%BF%E8%BD%A6&rundistanceqj=1-3%E4%B8%87%E5%85%AC%E9%87%8C&chelingqj=1-3%E5%B9%B4&buytime=2010%E5%B9%B4&shangpaiyuefen=6%E6%9C%88&cheshenyanse=%E6%A9%99%E8%89%B2&minpriceqj=40%E4%B8%87%E4%BB%A5%E4%B8%8A&cateapplyed=29&localapplyed=1
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="gobalsokey"
+
+D|大众|2001款 New Beetle 1.6 自动|1.6|自动|277221|2001|2|0|进口|大众甲壳虫|1-3万公里|2010年|6月|是|橙色|2万元|16万元
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="fcookie"
+
+8a6138cb-1291-425d-9d2c-afa91415d6f0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="hiddenTextBoxJoinValue"
+
+大众:甲壳虫:2001款 New Beetle 1.6 自动:大众甲壳虫2001款 New Beetle 1.6 自动:赵辰
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9
+Content-Disposition: form-data; name="xiaobao_option"
+
+0
+----WebKitFormBoundarypXSAqRQ9EX4JiBY9--

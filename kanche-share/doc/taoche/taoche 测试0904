@@ -1,0 +1,18 @@
+http://www.taoche.com/buycar/b-Dealer14090411348.html
+http://www.taoche.com/buycar/b-Dealer14090411340.html
+http://www.taoche.com/buycar/b-Dealer14090412214.html
+
+
+
+2014-09-04 14:35:59,721 - sharer - ERROR - {"message": "['Traceback (most recent call last):\\n', '  File \"app/sharer.py\", 
+
+line 71, in send_req\\n    (code, msg) = sharer.shareVehicle(message)\\n', '  File \"app/taoche.py\", 
+
+line 602, in shareVehicle\\n    form[\\'ctl00$ContentPlaceHolder1$hidMainBrandId\\'] = externalSpec.get(\"brand\").get(\"id\", None)\\n', \"AttributeError: 'NoneType' object has no attribute 'get'\\n\"]", "jobId": "540677d201000037014d8621"}
+
+
+db.share_job.find({"share_account.website":"taoche.com"}, { external_vehicle_spec:{$exists:ture}})
+
+
+db.share_job.find({ external_vehicle_spec: { $exists: true }, 'share_account.website':"taoche.com" }).count()
+db.share_job.find( 'share_account.website':"taoche.com" }).count()

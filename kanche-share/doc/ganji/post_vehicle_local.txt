@@ -1,0 +1,153 @@
+-------------3272368232716291
+Content-Disposition: form-data; name="major_category_id"
+
+14
+-------------3272368232716291
+Content-Disposition: form-data; name="auto_type"
+
+0
+-------------3272368232716291
+Content-Disposition: form-data; name="autotype"
+
+0
+-------------3272368232716291
+Content-Disposition: form-data; name="beforeAudit"
+
+false
+-------------3272368232716291
+Content-Disposition: form-data; name="show_before_audit"
+
+0
+-------------3272368232716291
+Content-Disposition: form-data; name="show_before_audit_reason"
+
+
+-------------3272368232716291
+Content-Disposition: form-data; name="origin"
+
+
+-------------3272368232716291
+Content-Disposition: form-data; name="deal_type"
+
+1
+-------------3272368232716291
+Content-Disposition: form-data; name="minor_category"
+
+大众
+-------------3272368232716291
+Content-Disposition: form-data; name="minorCategory"
+
+1207,dazhong,大众
+-------------3272368232716291
+Content-Disposition: form-data; name="tag"
+
+2814,jiakechong,甲壳虫
+-------------3272368232716291
+Content-Disposition: form-data; name="car"
+
+29778
+-------------3272368232716291
+Content-Disposition: form-data; name="user_defined_category"
+
+29778
+-------------3272368232716291
+Content-Disposition: form-data; name="car_color"
+
+1
+-------------3272368232716291
+Content-Disposition: form-data; name="gearbox"
+
+1
+-------------3272368232716291
+Content-Disposition: form-data; name="air_displacement"
+
+2.0
+-------------3272368232716291
+Content-Disposition: form-data; name="accidents"
+
+1
+-------------3272368232716291
+Content-Disposition: form-data; name="license_date"
+
+2012
+-------------3272368232716291
+Content-Disposition: form-data; name="license_year"
+
+3
+-------------3272368232716291
+Content-Disposition: form-data; name="insurance_year_add"
+
+2016
+-------------3272368232716291
+Content-Disposition: form-data; name="insurance_month_add"
+
+3
+-------------3272368232716291
+Content-Disposition: form-data; name="strong_insurance_year"
+
+2016
+-------------3272368232716291
+Content-Disposition: form-data; name="strong_insurance_month"
+
+3
+-------------3272368232716291
+Content-Disposition: form-data; name="road_haul"
+
+0.91
+-------------3272368232716291
+Content-Disposition: form-data; name="price"
+
+20.36
+-------------3272368232716291
+Content-Disposition: form-data; name="images"
+
+[]
+-------------3272368232716291
+Content-Disposition: form-data; name="is_video_upload"
+
+0
+-------------3272368232716291
+Content-Disposition: form-data; name="video_unique"
+
+
+-------------3272368232716291
+Content-Disposition: form-data; name="title"
+
+大众甲壳虫2009款  2.0L 自动 顶配敞篷版
+-------------3272368232716291
+Content-Disposition: form-data; name="description"
+
+2009款 大众甲壳虫敞篷版2.0-手自一体标配 【进口】
+-------------3272368232716291
+Content-Disposition: form-data; name="four_s"
+
+2
+-------------3272368232716291
+Content-Disposition: form-data; name="imageSecond"
+
+
+-------------3272368232716291
+Content-Disposition: form-data; name="person"
+
+看先生
+-------------3272368232716291
+Content-Disposition: form-data; name="agent"
+
+2
+-------------3272368232716291
+Content-Disposition: form-data; name="phone"
+
+15300066914
+-------------3272368232716291
+Content-Disposition: form-data; name="back_phone"
+
+
+-------------3272368232716291
+Content-Disposition: form-data; name="district_id"
+
+179
+-------------3272368232716291
+Content-Disposition: form-data; name="checkcode"
+
+
+-------------3272368232716291--

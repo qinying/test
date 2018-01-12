@@ -1,0 +1,343 @@
+Remote Address:211.151.115.24:80
+Request URL:http://post.58.com/v1/29/s5//submit?source=car&rand=0.3548013702966273
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip,deflate
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Cache-Control:max-age=0
+Connection:keep-alive
+Content-Length:9202
+Content-Type:multipart/form-data; boundary=----WebKitFormBoundaryAz67k9iQv1EWg1fM
+Cookie:id58=05dvOVM1eNRWjh73O33eAg==; nearby=NOTSHOW; xxzl_cp=50ec6c6a6da24e2991002fd4f4fd2a6a190; vip=v%3D1%26vipuserpline%3D0%26masteruserid%3D25164487825159%26vipkey%3D2a091a3001ce6ae4e483bb53e457b04b%26vipusertype%3D0; myfeet_tooltip=end; bangtoptipclose=1; JSESSIONID=36DA644B830F2CC37536B9E44A8DD79B; bangbigtip2=1; 58home=bj; www58com="AutoLogin=false&UserID=25164487825159&UserName=%E5%8C%97%E4%BA%AC%E7%9C%8B%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&CityID=0&Email=&AllMsgTotal=0&CommentReadTotal=0&CommentUnReadTotal=0&MsgReadTotal=0&MsgUnReadTotal=0&RequireFriendReadTotal=0&RequireFriendUnReadTotal=0&SystemReadTotal=0&SystemUnReadTotal=0&UserCredit=0&UserScore=0&PurviewID=&IsAgency=false&Agencys=null&SiteKey=53115061EEDA8F62C34691752F1D98BA3CBC4D81E8E90E1D9&Phone=&WltUrl=&UserLoginVer=53115061EEDA8F62CD502D20C21C107FB&LT=1411651476122"; 58cooper="userid=25164487825159&username=%E5%8C%97%E4%BA%AC%E7%9C%8B%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&cooperkey=d7dabd9b002f9008b1f8e1b65e4c6f2b"; PPU="UID=25164487825159&PPK=d2c7d8c7&PPT=bc2a1e27&SK=2A31A22D97063405925259F2129B5C00DBFF64417ADBB17FD&LT=1411651476132&UN=%E5%8C%97%E4%BA%AC%E7%9C%8B%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&LV=e5d60885"; final_history=19410173598595%2C19321006970754%2C19320978551816%2C19320583039497%2C19281282263558; ipcity=bj%7C%u5317%u4EAC; bangbangid=25164487825159; post_uuid=da1758c7-d4eb-47b1-b12e-449e25969c18; new_session=0; init_refer=; CNZZDATA30017898=cnzz_eid%3D583740172-1410455494-http%253A%252F%252Finfo.vip.58.com%252F%26ntime%3D1411651462; __utma=253535702.439443889.1396013271.1411525821.1411651462.66; __utmb=253535702.15.8.1411651673866; __utmc=253535702; __utmz=253535702.1410945158.64.20.utmcsr=vip.58.com|utmccn=(referral)|utmcmd=referral|utmcct=/app/mci/; __utmv=253535702.1846486219015|1=UserType=VIP=1
+Host:post.58.com
+Origin:http://post.58.com
+Referer:http://post.58.com/v1/29/s5/
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.122 Safari/537.36
+Query String Parametersview sourceview URL encoded
+source:car
+rand:0.3548013702966273
+Request Payload
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="zimu"
+
+408799
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="brand"
+
+416172
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="chexi"
+
+668142
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="ObjectType"
+
+1
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="madein"
+
+668265
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="chexibieming"
+
+668243
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="erscpinpai"
+
+奇瑞艾瑞泽7
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="rundistanceqj"
+
+3_5
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="chelingqj"
+
+2010_2012
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="buytime"
+
+2011
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shangpaiyuefen"
+
+515684
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="buyfrom"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="baoyang"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="yunying"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shiguqk"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="chengse"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="neishi"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="syxian"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shouxu"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="cheshenyanse"
+
+6
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="pic"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="pictag"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc1"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc2"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc3"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc4"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc5"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc6"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc7"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc8"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc9"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc10"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc11"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc12"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc13"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc14"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc15"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="picdesc16"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="imageLoad"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="rundistance"
+
+3
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="MinPrice"
+
+5
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="MinPriceqj"
+
+40_999999
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="Title"
+
+奇瑞艾瑞泽7 2011年上牌-很新的车
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="Content"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="goblianxiren"
+
+赵先生
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="Phone"
+
+15201185505
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="IM"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="qitadianhua"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="type"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="cspailiang"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="biansuqi"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shigumiaoshu"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="cjshijian"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="qxshijian"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="syshijian"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="xinxibianhao"
+
+LCBWXA
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="yczbpic"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="yczhibao"
+
+525381
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="xbsx"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="qtkt"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="mianfeiguohu"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shangpainianyue"
+
+201104
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="cateapplyed"
+
+29
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="localapplyed"
+
+1
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shifoufufeifabu"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shifouyishou"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="escwltv2"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="paifangbiaozhun"
+
+
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="wanglintongbieming"
+
+北京看看车信息技术有限公司
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="shifoupifa"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="car_promotion"
+
+1
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="hidPostParam"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="iqas_mcresult"
+
+1232121154366192522395949823
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="cube_post_jsonkey"
+
+{"jzJson":null,"znJson":null,"zdJson":null,"jzFee":"0","znFee":"0","zdFee":"0","jzCop":"0","znCop":"0","zdCop":"0","sourceId":"1507","productId":"100002","secondCateId":"29","dispSecondCateId":"29","cityId":"1","dispCityId":"1","showZd":1,"showZn":1,"showCpt":0,"showCpc":1}
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="HiddenForPara"
+
+5863:zimu|5866:brand|5867:chexi|2539:ObjectType|5870:madein|6808:chexibieming|5865:rundistanceqj|5883:chelingqj|1196:buytime|6860:shangpaiyuefen|6852:buyfrom|6855:baoyang|6853:yunying|4922:shiguqk|6856:chengse|6857:neishi|6866:neishiquexian|6869:syxian|6859:shouxu|4917:cheshenyanse|5864:MinPriceqj
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="gobquzhi"
+
+zimu=Q&brand=%E5%A5%87%E7%91%9E&chexi=%E8%89%BE%E7%91%9E%E6%B3%BD7&objecttype=%E8%BD%BF%E8%BD%A6&madein=%E5%9B%BD%E4%BA%A7&chexibieming=%E5%A5%87%E7%91%9E%E8%89%BE%E7%91%9E%E6%B3%BD7&rundistanceqj=3-5%E4%B8%87%E5%85%AC%E9%87%8C&chelingqj=1-3%E5%B9%B4&buytime=2011%E5%B9%B4&shangpaiyuefen=4%E6%9C%88&cheshenyanse=%E7%BA%A2%E8%89%B2&minpriceqj=40%E4%B8%87%E4%BB%A5%E4%B8%8A&cateapplyed=29&localapplyed=1
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="gobalsokey"
+
+Q|艾瑞泽7|国产|奇瑞艾瑞泽7|3-5万公里|2011年|4月|红色|3万元|5万元
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="fcookie"
+
+7ce00a65-06fc-45c3-9ade-830abf2d8d02
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="hiddenTextBoxJoinValue"
+
+奇瑞:艾瑞泽7:奇瑞艾瑞泽7 2011年上牌:很新的车:赵先生
+------WebKitFormBoundaryAz67k9iQv1EWg1fM
+Content-Disposition: form-data; name="xiaobao_option"
+
+0
+------WebKitFormBoundaryAz67k9iQv1EWg1fM--

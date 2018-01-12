@@ -1,0 +1,572 @@
+已知问题：
+
+1， user，shop是否同一个发车通道
+2， 发车时联系人个人是自己填写，公司是从联系人中选择
+3， 发车数量限制
+4， highlight 车辆配置
+
+
+
+
+公司(商户)发布车源
+--Request Headers--
+
+POST / HTTP/1.1
+Host: www.iautos.cn
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0 FirePHP/0.7.4
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://www.iautos.cn/shopadmin/usedcar/addusedcar/
+Content-Length: 2044
+Cookie: PHPSESSID=2kfv68pncs6n9hb4mjclf7lle2; earea=beijing; TopDefaultArea=%25u5317%25u4EAC; ipearea=beijing; username=%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; userinfo=0; itoken=300bed172a91293edf1a4dc3147f5c4f; NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%7B%2255582%22%3A125522%7D%5D%2C%22t%22%3A%2212%3A09%3A12%22%7D; NTKF_CACHE_DATA=%7B%22uid%22%3A%22kf_9871_ISME9754_guestE35D6C1D-F5C8-55%22%2C%22tid%22%3A%221409108056936485%22%2C%22fid%22%3A%221409108056934088%22%2C%22d%22%3A%7B%7D%7D; NTKF_T2D_CLIENTID=guestE35D6C1D-F5C8-5529-A59C-40C9D6AAF27C; ASPSESSIONIDCSBBDTDT=NEDGPKHCCODMJPAKGGKNNEPB; CNZZDATA315974=cnzz_eid%3D1028446534-1409111379-http%253A%252F%252Fwww.iautos.cn%252F%26ntime%3D1409111379; loginurl=http%3A%2F%2Fwww%2Eiautos%2Ecn%2Fchexing%2Ftrim%2Easp%3Fid%3D62555; _pk_id.1.0d3b=93a799695ae55aba.1409111381.1.1409111381.1409111381.; _pk_ses.1.0d3b=*
+x-insight: activate
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+m=shopadmin
+&c=usedcar
+&a=createUsedcar
+&Car[id]=
+&Car[province_id]=1
+&Car[city_id]=828
+&Car[city_proper_id]=186
+&Car[vin]=
+&Car[brand_id]=26
+&Car[series_id]=865
+&Car[mfrs_id]=197
+&Car[purchase_year]=2009
+&Car[model_simple_id]=62555
+&Car[title]=%E8%BF%B7%E4%BD%A0Mini-Cooper-1.6T-A%2FMT-S-50-Camden
+&Car[highlight]=3,7,8,24,6,13,14,16,18,19
+&Car[isbid]=0
+&Car[fuel_type]=11
+&Car[is_reg]=1
+&Car[first_reg_date]=2010-6
+&Car[price]=23.6
+&Car[km]=1.9
+&Car[operation_type]=2
+&Car[auth_brand_id]=
+&Car[color]=8
+&Car[interior_id]=1
+&Car[service_record]=1
+&Car[license_number]=
+&Car[transfer_count]=0
+&Car[subtitle]=
+&Car[remark]=Cooper%20S%201.6T%20%E6%89%8B%E8%87%AA%E4%B8%80%E4%BD%93%2050%20Camden
+&Car[road_maintance_fee_date]=
+&Car[is_road_maintance_expired]=1
+&Car[insurance_date]=
+&Car[is_insurance_expired]=1
+&Car[driving_license]=1
+&Car[registration]=1
+&Car[invoice]=1
+&Car[driving_license_pic]=
+&Car[registration_pic]=
+&Car[invoice_pic]=
+&Car[special_service]=
+&Car[expiry_days]=90
+&Car[car_location]=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%B0%E5%8F%B0%E5%8C%BA
+&Car[contacts_user_id]=121064
+&Car[contacts_phone]=
+&Car[contacts_name]=%E4%BB%BB%E5%85%B5
+&Car[auditing]=1
+&Car[auditing_remark]=
+&Car[car_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0827/11/small/20140827115354143304.jpg
+&Car[usedcar_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0827/11/20140827115343274556.jpg,http://photo.iautos.cn/carupload/photo/2014/0827/11/20140827115344764749.jpg,http://photo.iautos.cn/carupload/photo/2014/0827/11/20140827115346097201.jpg,http://photo.iautos.cn/carupload/photo/2014/0827/11/20140827115347417940.jpg,http://photo.iautos.cn/carupload/photo/2014/0827/11/20140827115348734530.jpg,http://photo.iautos.cn/carupload/photo/2014/0827/11/20140827115354143304.jpg
+&Car[usedcar_photo_hash]=bf5cdbec1b54672bbe77d86f51346c7da65720ad,aa5137ef3b9e99fb61ed72c291707baeafb6a02e,cb8a2b51a1804476f62bb432d8a393bc5a78021e,8237527469e0d35f3c46772f1cba1b753d29d540,738dd18bf5f3bdd63b288fb240a82038299a7613,b6e673305a69944548785202b1656bc25df65d91
+&Car[integrity]=83
+&Car[transmission_type_id]=3
+
+
+
+
+
+公司(商户)发布车源
+--Response Headers--
+
+HTTP/1.1 200 OK
+
+Content-Type: text/html
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+Content-Length: 36
+Accept-Ranges: bytes
+Date: Wed, 27 Aug 2014 04:09:12 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown
+
+
+
+{"id":"4117547"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+发布车源
+--Request Headers--
+
+POST / HTTP/1.1
+Host: www.iautos.cn
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0 FirePHP/0.7.4
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://www.iautos.cn/home/usedcar/addusedcar/
+Content-Length: 1642
+Cookie:
+
+PHPSESSID=gmlle01bu1m86ghas16soq4ae6;
+earea=beijing; TopDefaultArea=%25u5317%25u4EAC;
+ipearea=beijing; username=2761408430084;
+userinfo=0;
+itoken=7b06228007d3e8f69843b07d4cbe0964;
+NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%7B%2225830%22%3A429162%7D%5D%2C%22t%22%3A%2216%3A48%3A36%22%7D;
+NTKF_CACHE_DATA=%7B%22uid%22%3A%22kf_9871_ISME9754_guestA3A6DF97-A029-24%22%2C%22tid%22%3A%221409041927877721%22%2C%22fid%22%3A%221409041927874672%22%2C%22d%22%3A%7B%7D%7D;
+NTKF_T2D_CLIENTID=guestA3A6DF97-A029-245F-9F7C-02981E017D48
+
+x-insight: activate
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+
+
+        m=home
+        &c=usedcar
+        &a=createUsedcar
+        &Car[id]=
+        &Car[shop_id]=120672
+        &Car[province_id]=1
+        &Car[city_id]=828
+        &Car[city_proper_id]=186
+        &Car[vin]=
+        &Car[brand_id]=147
+        &Car[series_id]=1717
+        //厂商id
+        &Car[mfrs_id]=131
+        &Car[purchase_year]=2012
+        &Car[model_simple_id]=131713
+        // 题目
+        &Car[title]=%E7%BF%BC%E7%A5%9E1.8-CVT/MT%E8%B1%AA%E5%8D%8E%E5%9E%8B%E8%87%B4%E5%B0%9A%E7%89%88%E4%BA%AC%E2%85%A4(%E5%9B%BD%E2%85%A3)
+        // 车辆配置亮点
+        &Car[highlight]=3,7,8,24,13,14,15
+        // 是否可议价
+        &Car[isbid]=0
+        // 燃料类型
+        &Car[fuel_type]=11
+        &Car[is_reg]=1
+        &Car[first_reg_date]=2012-7
+        &Car[price]=11.9
+        &Car[km]=3
+        &Car[operation_type]=2
+        &Car[color]=3
+        // 内饰颜色
+        &Car[interior_id]=1
+        &Car[transfer_count]=0
+        &Car[remark]=%E4%B8%89%E8%8F%B1%E7%BF%BC%E7%A5%9E12%E6%AC%BE1.8L%E8%87%AA%E5%8A%A8%E8%87%B4%E5%B0%9A%E7%89%88%E8%B1%AA%E5%8D%8E%E5%9E%8B
+        &Car[road_maintance_fee_date]=
+        &Car[is_road_maintance_expired]=1
+        &Car[insurance_date]=
+        &Car[is_insurance_expired]=0
+        //信息有效期
+        &Car[expiry_days]=90
+        &Car[car_location]=%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E5%8C%BA%E9%85%92%E4%BB%99%E6%A1%A5%E5%95%86%E5%9C%BA%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E4%B9%85%E9%9A%86%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E5%85%AD%E5%B1%82%E5%81%9C%E8%BD%A6%E5%9C%BA
+        &Car[contacts_phone]=13021008994
+        &Car[contacts_name]=%E5%A4%A7%E5%85%B5
+        &Car[auditing]=3
+        &Car[car_photo_url]=
+        &Car[usedcar_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0826/16/20140826164728903674.jpg,http://photo.iautos.cn/carupload/photo/2014/0826/16/20140826164735615364.jpg,http://photo.iautos.cn/carupload/photo/2014/0826/16/20140826164752748833.jpg
+        &Car[usedcar_photo_hash]=ea1838d7806a1434fbccce6e7271fd9fb92f3474,7255a1de8b7fd9a3be644dfc8f2c3b1ffe644ba4,b293e803caf46ce8b6c4a9c686b1561f35791231
+        //完整性
+        &Car[integrity]=71
+        &Car[transmission_type_id]=3
+
+
+
+
+Car[auditing]	3
+Car[brand_id]	147
+Car[car_location]	北京朝阳区酒仙桥商场十字路口久隆百货商场六层停车场
+Car[car_photo_url]
+Car[city_id]	828
+Car[city_proper_id]	186
+Car[color]	3
+Car[contacts_name]	大兵
+Car[contacts_phone]	13021008994
+Car[expiry_days]	90
+Car[first_reg_date]	2012-7
+Car[fuel_type]	11
+Car[highlight]	3,7,8,24,13,14,15
+Car[id]
+Car[insurance_date]
+Car[integrity]	71
+Car[interior_id]	1
+Car[is_insurance_expired]	0
+Car[is_reg]	1
+Car[is_road_maintance_exp...	1
+Car[isbid]	0
+Car[km]	3
+Car[mfrs_id]	131
+Car[model_simple_id]	131713
+Car[operation_type]	2
+Car[price]	11.9
+Car[province_id]	1
+Car[purchase_year]	2012
+Car[remark]	三菱翼神12款1.8L自动致尚版豪华型
+Car[road_maintance_fee_da...
+Car[series_id]	1717
+Car[shop_id]	120672
+Car[title]	翼神1.8-CVT/MT豪华型致尚版京Ⅴ(国Ⅳ)
+Car[transfer_count]	0
+Car[transmission_type_id]	3
+Car[usedcar_photo_hash]	ea1838d7806a1434fbccce6e7271fd9fb92f3474,7255a1de8b7fd9a3be644dfc8f2c3b1ffe644ba4,b293e803caf46ce8b6c4a9c686b1561f35791231
+Car[usedcar_photo_url]	http://photo.iautos.cn/carupload/photo/2014/0826/16/20140826164728903674.jpg,http://photo.iautos.cn/carupload/photo/2014/0826/16/20140826164735615364.jpg,http://photo.iautos.cn/carupload/photo/2014/0826/16/20140826164752748833.jpg
+Car[vin]
+a	createUsedcar
+c	usedcar
+m	home
+
+
+--Response Headers--
+
+
+HTTP/1.1 200 OK
+Content-Type:text/html
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+Content-Length: 36
+Accept-Ranges: bytes
+Date: Tue, 26 Aug 2014 08:48:36 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown
+
+
+{"id":"4115654"}
+
+
+
+
+
+
+修改
+
+--Response Headers--
+
+POST / HTTP/1.1
+
+Host: www.iautos.cn
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0 FirePHP/0.7.4
+
+Accept: application/json, text/javascript, */*; q=0.01
+
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+
+Accept-Encoding: gzip, deflate
+
+DNT: 1
+
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+
+X-Requested-With: XMLHttpRequest
+
+Referer: http://www.iautos.cn/home/usedcar/update/?id=4104829
+
+Content-Length: 1332
+
+Cookie:
+    earea=beijing;
+    TopDefaultArea=%25u5317%25u4EAC;
+    ipearea=beijing;
+    NTKF_T2D_CLIENTID=guest540C74F5-4284-39CD-507E-646E25731C89;
+    PHPSESSID=o3dhe461gpl4jesib28tabjg97;
+    NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%7B%2276185%22%3A148633%7D%2C%7B%2212923%22%3A148633%7D%5D%2C%22t%22%3A%2217%3A54%3A23%22%7D;
+    NTKF_CACHE_DATA=%7B%22uid%22%3A%22kf_9871_ISME9754_guest540C74F5-4284-39%22%2C%22tid%22%3A%221408610706813198%22%2C%22fid%22%3A%221408610706812803%22%2C%22d%22%3A%7B%7D%7D;
+    ASPSESSIONIDCSCBASCS=MCDEIGICKFPGGCHEKKNPILBO;
+    loginurl=http%3A%2F%2Fwww%2Eiautos%2Ecn%2Fchexing%2Ftrim%2Easp%3Fid%3D6507;
+    CNZZDATA315974=cnzz_eid%3D913655127-1408610824-http%253A%252F%252Fwww.iautos.cn%252F%26ntime%3D1408610824;
+    __utma=210535370.1686219432.1408610828.1408610828.1408614707.2;
+    __utmc=210535370;
+    __utmz=210535370.1408610828.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);
+    _pk_id.1.0d3b=0bfaad0e9c36d3cb.1408610828.2.1408614707.1408610828.;
+    username=2761408430084;
+    userinfo=0;
+    itoken=7b06228007d3e8f69843b07d4cbe0964;
+    __utmb=210535370.2.10.1408614707;
+    _pk_ses.1.0d3b=*
+
+x-insight: activate
+
+Connection: keep-alive
+
+Pragma: no-cache
+
+Cache-Control: no-cache
+
+
+
+m=home&c=usedcar&a=updateUsedcar&Car[id]=4104829&Car[shop_id]=&Car[province_id]=2&Car[city_id]=829&Car[city_proper_id]=314&Car[vin]=&Car[brand_id]=84&Car[series_id]=1993&Car[mfrs_id]=1&Car[purchase_year]=2007&Car[model_simple_id]=6506&Car[title]=%E5%AE%9D%E6%9D%A5HS-1.6-MT-2V%E6%97%B6%E5%B0%9A%E5%9E%8BTL%E4%B8%A4%E5%8E%A2BWG(%E5%9B%BD%E2%85%A2)&Car[highlight]=3,13,14&Car[isbid]=1&Car[fuel_type]=11&Car[is_reg]=1&Car[first_reg_date]=1996-4&Car[price]=7.25&Car[km]=13.00&Car[operation_type]=2&Car[color]=1&Car[interior_id]=1&Car[transfer_count]=0&Car[remark]=1.6L%E6%8E%92%E9%87%8F,%E5%A4%A9%E7%AA%97,%E6%B1%BD%E6%B2%B9,ESP,%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%AA%97,CD,%E5%80%92%E8%BD%A6%E9%9B%B7%E8%BE%BE,ABS,EBD&Car[road_maintance_fee_date]=2016-3&Car[is_road_maintance_expired]=0&Car[insurance_date]=&Car[is_insurance_expired]=0&Car[expiry_days]=10&Car[car_location]=%E4%B8%8A%E6%B5%B7%E5%BE%90%E6%B1%87%E5%AE%9B%E5%B9%B3%E5%8D%97%E8%B7%AF&Car[contacts_phone]=15901928891&Car[contacts_name]=%E5%A4%A7%E5%85%B5&Car[auditing]=3&Car[car_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0821/16/20140821164054842934.jpg&Car[usedcar_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0821/16/20140821164054842934.jpg&Car[usedcar_photo_hash]=177e2253599f0a73d394a84aa17d66eb390b99c3&Car[integrity]=63&Car[transmission_type_id]=27
+
+
+Car[auditing]	3
+Car[brand_id]	84
+Car[car_location]	上海徐汇宛平南路
+Car[car_photo_url]	http://photo.iautos.cn/carupload/photo/2014/0821/16/20140821164054842934.jpg
+Car[city_id]	829
+Car[city_proper_id]	314
+Car[color]	1
+Car[contacts_name]	大兵
+Car[contacts_phone]	15901928891
+Car[expiry_days]	10
+Car[first_reg_date]	1996-4
+Car[fuel_type]	11
+Car[highlight]	3,13,14
+Car[id]	4104829
+Car[insurance_date]
+Car[integrity]	63
+Car[interior_id]	1
+Car[is_insurance_expired]	0
+Car[is_reg]	1
+Car[is_road_maintance_exp...	0
+Car[isbid]	1
+Car[km]	13.00
+Car[mfrs_id]	1
+Car[model_simple_id]	6506
+Car[operation_type]	2
+Car[price]	7.25
+Car[province_id]	2
+Car[purchase_year]	2007
+Car[remark]	1.6L排量,天窗,汽油,ESP,电动车窗,CD,倒车雷达,ABS,EBD
+Car[road_maintance_fee_da...	2016-3
+Car[series_id]	1993
+Car[shop_id]
+Car[title]	宝来HS-1.6-MT-2V时尚型TL两厢BWG(国Ⅲ)
+Car[transfer_count]	0
+Car[transmission_type_id]	27
+Car[usedcar_photo_hash]	177e2253599f0a73d394a84aa17d66eb390b99c3
+Car[usedcar_photo_url]	http://photo.iautos.cn/carupload/photo/2014/0821/16/20140821164054842934.jpg
+Car[vin]
+a	updateUsedcar
+c	usedcar
+m	home
+
+
+
+
+
+
+--Response Headers--
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+Content-Length: 111
+Accept-Ranges: bytes
+Date: Thu, 21 Aug 2014 09:54:24 GMT
+Age: 0
+Connection: keep-alive
+V-Hits: 0
+V-Cache: MISS
+Server: Unknown
+
+
+
+{
+  "id": "4104829",
+  "title": "\u5b9d\u6765HS-1.6-MT-2V\u65f6\u5c1a\u578bTL\u4e24\u53a2BWG(\u56fd\u2162)"
+}
+
+
+
+
+
+
+
+
+
+POST / HTTP/1.1
+
+Host: www.iautos.cn
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0 FirePHP/0.7.4
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://www.iautos.cn/shopadmin/usedcar/addusedcar/
+Content-Length: 1652
+Cookie: earea=beijing; TopDefaultArea=%25u5317%25u4EAC; ipearea=beijing; NTKF_T2D_CLIENTID=guestA72D5963-4A21-7F46-5665-6C662C1FF112; CNZZDATA315974=cnzz_eid%3D47633114-1409290446-http%253A%252F%252Fwww.iautos.cn%252F%26ntime%3D1409290446; _pk_id.1.0d3b=87256c765a5a9381.1409290448.1.1409290448.1409290448.; __utma=210535370.257200968.1409290448.1409290448.1409290448.3; __utmz=210535370.1409290448.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=g1d0o64e72kn14hi4ik3fb8971; username=%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; userinfo=0; itoken=300bed172a91293edf1a4dc3147f5c4f; NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%7B%2231900%22%3A352479%7D%5D%2C%22t%22%3A%2217%3A07%3A27%22%7D; NTKF_CACHE_DATA=%7B%22uid%22%3A%22kf_9871_ISME9754_guestA72D5963-4A21-7F%22%2C%22tid%22%3A%221409734599635591%22%2C%22fid%22%3A%221409734599633387%22%2C%22d%22%3A%7B%7D%7D
+x-insight: activate
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+m=shopadmin
+&c=usedcar
+&a=createUsedcar
+&Car[id]=
+&Car[province_id]=1
+&Car[city_id]=828
+&Car[city_proper_id]=
+&Car[vin]=
+&Car[brand_id]=147
+&Car[series_id]=1717
+&Car[mfrs_id]=131
+&Car[purchase_year]=2011
+&Car[model_simple_id]=60841
+&Car[title]=%E7%BF%BC%E7%A5%9E1.8-CVT%2FMT%E8%87%B4%E5%B0%9A%E5%9E%8B(%E5%9B%BD%E2%85%A3)
+&Car[highlight]=3,24,13,14,15
+&Car[isbid]=0
+&Car[fuel_type]=11
+&Car[is_reg]=1
+&Car[first_reg_date]=2011-4
+&Car[price]=10
+&Car[km]=2
+&Car[operation_type]=2
+&Car[auth_brand_id]=
+&Car[color]=3
+&Car[interior_id]=1
+&Car[service_record]=1
+&Car[license_number]=
+&Car[transfer_count]=undefined
+&Car[subtitle]=
+&Car[remark]=
+&Car[road_maintance_fee_date]=
+&Car[is_road_maintance_expired]=1
+&Car[insurance_date]=
+&Car[is_insurance_expired]=0
+&Car[driving_license]=
+&Car[registration]=
+&Car[invoice]=
+&Car[driving_license_pic]=
+&Car[registration_pic]=
+&Car[invoice_pic]=
+&Car[special_service]=
+&Car[expiry_days]=90
+&Car[car_location]=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%B0%E5%8F%B0%E5%8C%BA
+&Car[contacts_user_id]=121108
+&Car[contacts_phone]=15300066914
+&Car[contacts_name]=%E8%A9%B9%E5%85%88%E7%94%9F
+&Car[auditing]=1
+&Car[auditing_remark]=
+&Car[car_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0903/17/small/20140903170719734426.jpg
+&Car[usedcar_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0903/17/20140903170706347265.jpg,http://photo.iautos.cn/carupload/photo/2014/0903/17/20140903170718179961.jpg,http://photo.iautos.cn/carupload/photo/2014/0903/17/20140903170719734426.jpg
+&Car[usedcar_photo_hash]=b293e803caf46ce8b6c4a9c686b1561f35791231,7255a1de8b7fd9a3be644dfc8f2c3b1ffe644ba4,ea1838d7806a1434fbccce6e7271fd9fb92f3474
+&Car[integrity]=61
+&Car[transmission_type_id]=3
+
+
+
+
+
+m=shopadmin
+&c=usedcar
+&a=createUsedcar
+&Car[id]=
+&Car[province_id]=1
+&Car[city_id]=828
+&Car[city_proper_id]=186
+&Car[vin]=
+&Car[brand_id]=147
+&Car[series_id]=1717
+&Car[mfrs_id]=131
+&Car[purchase_year]=2010
+&Car[model_simple_id]=137139
+&Car[title]=%E7%BF%BC%E7%A5%9E2.0-MT%E8%B1%AA%E5%8D%8E%E5%9E%8B%E8%BF%90%E5%8A%A8%E7%89%88%E8%B0%83%E6%A0%A1(%E5%9B%BD%E2%85%A3)
+&Car[highlight]=3,7,24,13,14,15,16,18,19
+&Car[isbid]=0
+&Car[fuel_type]=11
+&Car[is_reg]=0
+&Car[first_reg_date]=
+&Car[price]=12.1
+&Car[km]=3.1
+&Car[operation_type]=2
+&Car[auth_brand_id]=
+&Car[color]=3
+&Car[interior_id]=2
+&Car[service_record]=
+&Car[license_number]=
+&Car[transfer_count]=undefined
+&Car[subtitle]=
+&Car[remark]=
+&Car[road_maintance_fee_date]=
+&Car[is_road_maintance_expired]=1
+&Car[insurance_date]=
+&Car[is_insurance_expired]=0
+&Car[driving_license]=
+&Car[registration]=
+&Car[invoice]=
+&Car[driving_license_pic]=
+&Car[registration_pic]=
+&Car[invoice_pic]=
+&Car[special_service]=
+&Car[expiry_days]=30
+&Car[car_location]=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%B0%E5%8F%B0%E5%8C%BA
+&Car[contacts_user_id]=121108
+&Car[contacts_phone]=15300066914
+&Car[contacts_name]=%E8%A9%B9%E5%85%88%E7%94%9F
+&Car[auditing]=1
+&Car[auditing_remark]=
+&Car[car_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0904/16/small/20140904162750158981.jpg
+&Car[usedcar_photo_url]=http://photo.iautos.cn/carupload/photo/2014/0904/16/20140904162750158981.jpg,http://photo.iautos.cn/carupload/photo/2014/0904/16/20140904162751413997.jpg,http://photo.iautos.cn/carupload/photo/2014/0904/16/20140904162752645689.jpg
+&Car[usedcar_photo_hash]=b293e803caf46ce8b6c4a9c686b1561f35791231,7255a1de8b7fd9a3be644dfc8f2c3b1ffe644ba4,ea1838d7806a1434fbccce6e7271fd9fb92f3474
+&Car[integrity]=58
+&Car[transmission_type_id]=27
+
+

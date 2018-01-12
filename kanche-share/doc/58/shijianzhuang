@@ -1,0 +1,110 @@
+// 一键改价
+548e3e6101000084fec5c0d3 58.com asasas 账号
+已经发上去了
+
+ganji.com
+547ed4d3010000c619f2d6c1
+http://sjz.ganji.com/ershouche/1291058243x.htm
+
+
+
+// 删除车辆 groupBy vehicle._id
+db.share_job.aggregate([
+	{ $match: {"category":"remove"} },
+	{ $group: { _id: "$vehicle._id", total: { $sum: "$amount" } } },
+	{ $sort: { total: -1 } }
+])
+
+db.share_job.aggregate([
+	{ $match: {"category":"send", "share_account.website":"58.com"} },
+	{ $group: { _id: "$share_account.username", total: { $sum: "$amount" } } },
+	{ $sort: { total: -1 } }
+])
+
+
+db.vehicle.find({"status.offline":true,"status.sold":false}).count()	1755
+db.vehicle.find({"status.offline":true,"status.sold":true}).count()  	963
+
+//Line 1
+
+db.share_job.find({"url":{$ne:null}, "share_account.website":"58.com","share_account.account_type":"substitute"},{"url":1})
+
+
+db.share_job.find({
+    "share_account.website":"che168.com",
+    "share_account.account_type":"substitute",
+    "vehicle.user.address.city_code":"130100"
+    }).sort({"create_at":-1})
+
+
+db.share_job.update({_id:ObjectId("548a88fe01000085dac3d02c")}, {"$set":{"status":"pending"}})
+
+
+// 时间倒序58可用代运营
+db.share_job.find({
+    "share_account.website":"58.com",
+    "share_account.username":"北京看车二手车",
+    "share_account.account_type":"substitute",
+    "url":{$ne:null}
+    }).sort({"create_at":-1})
+
+
+db.share_job.find({
+  "share_account.website":"58.com",
+  "share_account.password":"cheyou321"
+})
+
+// share_job
+db.share_job.find({"url":{$ne:null}, "share_account.website":"58.com","share_account.account_type":"substitute"})
+
+
+db.share_job.find({"share_account.website":"58.com","share_account.account_type":"substitute"})
+
+shijiazhuang
+
+vehicle.user.address.cityCode 130100
+vehicle.user.address.cityCode 石家庄
+category send
+url empty
+account_type" : "public",
+
+db.share_job.update({_id:ObjectId("53fc942e0100007765ec3690")}, {"$set":{"status":"pending"}})
+
+
+
+//测试代码
+db.share_job.update({_id:ObjectId("540023f1010000420498c1cb")}, {"$set":{"status":"pending"}})
+
+//数据清空代码
+db.share_job.remove({"create_at":{"$lt":ISODate("2014-11-10T19:30:07.805Z")}})
+
+
+//bejing public:
+db.share_job.update({"share_account.website":"taoche.com" }, {"$set":{"category":"send", "share_account.account_type":"public", "url":"", "vehicle.user.address.province_code":"110000", "vehicle.user.address.city_code":"110100", "vehicle.user.address.district_code":"110106"}}, {multi: true })
+db.share_job.update({"share_account.website":"51auto.com" }, {"$set":{"category":"send", "share_account.account_type":"public", "url":"", "vehicle.user.address.province_code":"110000", "vehicle.user.address.city_code":"110100", "vehicle.user.address.district_code":"110106"}}, {multi: true })
+db.share_job.update({"share_account.website":"iautos.cn" }, {"$set":{"category":"send", "share_account.account_type":"public", "url":"", "vehicle.user.address.province_code":"110000", "vehicle.user.address.city_code":"110100", "vehicle.user.address.district_code":"110106"}}, {multi: true })
+db.share_job.update({"share_account.website":"baixing.com" }, {"$set":{"category":"send", "share_account.account_type":"public", "url":"", "vehicle.user.address.province_code":"110000", "vehicle.user.address.city_code":"110100", "vehicle.user.address.district_code":"110106"}}, {multi: true })
+db.share_job.update({"share_account.website":"hx2car.com" }, {"$set":{"category":"send", "share_account.account_type":"public", "url":"", "vehicle.user.address.province_code":"110000", "vehicle.user.address.city_code":"110100", "vehicle.user.address.district_code":"110106"}}, {multi: true })
+
+//shijiazhuang,public:
+db.share_job.update({"share_account.website":"taoche.com" }, {"$set":{"category":"send", "share_account.account_type":"public", "url":"", "vehicle.user.address.city_code":"130100", "vehicle.user.address.district_code":"130102"}}, {multi: true })
+
+
+// 可选的
+db.share_job.remove({"share_account.website":"hx2car.com"})
+db.share_job.remove({"share_account.website":"baixing.com"})
+db.share_job.remove({"share_account.website":"51auto.com"})
+db.share_job.remove({"share_account.website":"iautos.cn"})
+db.share_job.remove({"share_account.website":"taoche.com"})
+
+
+58全部成功
+ganji 1辆车传不上去,有3辆车 重试了一次后来成功,验证码不正确
+che168 3辆车上不去
+
+ganji 车型匹配失败 ObjectId("547ed54d010000e519f2d6e9")
+che168 10|0 ObjectId("547ed4d3010000b519f2d6c2")
+che168 10|0 ObjectId("547ed546010000c319f2d6d2")
+che168 10|0 ObjectId("547ed579010000e519f2d74b")
+
+url 还没有回填,需要等一下

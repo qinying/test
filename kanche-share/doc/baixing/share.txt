@@ -1,0 +1,137 @@
+
+获取发布页面
+curl -v http://beijing.baixing.com/fabu/ershouqiche \
+  --cookie "__trackId=140852921731695;__city=beijing;__uuid=114085292178116.1b8b1;__t=ut53c38ed3a14fe6.15683305;__u=110915048;__c=b5c566309e2cea0bacf0462ec676a34de4e2ac55;__n=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6" \
+  > share_get.html
+
+返回结果
+< Set-Cookie: __ascc=1408529806; expires=Thu, 21-Aug-2014 10:16:46 GMT; path=/; domain=baixing.com
+
+<input type="hidden" maxlength="50" name="token" value="901d8b5c34dc6baa41819308f93da629" order="24"
+                       title="[token]" class="input" data-parent=".p-line"/>
+
+提交车源数据
+curl -v http://beijing.baixing.com/fabu/ershouqiche \
+  --request POST \
+  --header "Content-Type: application/x-www-form-urlencoded" \
+  --cookie "__trackId=140852921731695;__city=beijing;__uuid=114085292178116.1b8b1;__t=ut53c38ed3a14fe6.15683305;__u=110915048;__c=b5c566309e2cea0bacf0462ec676a34de4e2ac55;__n=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6;__ascc=1408529806" \
+  --data "pay=" \
+  --data "wanted=0" \
+  --data "title=啊啊啊" \
+  --data "车品牌=m9687" \
+  --data "车系列=大众桑塔纳志俊" \
+  --data "车型=大众桑塔纳志俊 2008款 1.8l 手动 休闲型" \
+  --data "类型=m177927" \
+  --data "年份=2013年" \
+  --data "行驶里程=12" \
+  --data "价格=22" \
+  --data "content=aaa" \
+  --data "images[]=" \
+  --data "地区[]=m7294" \
+  --data "地区[]=m2616" \
+  --data "具体地点=望京SOHO" \
+  --data "QQ号=" \
+  --data "contact=15300066914" \
+  --data "token=901d8b5c34dc6baa41819308f93da629" \
+  --data "车辆颜色=白" \
+  --data "排量=2.0" \
+  --data "变速箱=自动" \
+  --data "购置税=齐全" \
+  --data "行驶证=齐全" \
+  --data "购车发票=齐全" \
+  --data "维修记录=齐全" \
+  --data "重大事故=无" \
+  --data "承担过户费=是" \
+  > share_post.html
+
+返回结果 - 成功
+< Location: /ershouqiche/a398542169.html?postSuccess=1
+
+
+原始信息
+--Request Headers--
+GET /fabu/ershouqiche/? HTTP/1.1
+Host: beijing.baixing.com
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Referer: http://beijing.baixing.com/fabu/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Cookie: __asjfcc=1408518497; __asjfcc=1408518438; __trackId=140851835492123; __city=beijing; __ascc=1408518497; _ga=GA1.2.326963059.1408518354; __uuid=114084171399475.b5bef
+If-Modified-Since: Wed, 20 Aug 2014 07:08:17 GMT
+
+--Response Headers--
+HTTP/1.1 200 OK
+Date: Wed, 20 Aug 2014 07:08:28 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __ascc=1408518508; expires=Thu, 21-Aug-2014 07:08:28 GMT; path=/; domain=baixing.com
+Vary: Accept-Encoding
+Last-Modified: Wed, 20 Aug 2014 07:08:28 GMT
+Cache-Control: private, max-age=0, no-cache, must-revalidate, no-cache=Set-Cookie, proxy-revalidate
+Expires: -1
+BX-ReID: 53f4496cc5f4655715
+Content-Encoding: gzip
+
+
+--Request Headers--
+POST /fabu/ershouqiche HTTP/1.1
+Host: beijing.baixing.com
+Connection: keep-alive
+Content-Length: 1272
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://beijing.baixing.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://beijing.baixing.com/fabu/ershouqiche
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Cookie: __asjfcc=1408521584; __asjfcc=1408523673; __trackId=140851941050299; __city=beijing; __fb=1; _auth_type=frontendUnknown; __t=ut53c38ed3a14fe6.15683305; __u=110915048; __c=b5c566309e2cea0bacf0462ec676a34de4e2ac55; __n=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; _ppc_t=1; __ascc=1408523673; _ga=GA1.2.1360359190.1408519410; __uuid=114084171399475.b5bef; _auth_redirect=http%3A%2F%2Fbeijing.baixing.com%2Ffabu%2Fershouqiche%2F%3F
+Form Data:
+pay:
+wanted:0
+title:啊啊啊啊啊啊
+车品牌:m7890
+车系列:宝马3系
+车型:宝马3系 2003款 325i
+类型:m177926
+年份:2012年
+行驶里程:12.3
+价格:23.4
+content:啊啊啊啊啊啊
+images[]:
+images[]:/8054e896bca8c4ab9f0bb800279c9304.jpg
+地区[]:m7294
+地区[]:m2600
+具体地点:望京SOHO
+QQ号:123456
+contact:15300066914
+token:ae9a6709131d226088724ba71152d89d
+车辆颜色:白
+排量:2.0T
+变速箱:自动
+购置税:齐全
+行驶证:齐全
+购车发票:齐全
+维修记录:齐全
+重大事故:有
+承担过户费:是
+7720e540a73e80522c4c1c54fa2b1dbf:98dd2340fc3d5f3d245391805bea414a
+577fdfff3de2d95a350f71d26e3c68d6:696f73d604f2919c1f78e0b7e6395049
+988531cc13d548e14c7021d122b4913e:
+709131d2:9131d226
+
+
+--Response Headers--
+HTTP/1.1 302 Found
+Date: Wed, 20 Aug 2014 08:36:21 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: close
+Set-Cookie: __ascc=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=baixing.com
+Set-Cookie: __asjfcc=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=baixing.com
+Vary: Accept-Encoding
+Location: /ershouqiche/a398448265.html?postSuccess=1

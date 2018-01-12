@@ -1,0 +1,29 @@
+Remote Address:219.148.35.190:80
+Request URL:http://dealer.che168.com/Handler/SaleMan/SaveSaleMan.ashx?Name=%u9500%u552E%u4EE3%u8868&Mobile=13711592683&QQ=&weixin=&pic=&file=
+Request Method:GET
+Status Code:200 OK
+Request Headersview source
+Accept:*/*
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Connection:keep-alive
+Cookie:sessionid=a09f00f6-83c4-4ab3-87b6-ba31ae990239; tagid=7A5B8370-EC18-6B83-4A4A-B75CAB2F44B7; DealerCheckCode=864416D55768A5F5; 2scDealerInfo=D99142AA0878B5938447AB39F8FE4246991F597A864DDDB548C83CED7207A55668C077E66F3E3FD24427F5D1AEFABC34004D9DA9BD913D25DB7AF3C2D6E7B1885F7590083024B79E; 2scDealerName=%e5%8c%97%e4%ba%ac%e7%9c%8b%e7%9c%8b%e8%bd%a6%e4%ba%8c%e6%89%8b%e8%bd%a6; 2scDealerId=147591; UsedCarBrowseHistory=2834690,2781104,2793206,2790426; __utma=247243734.192937428.1402486071.1403052539.1403145781.8; __utmc=247243734; __utmz=247243734.1402810467.2.2.utmcsr=dealer.che168.com|utmccn=(referral)|utmcmd=referral|utmcct=/car/carlist/; userarea=0; sessionvisit=be65f67d-948d-45d9-bfa4-03a4a7dab88b; sessionip=106.39.1.210; area=439999; __utma=209014663.1503156567.1402280702.1403052537.1403486808.11; __utmb=209014663.2.10.1403486808; __utmc=209014663; __utmz=209014663.1402280702.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Host:dealer.che168.com
+Referer:http://dealer.che168.com/car/publish/
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Query String Parametersview sourceview URL encoded
+Name:(unable to decode value)
+Mobile:13711592683
+QQ:
+weixin:
+pic:
+file:
+Response Headersview source
+Cache-Control:no-cache
+Content-Length:7
+Content-Type:text/plain; charset=gb2312
+Date:Mon, 23 Jun 2014 01:28:36 GMT
+Expires:-1
+Pragma:no-cache
+s:12

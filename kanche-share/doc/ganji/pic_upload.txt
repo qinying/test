@@ -1,0 +1,86 @@
+POST http://image.ganji.com/upload.php
+
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding	gzip, deflate
+Accept-Language	zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Cache-Control	no-cache
+Connection	keep-alive
+Content-Length	2033781
+Content-Type	multipart/form-data; boundary=---------------------------1978848801546492604906615787
+Cookie	__utma=32156897.2062358889.1404698716.1409230310.1409238303.12; __utmz=32156897.1409238303.12.5.utmcsr=ganji.com|utmccn=(referral)|utmcmd=referral|utmcct=/vip/my_post_list.php; ganji_uuid=3166626199280883028767; citydomain=beihai; NTKF_T2D_CLIENTID=guest19CCE54D-D1DC-5348-CB2A-0E929D054DAD; ganji_xuuid=ae75fc40-38e5-4c47-d9e5-380daa85409a; _gl_tracker=%7B%22sid%22%3A75099183560%7D; __utmc=32156897; GANJISESSID=a3720a59bc8e7fd422831cc8509b1b81; sscode=ogL2ptvepu%2Fl5zXIog2Btqph; GanjiUserName=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; GanjiUserInfo=%7B%22user_id%22%3A363275351%2C%22email%22%3A%22%22%2C%22username%22%3A%22%5Cu5317%5Cu4eac%5Cu770b%5Cu8f66%5Cu4e8c%5Cu624b%5Cu8f66%22%2C%22user_name%22%3A%22%5Cu5317%5Cu4eac%5Cu770b%5Cu8f66%5Cu4e8c%5Cu624b%5Cu8f66%22%2C%22nickname%22%3A%22%5Cu770b%5Cu8f66%5Cu5e2e%22%7D; bizs=%5B7%5D; supercookie=ZmLmZwp1ZmHkWQN4BQDkMJDjZGWwMzZ1LGtjZwH4MGL2AzHlMwx5AJR3LzH0L2LmLGR%3D; LastLoginTime=114-8-29; STA_DS=0; NTKF_PAGE_MANAGE=%7B%22m%22%3A%5B%7B%2211343%22%3A416433%7D%5D%2C%22t%22%3A%2200%3A00%3A43%22%7D; NTKF_CACHE_DATA=%7B%22uid%22%3Anull%2C%22tid%22%3Anull%2C%22fid%22%3A%221409230618756186%22%2C%22d%22%3A%7B%7D%7D; __utmb=32156897.8.10.1409238303; last_name=%E5%8C%97%E4%BA%AC%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6; _gl_speed=%5B%22%2Fpub%2Fpub_select.php%22%2C1409241614298%5D
+Host	image.ganji.com
+Pragma	no-cache
+Referer	http://image.ganji.com/uploader2.html?v=201207301726
+User-Agent	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:31.0) Gecko/20100101 Firefox/31.0
+
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="maxSize"
+
+10485760
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="resizeImage"
+
+true
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="resizeWidth"
+
+800
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="resizeHeight"
+
+600
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="resizeCutEnable"
+
+false
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="createThumb"
+
+false
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="thumbWidth"
+
+80
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="thumbHeight"
+
+80
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="thumbCutEnable"
+
+true
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="minWidth"
+
+0
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="minHeight"
+
+0
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="uploadDir"
+
+vehicle
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="MAX_FILE_SIZE"
+
+10485760
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="type"
+
+gif,jpg,jpeg,png,bmp
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="_guid"
+
+guid_1_14092309963850_9445852905713725
+-----------------------------14074886231128915056657324947
+Content-Disposition: form-data; name="file"; filename="6b41c925gw1eft0kckb83j20dw0dw3zk.jpg"
+Content-Type: image/jpeg
+
+ÿØÿà�JFIF��`�`��ÿÛ�C�
+
+
+===================================
+{"error":0,"text":"\u4e0a\u4f20\u6210\u529f","info":[{"url":"gjfs08\/M04\/39\/D7\/wKhzWFP,Umepcj71AAJFte9PrlI816.jpg","thumbUrl":"gjfs08\/M04\/39\/D7\/wKhzWFP,Umepcj71AAJFte9PrlI816_80-80c_6-0.jpg","image_info":[800,600]}]}
+
+{"error":0,"text":"\u4e0a\u4f20\u6210\u529f","info":[{"url":"gjfs08\/M0B\/1B\/10\/wKhz9VQPSJ,xVw,mAADiQKO-bTo810.jpg","thumbUrl":"gjfs08\/M0B\/1B\/10\/wKhz9VQPSJ,xVw,mAADiQKO-bTo810_80-80c_6-0.jpg","image_info":[800,600]}]}

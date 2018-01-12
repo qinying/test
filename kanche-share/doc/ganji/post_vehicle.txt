@@ -1,0 +1,195 @@
+GET http://www.ganji.com/pub/pub.php?act=pub&method=load&cid=6&mcid=14&domain=bj&deal=1
+
+如果存在如下的html片段
+<tr id="showcode" style="display:;">
+<td>
+<td>验证码</td>
+<td>
+<input id="checkcode_input" class="input2" maxlength="4" value="" name="checkcode" autocomplete="off">
+<img id="img_checkcode" align="absmiddle" src="/common/checkcode.php?nocache=1409301207">
+<span id="tip_span_checkcode"></span>
+<script>
+<a onclick="resetCheckcode();return false;" href="javascript:void(0);">看不清？换个验证码</a>
+</td>
+</tr>
+则需要验证码
+
+POST http://www.ganji.com/pub/pub.php?act=pub&cid=6&mcid=14&method=submit&domain=bj
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="major_category_id"
+14
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="auto_type"
+
+0
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="autotype"
+
+0
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="beforeAudit"
+
+false
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="show_before_audit"
+
+0
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="show_before_audit_reason"
+
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="origin"
+
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="deal_type"
+
+1
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="minor_category"
+
+本田
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="minorCategory"
+
+1196,honda,本田
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="tag"
+
+2709,i-yage,雅阁
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="car"
+26157
+
+-----------------------------6132805971632971826516470922
+
+Content-Disposition: form-data; name="user_defined_category"
+
+2012款 2.0L 手动
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="car_color"
+
+1
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="gearbox"
+
+1
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="air_displacement"
+
+2.0
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="accidents"
+
+1
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="license_date"
+
+2012
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="license_year"
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="license_math"
+
+2
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="insurance_year_add"
+
+2016
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="insurance_month_add"
+
+2
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="strong_insurance_year"
+
+2016
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="strong_insurance_month"
+
+2
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="road_haul"
+
+4
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="price"
+
+20
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="images"
+
+[[{"image":"gjfs08/M04/BE/62/wKhz9VP,S1eMLwvHAAGdyfweHpg507.jpg","thumb_image":"gjfs08/M04/BE/62/wKhz9VP,S1eMLwvHAAGdyfweHpg507_80-80c_6-0.jpg","width":800,"height":600,"id":"guid_3_14092398907040_6306884471418094","is_new":true}],[]]
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="is_video_upload"
+
+0
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="video_unique"
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="title"
+
+本田雅阁2012款 2.0L 手动
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="description"
+
+车很新，几乎没有划痕，没有过碰撞。
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="four_s"
+
+2
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="imageSecond"
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="person"
+
+老王
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="agent"
+
+2
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="phone"
+
+13811927333
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="back_phone"
+
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="district_id"
+
+179
+-----------------------------6132805971632971826516470922
+Content-Disposition: form-data; name="checkcode"
+
+-----------------------------6132805971632971826516470922--
+
+
+返回头
+
+HTTP/1.1 302 Moved Temporarily
+
+Server: nginx
+
+Date: Fri, 29 Aug 2014 08:42:30 GMT
+
+Content-Type: text/html
+
+Transfer-Encoding: chunked
+
+Connection: keep-alive
+
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+
+Location: http://bj.ganji.com/common/success.php?id=5045712&title=MINI%28%E8%BF%B7%E4%BD%A0%29MiniCooper&category=vehicle&type=1&district_id=6&bang=1
+

@@ -1,0 +1,51 @@
+POST /api/infopostpic/addpic HTTP/1.1
+Host: api.wireless.58.com
+imei: 0f607264fc6318a92b9e13c65db7cd3c
+Cookie: JSESSIONID=1BD883AA5B49D73B432B0DEA8B30EB5F; 58cooper="userid=24163039925511&username=goqnz_p2&cooperkey=8f8d78219579ed8c582a02891526f708"; 58openudid="AABB6529-ABE3-453C-A935-309D3E703BF2"; Accept-Encoding="deflate,gzip"; apn="WIFI"; channelid="80000"; charset="UTF-8"; cid="1"; cimei="0f607264fc6318a92b9e13c65db7cd3c"; cversion="5.6.2"; f="58"; id58=05dz8VPNpkyZ4l12LrHKAg==; locationstate="0"; m="0f607264fc6318a92b9e13c65db7cd3c"; mcity="1"; openudid="c9ba05e18e80dbc3e338f5c11f2b6fa358f90ace"; os="ios"; osv="7.1.2"; pager="1"; platform="iphone"; PPU="UID=24163039925511&PPK=58fbf28b&PPT=415972c0&SK=4E2D7FDC8FC545758660AB89E29C8FC7666B860098DA93641&LT=1406719166473&UN=goqnz_p2&LV=e5d60885"; productorid="3"; r="320_548"; sid="c9ba05e18e80dbc3e338f5c11f2b6fa358f90ace"; source="toppublish"; ua="iPhone 5S_iOS 7.1.2"; uid="24163039925511"; uploadtime="20140730191930"; uuid="9BFCF3D5-65C3-469B-AE7A-BCA272C6983B"; www58com="AutoLogin=false&UserID=24163039925511&UserName=goqnz_p2&CityID=0&Email=&AllMsgTotal=0&CommentReadTotal=0&CommentUnReadTotal=0&MsgReadTotal=0&MsgUnReadTotal=0&RequireFriendReadTotal=0&RequireFriendUnReadTotal=0&SystemReadTotal=0&SystemUnReadTotal=0&UserCredit=0&UserScore=0&PurviewID=&IsAgency=false&Agencys=null&SiteKey=1FC200CCC2CA2C7E99C63D42B460C5112BAF93D807A0CBB09&Phone=&WltUrl=&UserLoginVer=53115061EEDA8F62CD502D20C21C107FB&LT=1406719166469"
+productorid: 3
+r: 320_548
+uuid: 9BFCF3D5-65C3-469B-AE7A-BCA272C6983B
+Connection: keep-alive
+58mac: 02:00:00:00:00:00
+version: 5.6.2
+f: 58
+charset: UTF-8
+openudid: c9ba05e18e80dbc3e338f5c11f2b6fa358f90ace
+ua: iPhone 5S_iOS 7.1.2
+osv: 7.1.2
+Accept-Encoding: deflate, gzip
+channelid: 80000
+os: ios
+apn: WIFI
+Accept-Language: zh-Hans;q=1, en;q=0.9, fr;q=0.8, de;q=0.7, ja;q=0.6, nl;q=0.5
+User-Agent: iphone/5.6.2 (iPhone; iOS 7.1.2; Scale/2.00)
+sid: c9ba05e18e80dbc3e338f5c11f2b6fa358f90ace
+Accept: */*
+uid: 24163039925511
+58openudid: AABB6529-ABE3-453C-A935-309D3E703BF2
+58idfa: 7D13B0AF-4151-4DC2-874F-A2E752D2C56D
+platform: iphone
+Content-Type: multipart/form-data; boundary=Boundary+3CF863268F0AB96C
+Content-Length: 160628
+uploadtime: 20140730192155
+
+--Boundary+3CF863268F0AB96C
+Content-Disposition: form-data; name="fileType"
+
+jpg
+--Boundary+3CF863268F0AB96C
+Content-Disposition: form-data; name="file1"; filename="file1"
+Content-Type: image/jpeg
+
+ˇÿˇ‡
+
+
+
+
+{
+	"infocode": "000000",
+	"result": "/mobile/big/n_s02366572311643013036.jpg",
+	"infotext": ""
+}
+
+http://pic.58.com//mobile/big/n_s02366572311643013036.jpg

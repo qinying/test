@@ -1,0 +1,81 @@
+=======================================
+REQUEST HEADER
+	POST /1/29/s5/submit?&topcate=car&currentcate=ershouche&id=29&location=1,1142,1203&geotype=baidu&geoia=40.003740,116.486700&formatsource=listpublish&&os=ios&isdraft=true&webaddress=0x14f53b70 HTTP/1.1
+Host	p.webapp.58.com
+Accept-Language	zh-cn
+User-Agent	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B436
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Referer	http://p.webapp.58.com/1/29/s5?s5&topcate=car&currentcate=ershouche&id=29&location=1,1142,1203&geotype=baidu&geoia=40.003740,116.486700&formatsource=listpublish&&os=ios&isdraft=true&webaddress=0x14f53b70
+Content-Type	application/x-www-form-urlencoded
+Connection	keep-alive
+Cookie	58cooper="userid=346484090886&username=mactivemac&cooperkey=a8cd5b723bacb30edaf447b0c65429b6"; 58openudid="7ED61950-33C6-4446-8B23-0E7C6D970DA1"; __utma=253535702.1364553168.1418008400.1418008400.1418008400.1; __utmb=253535702.4.10.1418008400; __utmc=253535702; __utmt_pageTracker=1; __utmz=253535702.1418008400.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); Accept-Encoding="deflate,gzip"; apn="WIFI"; channelid="80000"; charset="UTF-8"; cid="1"; cimei="0f607264fc6318a92b9e13c65db7cd3c"; cookieuid1=CgUSZFSFEDdaSg8VBYS7Ag==; cversion="5.7.6"; f="58"; id58=05dz8FSFEDZCknj6PQgcAg==; init_refer=; lat="40.003720"; locationstate="1"; lon="116.486880"; ltext="%E5%8C%97%E4%BA%AC-%E6%9C%9D%E9%98%B3-%E6%9C%9B%E4%BA%AC"; m="0f607264fc6318a92b9e13c65db7cd3c"; maptype="1"; new_session=0; openudid="962cd790ef981187484f58d27b0002a10b1c07c6"; operate="first"; os="ios"; osv="8.1.1"; owner="google"; pager="1"; platform="iphone"; PPU="UID=346484090886&PPK=9a1be77b&PPT=18c2d2e6&SK=1FC200CCC2CA2C7E9B47B6752350130D58C8F31D015766F3B&LT=1418008696476&UN=mactivemac&LV=57022989"; productorid="3"; r="320_548"; sid="962cd790ef981187484f58d27b0002a10b1c07c6"; source="ordinarycate"; ua="Unknown iPhone_iOS 8.1.1"; uid="346484090886"; uploadtime="20141208104307"; uuid="E661F4FA-5E80-42DE-96E1-B44451222F1B"; www58com="AutoLogin=false&UserID=346484090886&UserName=mactivemac&CityID=0&Email=&AllMsgTotal=0&CommentReadTotal=0&CommentUnReadTotal=0&MsgReadTotal=0&MsgUnReadTotal=0&RequireFriendReadTotal=0&RequireFriendUnReadTotal=0&SystemReadTotal=0&SystemUnReadTotal=0&UserCredit=0&UserScore=0&PurviewID=&IsAgency=false&Agencys=null&SiteKey=53115061EEDA8F62CB9C774909E3C09759670F4E3749CD346&Phone=&WltUrl=&UserLoginVer=53115061EEDA8F62CDA0AA53178C5942E&LT=1418007217954"
+Content-Length	1098
+Origin	http://p.webapp.58.com
+Accept-Encoding	gzip, deflate
+
+
+=======================================
+
+REQUEST FORM
+application/x-www-form-urlencoded
+
+brand=408844&chexi=409244&carchexing=409250&cheshenyanse=2&buytime=2010&rundistance=10&Content=%E8%BD%A6%E8%BE%86%E4%B8%8D%E9%94%99%EF%BC%8C%E5%98%8E%E5%98%8E%E6%96%B0%EF%BC%8C%E8%80%81%E5%A5%BD%E4%BA%86&MinPrice=35&Title=%E5%A5%A5%E8%BF%AAQ5+2011%E6%AC%BE+2.0T+FSI+%E6%8A%80%E6%9C%AF%E5%9E%8B+%E7%99%BD%E8%89%B2&goblianxiren=%E5%BC%A0%E5%85%88%E7%94%9F&Phone=18610205279&isBiz=0&type=0&Pic=%2Fmobile%2Fbig%2Fn_s12551537710682545156.jpg%7C%2Fmobile%2Fbig%2Fn_s12551537750299086164.jpg%7C%2Fmobile%2Fbig%2Fn_s02551537739485236156.jpg%7C%2Fmobile%2Fbig%2Fn_s12551537744597480165.jpg&gobquzhi=brand%3D%25E5%25A5%25A5%25E8%25BF%25AA%26chexi%3DQ5%26carchexing%3D2011%25E6%25AC%25BE%25202.0T%2520FSI%2520%25E6%258A%2580%25E6%259C%25AF%25E5%259E%258B%26cheshenyanse%3D%25E7%2599%25BD%25E8%2589%25B2%26buytime%3D2010%25E5%25B9%25B4%26Content%3D%25E8%25BD%25A6%25E8%25BE%2586%25E4%25B8%258D%25E9%2594%2599%25EF%25BC%258C%25E5%2598%258E%25E5%2598%258E%25E6%2596%25B0%25EF%25BC%258C%25E8%2580%2581%25E5%25A5%25BD%25E4%25BA%2586%26type%3D&formatsource=listpublish&headerData=&shoujishipai=617382&hidPostParam=0
+
+=======================================
+
+REQUEST FORM
+
+brand	408844
+chexi	409244
+carchexing	409250
+cheshenyanse	2
+buytime	2010
+rundistance	10
+Content	车辆不错，嘎嘎新，老好了
+MinPrice	35
+Title	奥迪Q5 2011款 2.0T FSI 技术型 白色
+goblianxiren	张先生
+Phone	18610205279
+isBiz	0
+type	0
+Pic	/mobile/big/n_s12551537710682545156.jpg|/mobile/big/n_s12551537750299086164.jpg|/mobile/big/n_s02551537739485236156.jpg|/mobile/big/n_s12551537744597480165.jpg
+gobquzhi	brand=%E5%A5%A5%E8%BF%AA&chexi=Q5&carchexing=2011%E6%AC%BE%202.0T%20FSI%20%E6%8A%80%E6%9C%AF%E5%9E%8B&cheshenyanse=%E7%99%BD%E8%89%B2&buytime=2010%E5%B9%B4&Content=%E8%BD%A6%E8%BE%86%E4%B8%8D%E9%94%99%EF%BC%8C%E5%98%8E%E5%98%8E%E6%96%B0%EF%BC%8C%E8%80%81%E5%A5%BD%E4%BA%86&type=
+formatsource	listpublish
+headerData	
+shoujishipai	617382
+hidPostParam	0
+
+
+=======================================
+RESPONSE HEADER
+
+	HTTP/1.1 200 OK
+Server	nginx/1.4.7
+Date	Mon, 08 Dec 2014 03:18:27 GMT
+Content-Type	text/html;charset=UTF-8
+Transfer-Encoding	chunked
+Connection	keep-alive
+Set-Cookie	postedinfo=20225114612610; Domain=.58.com; Expires=Mon, 08-Dec-2014 03:33:27 GMT; Path=/
+Set-Cookie	postedinfo1=20225114612610; Domain=.58.com; Expires=Mon, 08-Dec-2014 03:23:27 GMT; Path=/
+Content-Encoding	gzip
+Vary	Accept-Encoding
+
+=======================================
+
+RESPONSE BODY
+
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/m58/app58/m_static/js/jq.mobi.min.js?cachevers=25"></script>
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/m58/app58/js/common/mclient.framework5.js?cachevers=140"></script> 
+<script type="text/javascript" charset="utf-8" src="http://pic2.58.com/m58/msite/js/lib/mclient.statistics2.js?cachevers=174"></script> 
+ <!-- start -->
+ <div id="fb_valitate_pic_id">
+        <!-- 验证 start -->
+ 	   
+	 <!-- end -->	
+		<script type="text/javascript">
+
+				           	    	
+	    			parent.window.datasrc.pingan_fabuchexing=false;
+	$.post(parent.window.datasrc.pingan_fabuchexing+"/"+"false"+".php");
+	parent.window.$.publish.postCallback(false,0,"发布成功，您可以在“个人中心-我的发布”中查看、刷新或删除信息。APP用户享有额外免费刷新特权！","4,29","listpublish","20225114612610");
+	</script>

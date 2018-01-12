@@ -1,0 +1,396 @@
+Remote Address:127.0.0.1:1080
+Request URL:http://post.58.com/v1/29/s5//submit?source=car&rand=0.060769109055399895
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh-TW;q=0.4
+Cache-Control:max-age=0
+Connection:keep-alive
+Content-Length:10726
+Content-Type:multipart/form-data; boundary=----WebKitFormBoundarykvyRkkPjZTyZguCW
+Cookie:id58=05dvOVM1eNRWjh73O33eAg==; nearby=NOTSHOW; xxzl_cp=50ec6c6a6da24e2991002fd4f4fd2a6a190; city=lf; www58com="AutoLogin=false&UserID=25164487825159&UserName=%E5%8C%97%E4%BA%AC%E7%9C%8B%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&CityID=0&Email=&AllMsgTotal=0&CommentReadTotal=0&CommentUnReadTotal=0&MsgReadTotal=0&MsgUnReadTotal=0&RequireFriendReadTotal=0&RequireFriendUnReadTotal=0&SystemReadTotal=0&SystemUnReadTotal=0&UserCredit=0&UserScore=0&PurviewID=&IsAgency=false&Agencys=null&SiteKey=08CDD29DF3C9758879E8D520370FEBC49BCC9EE41AF6A4929&Phone=&WltUrl=&UserLoginVer=53115061EEDA8F62CD502D20C21C107FB&LT=1410455471909"; 58cooper="userid=25164487825159&username=%E5%8C%97%E4%BA%AC%E7%9C%8B%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&cooperkey=d7dabd9b002f9008b1f8e1b65e4c6f2b"; PPU="UID=25164487825159&PPK=d861de31&PPT=e510e710&SK=1FC200CCC2CA2C7E95EBDD397A081F25907F7119F9EFA9A3D&LT=1410455471912&UN=%E5%8C%97%E4%BA%AC%E7%9C%8B%E7%9C%8B%E8%BD%A6%E4%BA%8C%E6%89%8B%E8%BD%A6&LV=e5d60885"; vip=v%3D1%26vipuserpline%3D0%26masteruserid%3D25164487825159%26vipkey%3D2a091a3001ce6ae4e483bb53e457b04b%26vipusertype%3D0; myfeet_tooltip=end; bangbangid=25164487825159; post_uuid=09a7e016-8a67-4bee-94db-7177cfb2cbb1; new_session=0; init_refer=; CNZZDATA30017898=cnzz_eid%3D583740172-1410455494-http%253A%252F%252Finfo.vip.58.com%252F%26ntime%3D1410455495; bangtoptipclose=1; __utma=253535702.439443889.1396013271.1408326392.1410455441.59; __utmb=253535702.13.8.1410455856916; __utmc=253535702; __utmz=253535702.1406652514.53.17.utmcsr=my.58.com|utmccn=(referral)|utmcmd=referral|utmcct=/infoall/; __utmv=253535702.1846486219015|1=UserType=VIP=1
+Host:post.58.com
+Origin:http://post.58.com
+Referer:http://post.58.com/v1/29/s5/
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+Query String Parametersview sourceview URL encoded
+source:car
+rand:0.060769109055399895
+Request Payload
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="zimu"
+
+408795
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="brand"
+
+415955
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="chexi"
+
+415956
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="ObjectType"
+
+1
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="carchexing"
+
+415961
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="displacement"
+
+408957
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="gearbox"
+
+408822
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="kucheid"
+
+429253
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shangshishijian"
+
+515726
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="chexingyanse"  #Lack
+
+515986
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="jibense" #Lack
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="zbjcfanwei" #Lack
+
+524249
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="yczb_cheling"
+
+524252
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="yczb_licheng"
+
+524251
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="madein"
+
+408852
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="chexibieming"
+
+583270
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="erscpinpai"
+
+马自达睿翼
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="rundistanceqj"
+
+3_5
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="chelingqj"
+
+2010_2012
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="buytime"
+
+2012
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shangpaiyuefen"
+
+515683
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="buyfrom"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="baoyang"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="yunying"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shiguqk"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="chengse" #Lack
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="neishi"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="syxian"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shouxu"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="cheshenyanse" #Removed
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="pic"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="pictag"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc1"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc2"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc3"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc4"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc5"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc6"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc7"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc8"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc9"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc10"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc11"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc12"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc13"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc14"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc15"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="picdesc16"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="imageLoad"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="rundistance"
+
+3
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="MinPrice"
+
+14
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="MinPriceqj"
+
+40_999999
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="Title"
+
+马自达睿翼 2010款 2.0 豪华版-车况很好
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="Content"
+
+车很新，无大小事故，车况超好。
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="goblianxiren"
+
+赵先生
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="Phone"
+
+15201185505
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="IM"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="qitadianhua"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="type"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="cspailiang"
+
+2.0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="biansuqi"
+
+自动
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shigumiaoshu"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="cjshijian"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="qxshijian"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="syshijian"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="xinxibianhao"
+
+L2G0YT
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="yczbpic"
+
+
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="yczhibao"
+
+525381
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="xbsx"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="qtkt" #Lack
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="mianfeiguohu" #Lack
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shangpainianyue"
+
+201203
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="cateapplyed"
+
+29
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="localapplyed"
+
+1
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shifoufufeifabu"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shifouyishou"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="escwltv2"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="paifangbiaozhun"
+
+412
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="wanglintongbieming"
+
+北京看看车信息技术有限公司
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="shifoupifa"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="car_promotion"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="hidPostParam"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="iqas_mcresult"
+
+1232121154366192521444659242
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="cube_post_jsonkey"
+
+{"jzJson":null,"znJson":null,"zdJson":null,"jzFee":"0","znFee":"0","zdFee":"0","jzCop":"0","znCop":"0","zdCop":"0","sourceId":"1507","productId":"100002","secondCateId":"29","dispSecondCateId":"29","cityId":"1","dispCityId":"1","showZd":1,"showZn":1,"showCpt":0,"showCpc":1}
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="HiddenForPara"
+
+5863:zimu|5866:brand|5867:chexi|2539:ObjectType|5868:carchexing|5871:displacement|5872:gearbox|5880:kucheid|6809:shangshishijian|6810:chexingyanse|6851:jibense|7067:zbjcfanwei|7068:yczb_cheling|7069:yczb_licheng|5870:madein|6808:chexibieming|5865:rundistanceqj|5883:chelingqj|1196:buytime|6860:shangpaiyuefen|6852:buyfrom|6855:baoyang|6853:yunying|4922:shiguqk|6856:chengse|6857:neishi|6866:neishiquexian|6869:syxian|6859:shouxu|4917:cheshenyanse|5864:MinPriceqj
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="gobquzhi"
+
+zimu=M&brand=%E9%A9%AC%E8%87%AA%E8%BE%BE&chexi=%E7%9D%BF%E7%BF%BC&objecttype=%E8%BD%BF%E8%BD%A6&carchexing=2010%E6%AC%BE%202.0%20%E8%B1%AA%E5%8D%8E%E7%89%88&displacement=2.0&gearbox=%E8%87%AA%E5%8A%A8&kucheid=275822&shangshishijian=2009&chexingyanse=%E7%8F%A0%E5%85%89%E9%BB%91&zbjcfanwei=1&yczb_cheling=3&yczb_licheng=6&madein=%E5%90%88%E8%B5%84&chexibieming=%E9%A9%AC%E8%87%AA%E8%BE%BE%E7%9D%BF%E7%BF%BC&rundistanceqj=3-5%E4%B8%87%E5%85%AC%E9%87%8C&chelingqj=1-3%E5%B9%B4&buytime=2012%E5%B9%B4&shangpaiyuefen=3%E6%9C%88&minpriceqj=40%E4%B8%87%E4%BB%A5%E4%B8%8A&cateapplyed=29&localapplyed=1
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="gobalsokey"
+
+M|睿翼|2010款 2.0 豪华版|2.0|自动|275822|2009|珠光黑|1|3|6|合资|马自达睿翼|3-5万公里|2012年|3月|3万元|14万元
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="fcookie"
+
+7ce00a65-06fc-45c3-9ade-830abf2d8d02
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="hiddenTextBoxJoinValue"
+
+马自达:睿翼:2010款 2.0 豪华版:马自达睿翼 2010款 2.0 豪华版:车况很好:赵先生
+------WebKitFormBoundarykvyRkkPjZTyZguCW
+Content-Disposition: form-data; name="xiaobao_option"
+
+0
+------WebKitFormBoundarykvyRkkPjZTyZguCW--
+Response Headersview source
+Cache-Control:private
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:text/html;charset=UTF-8
+Date:Thu, 11 Sep 2014 17:17:36 GMT
+Server:nginx/1.4.7
+Set-Cookie:JSESSIONID=36DA644B830F2CC37536B9E44A8DD79B; Path=/; HttpOnly
+Set-Cookie:post_uuid=09a7e016-8a67-4bee-94db-7177cfb2cbb1; Expires=Sun, 14-Sep-2014 17:17:39 GMT; Path=/
+Set-Cookie:vpostedinfo=19258349744264; Domain=.58.com; Expires=Thu, 11-Sep-2014 17:32:39 GMT; Path=/
+Set-Cookie:postedinfo1=19258349744264; Domain=.58.com; Expires=Thu, 11-Sep-2014 17:22:39 GMT; Path=/
+Transfer-Encoding:chunked
+Vary:Accept-Encoding

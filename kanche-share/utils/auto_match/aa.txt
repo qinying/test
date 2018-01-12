@@ -1,0 +1,12599 @@
+foreignBrand:
+	大众#合资#新宝来
+localBrand:
+	大众#一汽大众#宝来#宝来
+新宝来
+foreignBrand:
+	路虎#进口#神行者2
+localBrand:
+	路虎#路虎汽车#Discovery [发现]#Discovery2 [发现2]
+神行者2
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 180
+C级
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 200 K
+C级
+foreignBrand:
+	日产#进口#风度
+localBrand:
+	日产#日产汽车#Cefiro [风度]#Cefiro A32 [风度 A32]
+风度
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250 Tourer
+C级(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 260 CGI Coupe
+E级(进口)
+foreignBrand:
+	华普#国产#海域
+localBrand:
+	华普#上海华普#海域#海域305
+海域
+foreignBrand:
+	大众#合资#高尔
+localBrand:
+	大众#上海大众#高尔#高尔
+高尔
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 SVT Raptor
+F系列
+foreignBrand:
+	宾利#进口#慕尚
+localBrand:
+	宾利#宾利汽车#Mulsanne [慕尚]#Mulsanne [慕尚]
+慕尚
+foreignBrand:
+	本田#进口#雅阁(进口)
+localBrand:
+	本田#本田汽车#Accord [雅阁]#Accord-R [雅阁-欧版]
+雅阁(进口)
+foreignBrand:
+	宝马#进口#3系GT
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#GT 328i
+3系GT
+foreignBrand:
+	法拉利#进口#法拉利456M
+localBrand:
+	法拉利#法拉利汽车#456#456 GTA
+法拉利456M
+foreignBrand:
+	标致#合资#307两厢
+localBrand:
+	标致#东风标致#307#307-两厢
+307两厢
+foreignBrand:
+	吉普#合资#切诺基
+localBrand:
+	Jeep#北京吉普#切诺基#切诺基
+切诺基
+foreignBrand:
+	全球鹰#国产#GX2
+localBrand:
+	全球鹰#吉利汽车#GX2#GX2
+GX2
+foreignBrand:
+	金杯#国产#第三代阁瑞斯
+localBrand:
+	金杯#华晨金杯#阁瑞斯#御领
+第三代阁瑞斯
+foreignBrand:
+	黄海#国产#挑战者
+localBrand:
+	黄海#曙光汽车#挑战者#挑战者
+挑战者
+foreignBrand:
+	林肯#进口#领航员
+localBrand:
+	林肯#福特汽车#Navigator [领航员]#Navigator [领航员]
+领航员
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#120d Convertible [120d 敞篷轿跑车]
+1系
+foreignBrand:
+	本田#进口#本田Insight
+localBrand:
+	本田#本田汽车#Insight [音赛特]#Insight [音赛特]
+本田Insight
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风彩色之旅
+瑞风
+foreignBrand:
+	雷克萨斯#进口#ES
+localBrand:
+	雷克萨斯#丰田汽车#ES#ES350
+ES
+foreignBrand:
+	英伦#国产#金刚
+localBrand:
+	英伦#吉利汽车#金刚#金刚
+金刚
+foreignBrand:
+	江淮#国产#和悦
+localBrand:
+	江淮#江淮汽车#和悦#和悦
+和悦
+foreignBrand:
+	特斯拉#进口#MODEL S
+localBrand:
+	TESLA#TESLA#Model S#Model S 85
+MODEL S
+foreignBrand:
+	现代#进口#劳恩斯
+localBrand:
+	现代#现代汽车#Rohens [劳恩斯]#Rohens [劳恩斯]
+劳恩斯
+foreignBrand:
+	起亚#合资#嘉华
+localBrand:
+	起亚#东风悦达起亚#嘉华#嘉华
+嘉华
+foreignBrand:
+	铃木#合资#奥拓
+localBrand:
+	铃木#长安铃木#奥拓#奥拓
+奥拓
+foreignBrand:
+	现代#合资#SONATA·御翔
+localBrand:
+	现代#北京现代#索纳塔#御翔
+SONATA·御翔
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325d Convertible [325d 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	克莱斯勒#进口#赛百灵
+localBrand:
+	克莱斯勒#克莱斯勒#Sebring [赛百灵]#Sebring [赛百灵]
+赛百灵
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 170
+A级
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝V系列#V70Ⅱ代
+佳宝
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#528i xDrive Touring [528i xDrive 旅行车]
+5系(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#DBS
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#DBS#DBS
+DBS
+foreignBrand:
+	大众#合资#开迪
+localBrand:
+	大众#一汽大众#开迪#开迪
+开迪
+foreignBrand:
+	依维柯#国产#Daily
+localBrand:
+	依维柯#南京依维柯#依维柯#依维柯A32
+Daily
+foreignBrand:
+	福特#进口#福克斯(进口)
+localBrand:
+	福特#福特汽车#Focus [福克斯]#Focus Wagon [福克斯 旅行车]
+福克斯(进口)
+foreignBrand:
+	标致#进口#406
+localBrand:
+	标致#标致汽车#406#406
+406
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750EX
+750
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#600 SEL
+S级
+foreignBrand:
+	雪佛兰#进口#EXPRESS
+localBrand:
+	雪佛兰#通用汽车#Express#Express3500
+EXPRESS
+foreignBrand:
+	马自达#进口#马自达8(进口)
+localBrand:
+	马自达#马自达汽车#Mazda8 [马自达8]#Mazda8 [马自达8]
+马自达8(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316g Touring [316g 旅行车]
+3系(进口)
+foreignBrand:
+	长城#国产#哈弗H6
+localBrand:
+	哈弗#长城汽车#H6#H6
+哈弗H6
+foreignBrand:
+	依维柯#国产#宝迪
+localBrand:
+	依维柯#南京依维柯#宝迪#宝迪A39
+宝迪
+foreignBrand:
+	斯柯达#合资#明锐
+localBrand:
+	斯柯达#上海大众#明锐#明锐GreenLine
+明锐
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 280 CDI Tourer
+E级(进口)
+foreignBrand:
+	丰田#进口#丰田海狮
+localBrand:
+	丰田#丰田汽车#Hiace [海狮]#Hiace [海狮]
+丰田海狮
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#520d
+5系(进口)
+foreignBrand:
+	欧朗#国产#欧朗
+localBrand:
+	欧朗#一汽轿车#欧朗#欧朗
+欧朗
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M6 Gran Coupe [M6 四门轿跑车]
+M系
+foreignBrand:
+	哈飞#国产#赛马
+localBrand:
+	哈飞#哈飞汽车#赛马#赛马新世代
+赛马
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 280
+S级
+foreignBrand:
+	丰田#合资#凯美瑞
+localBrand:
+	丰田#广汽丰田#凯美瑞#凯美瑞 尊瑞
+凯美瑞
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 320 CDI
+C级(进口)
+foreignBrand:
+	中华#国产#中华
+localBrand:
+	中华#华晨汽车#中华#中华
+中华
+foreignBrand:
+	奔驰#进口#凌特Sprinter
+localBrand:
+	奔驰#奔驰汽车#Sprinter [斯宾特]#Sprinter324 [斯宾特324]
+凌特Sprinter
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 3.0d
+X3
+foreignBrand:
+	长城#国产#哈弗
+localBrand:
+	长城#长城汽车#哈弗#哈弗
+哈弗
+foreignBrand:
+	启辰#国产#启辰R50X
+localBrand:
+	启辰#东风日产#R50#R50X
+启辰R50X
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf VR6 Syncro
+高尔夫(进口)
+foreignBrand:
+	力帆#国产#福顺
+localBrand:
+	力帆#力帆汽车#福顺#福顺
+福顺
+foreignBrand:
+	风行#国产#景逸
+localBrand:
+	风行#东风汽车#景逸#景逸
+景逸
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 270 CDI Tourer
+C级(进口)
+foreignBrand:
+	长安#国产#CX30两厢
+localBrand:
+	长安#长安汽车#CX30#CX30-两厢
+CX30两厢
+foreignBrand:
+	本田#合资#飞度
+localBrand:
+	本田#广汽本田#飞度#飞度-两厢
+飞度
+foreignBrand:
+	别克#进口#世纪
+localBrand:
+	别克#通用汽车#Century [世纪]#Century [世纪]
+世纪
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 2.2i
+Z4
+foreignBrand:
+	吉普#合资#JEEP 2700
+localBrand:
+	Jeep#北京吉普#Jeep2700#Jeep2700
+JEEP 2700
+foreignBrand:
+	奥迪#合资#Q3
+localBrand:
+	奥迪#一汽奥迪#Q3#Q3
+Q3
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 300
+SLK
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CL AMG#CL55 K AMG
+AMG车系
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#G-Class AMG [G级 AMG]#G65 AMG
+AMG车系
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 550i xDrive
+5系GT
+foreignBrand:
+	日产#进口#阳光(进口)
+localBrand:
+	日产#日产汽车#Sentra [阳光]#Sentra-U [阳光-北美版]
+阳光(进口)
+foreignBrand:
+	依维柯#国产#都灵V
+localBrand:
+	依维柯#南京依维柯#都灵V#都灵V A32
+都灵V
+foreignBrand:
+	捷豹#进口#XJ
+localBrand:
+	捷豹#捷豹汽车#XJ#XJL
+XJ
+foreignBrand:
+	海马#国产#普力马
+localBrand:
+	海马#一汽海马#普力马#普力马
+普力马
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#323ti Touring [323ti 旅行车]
+3系(进口)
+foreignBrand:
+	讴歌#进口#TSX
+localBrand:
+	讴歌#本田汽车#TSX#TSX
+TSX
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200
+E级(进口)
+foreignBrand:
+	宝龙#国产#菱麒
+localBrand:
+	宝龙#宝龙汽车#菱麒#菱麒
+菱麒
+foreignBrand:
+	本田#合资#锋范
+localBrand:
+	本田#广汽本田#锋范#锋范
+锋范
+foreignBrand:
+	中华#国产#尊驰
+localBrand:
+	中华#华晨汽车#尊驰#尊驰
+尊驰
+foreignBrand:
+	雪铁龙#进口#C5(进口)
+localBrand:
+	雪铁龙#雪铁龙汽车#C5#C5 Wagon [C5 旅行车]
+C5(进口)
+foreignBrand:
+	吉普#进口#自由客
+localBrand:
+	Jeep#克莱斯勒#Patriot [自由客]#Patriot [自由客]
+自由客
+foreignBrand:
+	巴博斯#进口#巴博斯 CLS级
+localBrand:
+	巴博斯#巴博斯汽车#CLS-class [CLS级]#35GC
+巴博斯 CLS级
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#318i
+3系
+foreignBrand:
+	雪铁龙#进口#C3
+localBrand:
+	雪铁龙#雪铁龙汽车#C3#C3
+C3
+foreignBrand:
+	海马#国产#马自达旅行车
+localBrand:
+	海马#一汽海马#海马旅行车#海马旅行车
+马自达旅行车
+foreignBrand:
+	黄海#国产#翱龙SUV
+localBrand:
+	黄海#曙光汽车#翱龙#翱龙SUV
+翱龙SUV
+foreignBrand:
+	罗孚#进口#罗孚
+localBrand:
+	罗孚#罗孚汽车#TF#TF
+罗孚
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS430
+GS
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650i xDrive Gran Coupe [650i xDrive 四门轿跑车]
+6系
+foreignBrand:
+	吉奥#国产#GS50
+localBrand:
+	吉奥#广汽吉奥#GS50#GS50
+GS50
+foreignBrand:
+	克莱斯勒#进口#帝王
+localBrand:
+	克莱斯勒#克莱斯勒#Imperial [帝王]#Imperial [帝王]
+帝王
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 3.0i
+Z4
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330xd Touring [330xd 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 2.5i
+X3
+foreignBrand:
+	长城#国产#哈弗H3
+localBrand:
+	长城#长城汽车#哈弗H3#哈弗H3
+哈弗H3
+foreignBrand:
+	奥迪#进口#奥迪S6
+localBrand:
+	奥迪#奥迪汽车#A6#S6 Avant
+奥迪S6
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316i Coupe [316i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera S Cabriolet
+保时捷911
+foreignBrand:
+	标致#进口#308 CC
+localBrand:
+	标致#标致汽车#308#308 CC
+308 CC
+foreignBrand:
+	奇瑞#国产#奇瑞A1
+localBrand:
+	奇瑞#奇瑞汽车#A1#A1
+奇瑞A1
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive40d
+X5
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智Q3
+菱智
+foreignBrand:
+	长丰#国产#飞扬皮卡
+localBrand:
+	扬子#长丰扬子汽车#飞扬皮卡#飞扬皮卡
+飞扬皮卡
+foreignBrand:
+	捷豹#进口#XJ
+localBrand:
+	捷豹#捷豹汽车#XJ#XJ8
+XJ
+foreignBrand:
+	风行#国产#景逸
+localBrand:
+	风行#东风汽车#景逸#景逸Cross
+景逸
+foreignBrand:
+	一汽#国产#威志V2
+localBrand:
+	一汽#天津一汽夏利#威志#威志V2
+威志V2
+foreignBrand:
+	日产#合资#奇骏
+localBrand:
+	日产#东风日产#奇骏#新势代奇骏
+奇骏
+foreignBrand:
+	别克#合资#君威
+localBrand:
+	别克#上海通用#君威#君威GS
+君威
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750
+750
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#645ci
+6系
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#ActiveHybrid X6 [X6 油电混合]
+X6
+foreignBrand:
+	中华#国产#中华H530
+localBrand:
+	中华#华晨汽车#H530#H530
+中华H530
+foreignBrand:
+	奇瑞#国产#A3三厢
+localBrand:
+	奇瑞#奇瑞汽车#A3#A3-三厢
+A3三厢
+foreignBrand:
+	双龙#进口#享御
+localBrand:
+	双龙#双龙汽车#Kyron [享御]#Kyron [享御]
+享御
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic-Sedan [思域-三厢]
+思域（进口）
+foreignBrand:
+	海马#国产#海福星
+localBrand:
+	海马#一汽海马#海福星#海福星
+海福星
+foreignBrand:
+	宝龙#国产#菱骏
+localBrand:
+	宝龙#宝龙汽车#菱骏#菱骏
+菱骏
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 350 CDI 4MATIC
+ML级
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 350 CDI
+GL级
+foreignBrand:
+	一汽#国产#威志V2
+localBrand:
+	一汽#天津一汽夏利#威志#威志V2 Cross
+威志V2
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#545i Touring [545i 旅行车]
+5系(进口)
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 SVT Raptor SuperCrew
+F系列
+foreignBrand:
+	长城#国产#精灵
+localBrand:
+	长城#长城汽车#长城精灵#长城精灵
+精灵
+foreignBrand:
+	兰博基尼#进口#LP700-4
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP670-4
+LP700-4
+foreignBrand:
+	标致#合资#307CROSS
+localBrand:
+	标致#神龙汽车#307#307 Cross
+307CROSS
+foreignBrand:
+	凯迪拉克#进口#CTS COUPE
+localBrand:
+	凯迪拉克#通用汽车#CTS#CTS Coupe
+CTS COUPE
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#快客-C
+风景冲浪
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝V系列#V80
+佳宝
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#快客-A
+风景冲浪
+foreignBrand:
+	三菱#进口#蓝瑟(进口)
+localBrand:
+	三菱#三菱汽车#Lancer [蓝瑟]#Lancer ES [蓝瑟 ES]
+蓝瑟(进口)
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#G-Class AMG [G级 AMG]#G55K AMG
+AMG车系
+foreignBrand:
+	双环#国产#小贵族
+localBrand:
+	双环#双环汽车#小贵族#小贵族
+小贵族
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 320
+E级(进口)
+foreignBrand:
+	长城#国产#赛弗
+localBrand:
+	长城#长城汽车#赛弗#赛弗
+赛弗
+foreignBrand:
+	瑞麒#国产#G6
+localBrand:
+	瑞麒#奇瑞汽车#G6#G6
+G6
+foreignBrand:
+	福特#合资#嘉年华三厢
+localBrand:
+	福特#长安福特#嘉年华#嘉年华-三厢
+嘉年华三厢
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525tds
+5系(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316i Touring [316i 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 4.6is
+X5
+foreignBrand:
+	思铭#国产#思铭
+localBrand:
+	思铭#东风本田#思铭#思铭
+思铭
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325tds
+3系(进口)
+foreignBrand:
+	金杯#国产#金杯霸道
+localBrand:
+	金杯#华晨金杯#霸道#霸道
+金杯霸道
+foreignBrand:
+	陕汽通家#国产#龙锐
+localBrand:
+	陕汽通家#陕汽通家#龙锐#龙锐
+龙锐
+foreignBrand:
+	现代#合资#伊兰特
+localBrand:
+	现代#北京现代#伊兰特#伊兰特-两厢
+伊兰特
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS500 F
+IS
+foreignBrand:
+	凯迪拉克#进口#BLS
+localBrand:
+	凯迪拉克#通用汽车#BLS#BLS
+BLS
+foreignBrand:
+	MG#国产#MG3
+localBrand:
+	MG#上海汽车#MG3#MG3
+MG3
+foreignBrand:
+	萨博#进口#9-3
+localBrand:
+	萨博#通用汽车#9-3#9-3
+9-3
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CDI
+E级(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#V12 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Zagato#V12 Zagato
+V12 Vantage
+foreignBrand:
+	陆风#国产#风尚
+localBrand:
+	陆风#陆风汽车#风尚#风尚
+风尚
+foreignBrand:
+	金杯#国产#金杯霸道
+localBrand:
+	金杯#华晨金杯#霸道#霸道009
+金杯霸道
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang Convertible [野马 敞篷]
+野马
+foreignBrand:
+	北汽#国产#骑士
+localBrand:
+	北汽#北汽股份#骑士#骑士S12
+骑士
+foreignBrand:
+	雪佛兰#合资#乐骋
+localBrand:
+	雪佛兰#上海通用#乐骋#乐骋
+乐骋
+foreignBrand:
+	宝马#进口#4系
+localBrand:
+	宝马#宝马汽车#4 Series [4系]#428i xDrive coupe [428i xDrive 双门轿跑车]
+4系
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 CDI Tourer
+C级(进口)
+foreignBrand:
+	奇瑞#国产#旗云2
+localBrand:
+	奇瑞#奇瑞汽车#旗云#旗云2
+旗云2
+foreignBrand:
+	奔驰#进口#G级
+localBrand:
+	奔驰#奔驰汽车#G-Class [G级]#G 320
+G级
+foreignBrand:
+	华普#国产#海域
+localBrand:
+	华普#上海华普#海域#海域MA
+海域
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 300 CDI
+C级(进口)
+foreignBrand:
+	雷诺#进口#拉古那
+localBrand:
+	雷诺#雷诺汽车#Laguna [拉古娜]#Laguna [拉古娜]
+拉古那
+foreignBrand:
+	华普#国产#海悦
+localBrand:
+	华普#上海华普#海悦#海悦
+海悦
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#350 SEL
+S级
+foreignBrand:
+	力帆#国产#丰顺
+localBrand:
+	力帆#力帆汽车#丰顺#丰顺
+丰顺
+foreignBrand:
+	吉普#国产#自由光
+localBrand:
+	Jeep#克莱斯勒#Cherokee [自由光]#Cherokee [自由光]
+自由光
+foreignBrand:
+	比亚迪#国产#F3DM
+localBrand:
+	比亚迪#比亚迪汽车#F3#F3DM
+F3DM
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 500
+E级(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#One-77
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#ONE-77#ONE-77
+One-77
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 350 L
+S级
+foreignBrand:
+	阿斯顿·马丁#进口#V8 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V8 Vantage Volante [V8 Vantage 敞篷]
+V8 Vantage
+foreignBrand:
+	双龙#进口#雷斯特
+localBrand:
+	双龙#双龙汽车#Rexton [雷斯特]#Rexton [雷斯特]
+雷斯特
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 3.0sd
+X5
+foreignBrand:
+	马自达#合资#马自达3星骋两厢
+localBrand:
+	马自达#长安马自达#马自达3#马自达3星骋-两厢
+马自达3星骋两厢
+foreignBrand:
+	凯迪拉克#进口#凯雷德 Hybrid
+localBrand:
+	凯迪拉克#通用汽车#Escalade [凯雷德]#Escalade Hybrid [凯雷德 油电混合]
+凯雷德 Hybrid
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP570-4 Spyder Performante
+盖拉多
+foreignBrand:
+	大众#合资#宝来/宝来经典
+localBrand:
+	大众#一汽大众#宝来#宝来HS-两厢
+宝来/宝来经典
+foreignBrand:
+	迈巴赫#进口#57
+localBrand:
+	迈巴赫#奔驰汽车#Maybach57 [迈巴赫57]#Maybach57 Zeppelin [迈巴赫57 齐柏林]
+57
+foreignBrand:
+	雪铁龙#合资#世嘉三厢
+localBrand:
+	雪铁龙#东风雪铁龙#世嘉#世嘉-三厢
+世嘉三厢
+foreignBrand:
+	日产#进口#370Z
+localBrand:
+	日产#日产汽车#370Z#370Z Coupe
+370Z
+foreignBrand:
+	海马#国产#海马M3
+localBrand:
+	海马#一汽海马#M3#M3
+海马M3
+foreignBrand:
+	雷诺#进口#风朗
+localBrand:
+	雷诺#雷诺三星#Fluence [风朗]#Fluence [风朗]
+风朗
+foreignBrand:
+	现代#合资#SONATA·领翔
+localBrand:
+	现代#北京现代#索纳塔#领翔
+SONATA·领翔
+foreignBrand:
+	大众#进口#高尔夫GTI(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf GTI Cabriolet
+高尔夫GTI(进口)
+foreignBrand:
+	万丰#国产#泰威
+localBrand:
+	万丰#上海万丰#泰威#泰威
+泰威
+foreignBrand:
+	MINI#进口#CABRIO
+localBrand:
+	MINI#宝马汽车#Cabrio#Cooper S Cabrio
+CABRIO
+foreignBrand:
+	三菱#进口#伊柯丽斯
+localBrand:
+	三菱#三菱汽车#Eclipse [伊柯丽斯]#Eclipse [伊柯丽斯]
+伊柯丽斯
+foreignBrand:
+	五菱#国产#五菱之光
+localBrand:
+	五菱#上汽通用五菱#五菱之光#五菱之光
+五菱之光
+foreignBrand:
+	哈飞#国产#赛豹III
+localBrand:
+	哈飞#哈飞汽车#赛豹#赛豹Ⅲ
+赛豹III
+foreignBrand:
+	吉奥#国产#奥轩G3
+localBrand:
+	吉奥#广汽吉奥#奥轩#奥轩GX5
+奥轩G3
+foreignBrand:
+	黄海#国产#傲骏
+localBrand:
+	黄海#曙光汽车#傲骏#傲骏
+傲骏
+foreignBrand:
+	丰田#进口#Mark X
+localBrand:
+	丰田#丰田汽车#Mark X [锐志]#Mark X [锐志]
+Mark X
+foreignBrand:
+	奥迪#进口#Q5(进口)
+localBrand:
+	奥迪#奥迪汽车#Q5#Q5 Hybrid
+Q5(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i Coupe [325i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	金杯#国产#金杯S50
+localBrand:
+	金杯#华晨金杯#S50#S50
+金杯S50
+foreignBrand:
+	DS#合资#DS5
+localBrand:
+	DS#长安标致雪铁龙#DS5#DS5
+DS5
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#M Series [M系]#Z4 M Coupe [Z4 M 双门轿跑车]
+Z4
+foreignBrand:
+	金杯#国产#金杯海星
+localBrand:
+	金杯#华晨金杯#海星#海星T22
+金杯海星
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 320 CDI
+E级(进口)
+foreignBrand:
+	金杯#国产#金杯海星
+localBrand:
+	金杯#华晨金杯#海星#海星T20
+金杯海星
+foreignBrand:
+	凯迪拉克#进口#ATS
+localBrand:
+	凯迪拉克#通用汽车#ATS#ATS
+ATS
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 1.9i Convertible [Z3 1.9i 敞篷跑车]
+Z3
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250
+C级(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 220 Tourer
+E级(进口)
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 140
+A级
+foreignBrand:
+	吉利#国产#豪情
+localBrand:
+	吉利#吉利汽车#豪情#豪情
+豪情
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang GT500 [野马 GT500]
+野马
+foreignBrand:
+	捷豹#进口#XKR
+localBrand:
+	捷豹#捷豹汽车#XK#XKR-S
+XKR
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M3 Coupe [M3 双门轿跑车]
+M系
+foreignBrand:
+	奥迪#进口#S4
+localBrand:
+	奥迪#奥迪汽车#A4#S4 Avant
+S4
+foreignBrand:
+	大众#进口#迈腾(进口)
+localBrand:
+	大众#大众汽车#Magotan [迈腾]#Magotan Alltrack [迈腾 旅行车]
+迈腾(进口)
+foreignBrand:
+	雪佛兰#合资#爱唯欧两厢
+localBrand:
+	雪佛兰#上海通用#爱唯欧#爱唯欧-两厢
+爱唯欧两厢
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane CC GT [梅甘娜 CC GT]
+梅甘娜
+foreignBrand:
+	欧宝#进口#欧捷利
+localBrand:
+	欧宝#通用汽车#Agila [欧捷利]#Agila [欧捷利]
+欧捷利
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 230 Tourer
+E级(进口)
+foreignBrand:
+	丰田#进口#佳美
+localBrand:
+	丰田#丰田汽车#Camry [佳美]#Camry [佳美]
+佳美
+foreignBrand:
+	雷克萨斯#进口#CT200h
+localBrand:
+	雷克萨斯#丰田汽车#CT#CT200h
+CT200h
+foreignBrand:
+	大众#进口#CC(进口)
+localBrand:
+	大众#大众汽车#CC#CC R-Line
+CC(进口)
+foreignBrand:
+	长城#国产#哈弗
+localBrand:
+	哈弗#长城汽车#H8#H8
+哈弗
+foreignBrand:
+	日产#进口#风雅
+localBrand:
+	日产#日产汽车#Fuga [风雅]#Fuga 250 [风雅 250]
+风雅
+foreignBrand:
+	吉普#进口#自由人
+localBrand:
+	Jeep#克莱斯勒#Liberty [自由人]#Liberty [自由人]
+自由人
+foreignBrand:
+	日产#进口#玛驰(进口)
+localBrand:
+	日产#日产汽车#March [玛驰]#March [玛驰]
+玛驰(进口)
+foreignBrand:
+	捷豹#进口#X-TYPE
+localBrand:
+	捷豹#捷豹汽车#X-Type#X-Type Estate
+X-TYPE
+foreignBrand:
+	西亚特#进口#欧悦搏
+localBrand:
+	西雅特#大众汽车#Alhambra [欧悦搏]#Alhambra [欧悦搏]
+欧悦搏
+foreignBrand:
+	本田#合资#思域
+localBrand:
+	本田#东风本田#思域#思域
+思域
+foreignBrand:
+	吉奥#国产#财运300
+localBrand:
+	吉奥#广汽吉奥#财运#财运300
+财运300
+foreignBrand:
+	斯柯达#合资#昊锐
+localBrand:
+	斯柯达#上海大众#昊锐#昊锐GreenLine
+昊锐
+foreignBrand:
+	法拉利#进口#法拉利612
+localBrand:
+	法拉利#法拉利汽车#612#612 Sessanta
+法拉利612
+foreignBrand:
+	长城#国产#长城V80
+localBrand:
+	长城#长城汽车#长城V80#长城V80
+长城V80
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 230 Tourer
+C级(进口)
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#M Series [M系]#X5 M xDrive35i
+X5
+foreignBrand:
+	长安#国产#致尚XT
+localBrand:
+	长安#长安汽车#致尚#致尚XT
+致尚XT
+foreignBrand:
+	奥迪#进口#A3(进口)
+localBrand:
+	奥迪#奥迪汽车#A3#A3 Cabriolet
+A3(进口)
+foreignBrand:
+	中客华北#国产#华北超赛
+localBrand:
+	华北#中客华北#超赛#超赛
+华北超赛
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 260 L CGI
+E级
+foreignBrand:
+	比亚迪#国产#速锐
+localBrand:
+	比亚迪#比亚迪汽车#速锐#速锐
+速锐
+foreignBrand:
+	开瑞#国产#优劲
+localBrand:
+	开瑞#奇瑞汽车#优劲#优劲
+优劲
+foreignBrand:
+	奥迪#进口#A6(进口)
+localBrand:
+	奥迪#奥迪汽车#A6#A6 Hybrid
+A6(进口)
+foreignBrand:
+	欧宝#进口#威达
+localBrand:
+	欧宝#通用汽车#Vectra [威达]#Vectra Caravan [威达 Caravan]
+威达
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640i Gran Coupe [640i 四门轿跑车]
+6系
+foreignBrand:
+	力帆#国产#X60
+localBrand:
+	力帆#力帆汽车#X60#X60
+X60
+foreignBrand:
+	MINI#进口#mini cooper
+localBrand:
+	MINI#宝马汽车#Mini#Mini Cooper Tattoo
+mini cooper
+foreignBrand:
+	江南#国产#传奇
+localBrand:
+	江南#江南汽车#传奇#传奇
+传奇
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#335i
+3系
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#M Series [M系]#Z3 M Coupe [Z3 M 双门轿跑车]
+Z3
+foreignBrand:
+	日产#进口#西玛
+localBrand:
+	日产#日产汽车#Cima [西玛]#Cima [西玛]
+西玛
+foreignBrand:
+	福田#国产#传奇
+localBrand:
+	福田#福田汽车#传奇#传奇C
+传奇
+foreignBrand:
+	华泰#国产#圣达菲
+localBrand:
+	华泰#华泰汽车#圣达菲#圣达菲C9
+圣达菲
+foreignBrand:
+	依维柯#国产#宝迪
+localBrand:
+	依维柯#南京依维柯#宝迪#宝迪A36
+宝迪
+foreignBrand:
+	MINI#进口#CABRIO
+localBrand:
+	MINI#宝马汽车#Cabrio#Mini JCW Cabrio
+CABRIO
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#M Series [M系]#X5 M
+X5
+foreignBrand:
+	丰田#合资#凯美瑞
+localBrand:
+	丰田#广汽丰田#凯美瑞#凯美瑞
+凯美瑞
+foreignBrand:
+	大众#合资#帕萨特领驭
+localBrand:
+	大众#上海大众#帕萨特#帕萨特 领驭
+帕萨特领驭
+foreignBrand:
+	铃木#合资#浪迪
+localBrand:
+	铃木#昌河铃木#浪迪#浪迪
+浪迪
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#335Li
+3系
+foreignBrand:
+	海马#国产#福美来
+localBrand:
+	海马#一汽海马#福美来#福美来-三厢
+福美来
+foreignBrand:
+	铃木#进口#吉姆尼
+localBrand:
+	铃木#铃木汽车#Jimny [吉姆尼]#Jimny Convertible [吉姆尼 敞篷]
+吉姆尼
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#300 E
+E级(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#300 D
+E级(进口)
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#P陆地公务机
+蒙派克
+foreignBrand:
+	丰田#进口#赛纳
+localBrand:
+	丰田#丰田汽车#Sienna [塞纳]#Sienna [塞纳]
+赛纳
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750FL
+750
+foreignBrand:
+	MINI#进口#MINI
+localBrand:
+	MINI#宝马汽车#Mini#Mini
+MINI
+foreignBrand:
+	MINI#进口#MINI ROADSTER
+localBrand:
+	MINI#宝马汽车#Roadster#Cooper Roadster
+MINI ROADSTER
+foreignBrand:
+	海马#国产#福仕达腾达
+localBrand:
+	海马#郑州海马#福仕达#腾达
+福仕达腾达
+foreignBrand:
+	一汽#国产#幸福使者
+localBrand:
+	佳星#天津一汽华利#幸福使者#幸福使者
+幸福使者
+foreignBrand:
+	日产#合资#天籁
+localBrand:
+	日产#东风日产#天籁#天籁 公爵
+天籁
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 200
+SLK
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 350 Coupe
+C级(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328i
+3系(进口)
+foreignBrand:
+	悍马#进口#悍马加长版
+localBrand:
+	悍马#通用汽车#Hummer Limousine [悍马加长版]#Hummer Limousine [悍马加长版]
+悍马加长版
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智
+菱智
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 CDI Tourer
+C级(进口)
+foreignBrand:
+	奔驰#进口#凌特Sprinter
+localBrand:
+	奔驰#奔驰汽车#Sprinter [斯宾特]#Sprinter [斯宾特]
+凌特Sprinter
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 350 L CGI
+S级
+foreignBrand:
+	大众#合资#桑塔纳2000
+localBrand:
+	大众#上海大众#桑塔纳#桑塔纳2000
+桑塔纳2000
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Countryman#Cooper S Countryman All 4
+Countryman
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328i Touring [328i 旅行车]
+3系(进口)
+foreignBrand:
+	哈飞#国产#松花江
+localBrand:
+	哈飞#哈飞汽车#松花江#松花江
+松花江
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat B5 VR5 [帕萨特B5 VR5]
+帕萨特(进口)
+foreignBrand:
+	雷诺#进口#风景
+localBrand:
+	雷诺#雷诺汽车#Scenic [风景]#Scenic [风景]
+风景
+foreignBrand:
+	哈飞#国产#松花江
+localBrand:
+	哈飞#哈飞汽车#松花江#松花江1012
+松花江
+foreignBrand:
+	本田#进口#雅阁(进口)
+localBrand:
+	本田#本田汽车#Accord [雅阁]#Accord Hybrid [雅阁 油电混合]
+雅阁(进口)
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP550-2 Valentino Balboni
+盖拉多
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#panamera GTS [帕纳美拉 GTS]
+Panamera
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne Platinum Edition [卡宴 Platinum Edition]
+卡宴
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 350 Coupe
+CLK
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP570-4 Super Trofeo Stradale
+盖拉多
+foreignBrand:
+	东风风神#国产#风神A60
+localBrand:
+	风神#东风汽车#A60#A60
+风神A60
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#120i Coupe [120i 双门轿跑车]
+1系
+foreignBrand:
+	奔驰#进口#凌特Sprinter
+localBrand:
+	奔驰#奔驰汽车#Sprinter [斯宾特]#Sprinter316 [斯宾特316]
+凌特Sprinter
+foreignBrand:
+	华泰#国产#特拉卡
+localBrand:
+	华泰#华泰汽车#特拉卡#特拉卡
+特拉卡
+foreignBrand:
+	林肯#进口#林肯LS
+localBrand:
+	林肯#福特汽车#LS#LS
+林肯LS
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive28i
+X3
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#740Li
+7系
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CDI Carbriolet
+E级(进口)
+foreignBrand:
+	福特#合资#麦柯斯
+localBrand:
+	福特#长安福特#麦柯斯S-MAX#麦柯斯S-MAX
+麦柯斯
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#523xi xDrive
+5系(进口)
+foreignBrand:
+	路虎#进口#极光
+localBrand:
+	路虎#路虎汽车#Range Rover [揽胜]#Range Rover Evoque Coupe [揽胜极光Coupe]
+极光
+foreignBrand:
+	莲花#国产#L5
+localBrand:
+	莲花#青年莲花#L5#L5-三厢
+L5
+foreignBrand:
+	雪铁龙#合资#世嘉两厢
+localBrand:
+	雪铁龙#东风雪铁龙#世嘉#世嘉-两厢
+世嘉两厢
+foreignBrand:
+	日产#进口#贵士
+localBrand:
+	日产#日产汽车#Quest [贵士]#Quest [贵士]
+贵士
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS460
+LS
+foreignBrand:
+	福特#进口#福特GT
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang GT [野马 GT]
+福特GT
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CLK AMG#CLK63 AMG
+AMG车系
+foreignBrand:
+	英伦#国产#金鹰
+localBrand:
+	英伦#吉利汽车#金鹰#金鹰
+金鹰
+foreignBrand:
+	欧宝#进口#欧宝Insignia
+localBrand:
+	欧宝#通用汽车#Insignia [音速亚]#Insignia OPC [音速亚 OPC]
+欧宝Insignia
+foreignBrand:
+	长安#国产#悦翔
+localBrand:
+	长安#长安汽车#悦翔#悦翔-三厢
+悦翔
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera Platinum Edition [帕纳美拉 Platinum Edition]
+Panamera
+foreignBrand:
+	吉普#合资#大切诺基
+localBrand:
+	Jeep#北京吉普#大切诺基#大切诺基 征途4700
+大切诺基
+foreignBrand:
+	马自达#合资#马自达2劲翔
+localBrand:
+	马自达#长安福特马自达#马自达2#马自达2劲翔
+马自达2劲翔
+foreignBrand:
+	宝龙#国产#天马座
+localBrand:
+	宝龙#宝龙汽车#天马座#天马座
+天马座
+foreignBrand:
+	雪铁龙#合资#爱丽舍
+localBrand:
+	雪铁龙#神龙汽车#爱丽舍#爱丽舍-三厢
+爱丽舍
+foreignBrand:
+	全球鹰#国产#熊猫
+localBrand:
+	全球鹰#吉利汽车#熊猫#熊猫 CROSS
+熊猫
+foreignBrand:
+	福田#国产#风景快运
+localBrand:
+	福田#福田汽车#风景#爱尔法-快运Ⅰ
+风景快运
+foreignBrand:
+	哈飞#国产#路宝
+localBrand:
+	哈飞#哈飞汽车#路宝#路宝灵动
+路宝
+foreignBrand:
+	三菱#合资#帕杰罗
+localBrand:
+	三菱#广汽长丰#帕杰罗#帕杰罗V73
+帕杰罗
+foreignBrand:
+	菲亚特#进口#克罗玛
+localBrand:
+	菲亚特#菲亚特汽车#Croma [克罗玛]#Croma [克罗玛]
+克罗玛
+foreignBrand:
+	三菱#合资#帕杰罗
+localBrand:
+	三菱#广汽长丰#帕杰罗#帕杰罗V77
+帕杰罗
+foreignBrand:
+	迈巴赫#进口#57
+localBrand:
+	迈巴赫#奔驰汽车#Maybach57 [迈巴赫57]#Maybach57 S [迈巴赫57 S]
+57
+foreignBrand:
+	起亚#合资#千里马
+localBrand:
+	起亚#东风悦达起亚#千里马#千里马
+千里马
+foreignBrand:
+	精灵smart#进口#fortwo
+localBrand:
+	Smart#奔驰汽车#Fortwo#Fortwo Coupe
+fortwo
+foreignBrand:
+	特斯拉#进口#MODEL S
+localBrand:
+	TESLA#TESLA#Model S#Model S P85
+MODEL S
+foreignBrand:
+	莲花#国产#L5
+localBrand:
+	莲花#青年莲花#L5#L5 GTS
+L5
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#爱尔法Ⅱ
+风景冲浪
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 350 CDI
+S级
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS450h
+GS
+foreignBrand:
+	福特#进口#嘉年华(进口)
+localBrand:
+	福特#福特汽车#Fiesta [嘉年华]#Fiesta ST [嘉年华 ST]
+嘉年华(进口)
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 4.6i
+X5
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i xDrive Touring [325i xDrive 旅行车]
+3系(进口)
+foreignBrand:
+	保时捷#进口#Cayman
+localBrand:
+	保时捷#保时捷汽车#Cayman [卡曼]#Cayman R [卡曼 R]
+Cayman
+foreignBrand:
+	宾利#进口#飞驰
+localBrand:
+	宾利#宾利汽车#Flying Spur [飞驰]#Flying Spur W12 Mulliner
+飞驰
+foreignBrand:
+	北汽#国产#雷驰
+localBrand:
+	北汽#北汽股份#雷驰#雷驰
+雷驰
+foreignBrand:
+	铃木#合资#北斗星
+localBrand:
+	铃木#昌河铃木#北斗星#北斗星 假日风情
+北斗星
+foreignBrand:
+	讴歌#进口#RL
+localBrand:
+	讴歌#本田汽车#RL#RL
+RL
+foreignBrand:
+	日产#合资#蓝鸟
+localBrand:
+	日产#东风日产#蓝鸟#蓝鸟
+蓝鸟
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535d
+5系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 270 CDI Tourer
+E级(进口)
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra Coupe [雅特 Coupe]
+雅特
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#520i Touring [520i 旅行车]
+5系(进口)
+foreignBrand:
+	东风#国产#菱越
+localBrand:
+	风行#东风汽车#菱越#菱越
+菱越
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS300
+IS
+foreignBrand:
+	吉利#国产#优利欧
+localBrand:
+	吉利#吉利汽车#优利欧#优利欧
+优利欧
+foreignBrand:
+	雪佛兰#合资#爱唯欧三厢
+localBrand:
+	雪佛兰#上海通用#爱唯欧#爱唯欧-三厢
+爱唯欧三厢
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CLS AMG#CLS55 AMG
+AMG车系
+foreignBrand:
+	大众#进口#FOX
+localBrand:
+	大众#大众汽车#FOX#FOX
+FOX
+foreignBrand:
+	奥迪#进口#A6(进口)
+localBrand:
+	奥迪#奥迪汽车#A6#A6 Allroad
+A6(进口)
+foreignBrand:
+	哈飞#国产#哈飞中意
+localBrand:
+	哈飞#哈飞汽车#中意#中意
+哈飞中意
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 280 Tourer
+C级(进口)
+foreignBrand:
+	斯巴鲁#进口#力狮
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Legacy [力狮]#Legacy [力狮]
+力狮
+foreignBrand:
+	风行#国产#景逸
+localBrand:
+	风行#东风汽车#景逸#景逸TT
+景逸
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝V系列#V52
+佳宝
+foreignBrand:
+	福田#国产#风景快运
+localBrand:
+	福田#福田汽车#风景#爱尔法-快运
+风景快运
+foreignBrand:
+	中兴#国产#万禧龙
+localBrand:
+	中兴#中兴汽车#万禧龙#万禧龙
+万禧龙
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#730Li
+7系
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 200 K Coupe
+CLK
+foreignBrand:
+	金杯#国产#第三代阁瑞斯
+localBrand:
+	金杯#华晨金杯#阁瑞斯#睿翔
+第三代阁瑞斯
+foreignBrand:
+	奔驰#进口#唯雅诺Viano
+localBrand:
+	奔驰#奔驰汽车#Viano [唯雅诺]#Viano Marco Polo [马可波罗]
+唯雅诺Viano
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang GT500 Convertible [野马 GT500 敞篷]
+野马
+foreignBrand:
+	华普#国产#华普M203
+localBrand:
+	华普#上海华普#M203#M203
+华普M203
+foreignBrand:
+	宝马#进口#3系GT
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#GT 335i
+3系GT
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 200 L CGI
+E级
+foreignBrand:
+	丰田#合资#凯美瑞Hybrid
+localBrand:
+	丰田#广汽丰田#凯美瑞#凯美瑞混合动力版
+凯美瑞Hybrid
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#750Li
+7系
+foreignBrand:
+	陆风#国产#风华
+localBrand:
+	陆风#陆风汽车#风华#风华
+风华
+foreignBrand:
+	大众#合资#桑塔纳志俊
+localBrand:
+	大众#上海大众#桑塔纳#桑塔纳 志俊
+桑塔纳志俊
+foreignBrand:
+	雷克萨斯#进口#ES
+localBrand:
+	雷克萨斯#丰田汽车#ES#ES330
+ES
+foreignBrand:
+	三菱#进口#ASX劲炫
+localBrand:
+	三菱#广汽三菱#劲炫#劲炫
+ASX劲炫
+foreignBrand:
+	新凯#合资#新凯CUV
+localBrand:
+	新凯#新凯汽车#新凯商务车#新凯商务车
+新凯CUV
+foreignBrand:
+	华翔富奇#国产#富奇
+localBrand:
+	富奇#华翔汽车#富奇#富奇
+富奇
+foreignBrand:
+	现代#进口#君爵
+localBrand:
+	现代#现代汽车#Grandeur [君爵]#Grandeur XG300 [君爵 XG300]
+君爵
+foreignBrand:
+	克莱斯勒#进口#PT漫步者
+localBrand:
+	克莱斯勒#克莱斯勒#PT Cruiser [PT漫步者]#PT Cruiser [PT漫步者]
+PT漫步者
+foreignBrand:
+	东风#国产#猛士
+localBrand:
+	东风#东风汽车#猛士#猛士
+猛士
+foreignBrand:
+	荣威#国产#350
+localBrand:
+	荣威#上海汽车#350#350
+350
+foreignBrand:
+	法拉利#进口#法拉利FF
+localBrand:
+	法拉利#法拉利汽车#FF#FF
+法拉利FF
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 150
+A级
+foreignBrand:
+	萨博#进口#9-3
+localBrand:
+	萨博#通用汽车#9-3#9-3 X Cross
+9-3
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 240
+C级(进口)
+foreignBrand:
+	开瑞#国产#优胜
+localBrand:
+	开瑞#奇瑞汽车#优胜#优胜
+优胜
+foreignBrand:
+	华普#国产#海迅
+localBrand:
+	华普#上海华普#海迅#海迅MA
+海迅
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M5
+M系
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M3
+M系
+foreignBrand:
+	福特#合资#蒙迪欧-致胜
+localBrand:
+	福特#长安福特#致胜#致胜
+蒙迪欧-致胜
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 350 CDI Tourer
+C级(进口)
+foreignBrand:
+	日产#合资#玛驰
+localBrand:
+	日产#东风日产#玛驰#玛驰
+玛驰
+foreignBrand:
+	起亚#合资#K3
+localBrand:
+	起亚#东风悦达起亚#K3#K3
+K3
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 500 Tourer
+E级(进口)
+foreignBrand:
+	卡尔森#进口#卡尔森 S级
+localBrand:
+	卡尔森#卡尔森汽车#S级#CS60
+卡尔森 S级
+foreignBrand:
+	福田#国产#萨普
+localBrand:
+	福田#福田汽车#萨普#萨普
+萨普
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 CGI Tourer
+E级(进口)
+foreignBrand:
+	依维柯#国产#宝迪
+localBrand:
+	依维柯#南京依维柯#宝迪#宝迪A52
+宝迪
+foreignBrand:
+	昌河#国产#爱迪尔Ⅱ
+localBrand:
+	昌河#江西昌河汽车#爱迪尔#爱迪尔Ⅱ
+爱迪尔Ⅱ
+foreignBrand:
+	依维柯#国产#宝迪
+localBrand:
+	依维柯#南京依维柯#宝迪#宝迪A50
+宝迪
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328iM
+3系(进口)
+foreignBrand:
+	英伦#国产#金刚2代
+localBrand:
+	英伦#吉利汽车#金刚#金刚2代
+金刚2代
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#海狮
+风景冲浪
+foreignBrand:
+	九龙#国产#九龙商务车
+localBrand:
+	九龙#九龙汽车#九龙#九龙天马
+九龙商务车
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Turbo S
+保时捷911
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d Coupe [330d 双门轿跑车]
+3系(进口)
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 530d
+5系GT
+foreignBrand:
+	MG#国产#MG6 Saloon
+localBrand:
+	MG#上海汽车#MG6#MG6 Saloon
+MG6 Saloon
+foreignBrand:
+	吉利#国产#豪情
+localBrand:
+	吉利#吉利汽车#豪情#豪情 SRV
+豪情
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C55 AMG
+AMG车系
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 sDrive30i
+Z4
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#海狮#海狮
+金杯海狮
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS250
+GS
+foreignBrand:
+	力帆#国产#620
+localBrand:
+	力帆#力帆汽车#620#620
+620
+foreignBrand:
+	哈飞#国产#路尊大霸王
+localBrand:
+	哈飞#哈飞汽车#路尊大霸王#路尊大霸王
+路尊大霸王
+foreignBrand:
+	莲花#国产#L5
+localBrand:
+	莲花#青年莲花#L5#L5 Sportback
+L5
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 K Coupe
+C级(进口)
+foreignBrand:
+	江铃#国产#驭胜
+localBrand:
+	江铃#江铃汽车#驭胜#驭胜S350
+驭胜
+foreignBrand:
+	江淮#国产#同悦
+localBrand:
+	江淮#江淮汽车#同悦#同悦
+同悦
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智M5 D19
+菱智
+foreignBrand:
+	阿斯顿·马丁#进口#DB9
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#DB9#DB9 Volante [DB9 敞篷]
+DB9
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M6 Coupe [M6 双门轿跑车]
+M系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325ti Touring [325ti 旅行车]
+3系(进口)
+foreignBrand:
+	沃尔沃#进口#S60
+localBrand:
+	沃尔沃#沃尔沃汽车#S60#S60
+S60
+foreignBrand:
+	北京汽车#国产#威旺205
+localBrand:
+	威旺#北京汽车#205#205
+威旺205
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 320
+SLK
+foreignBrand:
+	法拉利#进口#法拉利456M
+localBrand:
+	法拉利#法拉利汽车#456#456 M GT
+法拉利456M
+foreignBrand:
+	三菱#合资#帕杰罗
+localBrand:
+	三菱#广汽三菱#帕杰罗#帕杰罗·劲畅
+帕杰罗
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 sDrive23i
+Z4
+foreignBrand:
+	大众#合资#迈腾
+localBrand:
+	大众#一汽大众#迈腾#迈腾
+迈腾
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G35 Coupe
+G系
+foreignBrand:
+	标致#进口#308 SW
+localBrand:
+	标致#标致汽车#308#308 SW
+308 SW
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#118d Convertible [118d 敞篷轿跑车]
+1系
+foreignBrand:
+	金杯#国产#西部大力神
+localBrand:
+	金杯#华晨金杯#大力神#大力神
+西部大力神
+foreignBrand:
+	大众#合资#高尔夫
+localBrand:
+	大众#一汽大众#高尔夫#高尔夫7
+高尔夫
+foreignBrand:
+	中华#国产#酷宝
+localBrand:
+	中华#华晨汽车#酷宝#酷宝
+酷宝
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328i Coupe [328i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C63 AMG Coupe
+AMG车系
+foreignBrand:
+	一汽#国产#威志V5
+localBrand:
+	一汽#天津一汽夏利#威志#威志V5
+威志V5
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 300 L
+E级(进口)
+foreignBrand:
+	马自达#合资#CX-5
+localBrand:
+	马自达#长安马自达#CX-5#CX-5
+CX-5
+foreignBrand:
+	兰博基尼#进口#Murcielago
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP670 SuperVeloce
+Murcielago
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 CGI Carbriolet
+E级(进口)
+foreignBrand:
+	江淮#国产#和悦
+localBrand:
+	江淮#江淮汽车#和悦#和悦A13 Cross
+和悦
+foreignBrand:
+	夏利#国产#夏利A骏雅
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利 骏雅
+夏利A骏雅
+foreignBrand:
+	长丰#国产#飞铃皮卡
+localBrand:
+	扬子#长丰扬子汽车#飞铃#飞铃皮卡
+飞铃皮卡
+foreignBrand:
+	路特斯#进口#Exige
+localBrand:
+	路特斯#宝腾汽车#Exige#Exige
+Exige
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CLS AMG#CLS63 AMG
+AMG车系
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#商务舱
+蒙派克
+foreignBrand:
+	北汽#国产#旋风
+localBrand:
+	北汽#北汽股份#旋风#旋风二代
+旋风
+foreignBrand:
+	捷豹#进口#XK
+localBrand:
+	捷豹#捷豹汽车#XK#XK
+XK
+foreignBrand:
+	捷豹#进口#XJ
+localBrand:
+	捷豹#捷豹汽车#XJ#XJ
+XJ
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#GL AMG#GL63 AMG
+AMG车系
+foreignBrand:
+	雪铁龙#进口#C3
+localBrand:
+	雪铁龙#雪铁龙汽车#Picasso [毕加索]#C3 Picasso [C3 毕加索]
+C3
+foreignBrand:
+	道奇#进口#酷搏
+localBrand:
+	道奇#克莱斯勒#Caliber [酷博]#Caliber [酷博]
+酷搏
+foreignBrand:
+	丰田#合资#逸致
+localBrand:
+	丰田#广汽丰田#逸致#逸致
+逸致
+foreignBrand:
+	雷克萨斯#进口#RX
+localBrand:
+	雷克萨斯#丰田汽车#RX#RX270
+RX
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 550
+GL级
+foreignBrand:
+	雷诺#进口#威赛帝
+localBrand:
+	雷诺#雷诺汽车#Vel satis [威赛帝]#Vel satis [威赛帝]
+威赛帝
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智V3
+菱智
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i xDrive
+3系(进口)
+foreignBrand:
+	哈飞#国产#松花江
+localBrand:
+	哈飞#哈飞汽车#松花江#松花江1013
+松花江
+foreignBrand:
+	雷克萨斯#进口#LX
+localBrand:
+	雷克萨斯#丰田汽车#LX#LX570
+LX
+foreignBrand:
+	哈飞#国产#松花江
+localBrand:
+	哈飞#哈飞汽车#松花江#松花江1016
+松花江
+foreignBrand:
+	斯巴鲁#进口#翼豹
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Impreza [翼豹]#Impreza-Sedan [翼豹-三厢]
+翼豹
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320ci Coupe [320ci 双门轿跑车]
+3系(进口)
+foreignBrand:
+	本田#合资#雅阁
+localBrand:
+	本田#广汽本田#雅阁#第八代雅阁
+雅阁
+foreignBrand:
+	奔驰#进口#凌特Sprinter
+localBrand:
+	奔驰#奔驰汽车#Sprinter [斯宾特]#Sprinter515 [斯宾特515]
+凌特Sprinter
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650Ci Coupe [650Ci 双门轿跑车]
+6系
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#545i
+5系(进口)
+foreignBrand:
+	兰博基尼#进口#LP700-4
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP670-4 E-Grar
+LP700-4
+foreignBrand:
+	马自达#合资#马自达3星骋
+localBrand:
+	马自达#长安福特马自达#马自达3#马自达3星骋-三厢
+马自达3星骋
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#730Ld
+7系
+foreignBrand:
+	西安奥拓#国产#西安奥拓
+localBrand:
+	西安奥拓#比亚迪汽车#西安奥拓#西安奥拓
+西安奥拓
+foreignBrand:
+	欧宝#进口#欧宝Insignia
+localBrand:
+	欧宝#通用汽车#Insignia [音速亚]#Insignia Sports [音速亚 Sports]
+欧宝Insignia
+foreignBrand:
+	威麟#国产#V5
+localBrand:
+	威麟#奇瑞汽车#V5#V5
+V5
+foreignBrand:
+	宝马#进口#4系
+localBrand:
+	宝马#宝马汽车#4 Series [4系]#428i Convertible [428i 敞篷轿跑车]
+4系
+foreignBrand:
+	斯柯达#合资#明锐RS
+localBrand:
+	斯柯达#上海大众#明锐#明锐RS
+明锐RS
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 300 Tourer
+C级(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#V8 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V8 Vantage S Volante [V8 Vantage S 敞篷]
+V8 Vantage
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf Cabrio [高尔夫 敞篷车]
+高尔夫(进口)
+foreignBrand:
+	丰田#进口#佳美
+localBrand:
+	丰田#丰田汽车#Camry [佳美]#Camry Hybrid [佳美 油电混合]
+佳美
+foreignBrand:
+	中客华北#国产#华北醒狮
+localBrand:
+	华北#中客华北#醒狮#醒狮
+华北醒狮
+foreignBrand:
+	奥迪#进口#S5
+localBrand:
+	奥迪#奥迪汽车#A5#S5 Cabriolet
+S5
+foreignBrand:
+	凯迪拉克#进口#CTS
+localBrand:
+	凯迪拉克#通用汽车#CTS#CTS
+CTS
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne S [卡宴 S]
+卡宴
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#400 SE
+S级
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#Cooper D Clubman
+CLUBMAN
+foreignBrand:
+	斯巴鲁#进口#翼豹
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Impreza [翼豹]#Impreza-Hatchback [翼豹-两厢]
+翼豹
+foreignBrand:
+	铃木#合资#派喜
+localBrand:
+	铃木#昌河铃木#派喜#派喜
+派喜
+foreignBrand:
+	海马#国产#福美来
+localBrand:
+	海马#一汽海马#福美来#福美来一代
+福美来
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TT
+TT
+foreignBrand:
+	理念#合资#理念S1
+localBrand:
+	理念#广汽本田#S1#S1
+理念S1
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CGI
+E级(进口)
+foreignBrand:
+	依维柯#国产#都灵V
+localBrand:
+	依维柯#南京依维柯#都灵V#都灵V A42
+都灵V
+foreignBrand:
+	欧宝#进口#欧宝GT
+localBrand:
+	欧宝#通用汽车#GT#GT
+欧宝GT
+foreignBrand:
+	路虎#进口#极光
+localBrand:
+	路虎#路虎汽车#Range Rover [揽胜]#Range Rover Evoque [揽胜极光]
+极光
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i xDrive Touring [335i xDrive 旅行车]
+3系(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#GT3 RS
+保时捷911
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 170 CDI
+A级
+foreignBrand:
+	福特#进口#福克斯(进口)
+localBrand:
+	福特#福特汽车#Focus [福克斯]#Focus CC [福克斯 CC]
+福克斯(进口)
+foreignBrand:
+	法拉利#进口#法拉利360 Modena
+localBrand:
+	法拉利#法拉利汽车#360#360 GT
+法拉利360 Modena
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325d Coupe [325d 双门轿跑车]
+3系(进口)
+foreignBrand:
+	三菱#进口#伊柯丽斯
+localBrand:
+	三菱#三菱汽车#Eclipse [伊柯丽斯]#Eclipse Spyder [伊柯丽斯 敞篷]
+伊柯丽斯
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#Cooper S Hampton Clubman
+CLUBMAN
+foreignBrand:
+	吉普#进口#指挥官
+localBrand:
+	Jeep#克莱斯勒#Commander [指挥官]#Commander [指挥官]
+指挥官
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 xDrive28i
+X1(进口)
+foreignBrand:
+	法拉利#进口#法拉利599
+localBrand:
+	法拉利#法拉利汽车#599#599 GTO
+法拉利599
+foreignBrand:
+	哈飞#国产#路宝
+localBrand:
+	哈飞#哈飞汽车#路宝#路宝节油π
+路宝
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf BlueMotion [高尔夫 蓝驱]
+高尔夫(进口)
+foreignBrand:
+	法拉利#进口#法拉利F430
+localBrand:
+	法拉利#法拉利汽车#F430#F430
+法拉利F430
+foreignBrand:
+	奥迪#进口#S5
+localBrand:
+	奥迪#奥迪汽车#A5#S5 Coupe
+S5
+foreignBrand:
+	别克#合资#荣御
+localBrand:
+	别克#上海通用#荣御#荣御
+荣御
+foreignBrand:
+	保时捷#进口#Carrera GT
+localBrand:
+	保时捷#保时捷汽车#Carrera GT [卡雷拉 GT]#Carrera GT [卡雷拉 GT]
+Carrera GT
+foreignBrand:
+	凯迪拉克#进口#XLR
+localBrand:
+	凯迪拉克#通用汽车#XLR#XLR
+XLR
+foreignBrand:
+	永源#国产#风景线
+localBrand:
+	永源#永源汽车#风景线#风景线
+风景线
+foreignBrand:
+	奇瑞#国产#奇瑞A5
+localBrand:
+	奇瑞#奇瑞汽车#A5#A5
+奇瑞A5
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝#佳宝
+佳宝
+foreignBrand:
+	中兴#国产#威虎
+localBrand:
+	中兴#中兴汽车#威虎#威虎
+威虎
+foreignBrand:
+	现代#进口#王朝
+localBrand:
+	现代#现代汽车#Dynasty [王朝]#Dynasty [王朝]
+王朝
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 535i xDrive
+5系GT
+foreignBrand:
+	丰田#合资#锐志
+localBrand:
+	丰田#一汽丰田#锐志#锐志
+锐志
+foreignBrand:
+	大众#合资#POLO GTI
+localBrand:
+	大众#上海大众#POLO#POLO GTI
+POLO GTI
+foreignBrand:
+	吉利#国产#美人豹
+localBrand:
+	吉利#吉利汽车#美人豹#美人豹
+美人豹
+foreignBrand:
+	铃木#合资#利亚纳A6
+localBrand:
+	铃木#昌河铃木#利亚纳#利亚纳A6-两厢
+利亚纳A6
+foreignBrand:
+	东南#国产#希旺
+localBrand:
+	东南#东南汽车#希旺#希旺
+希旺
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#大海狮#大海狮W
+金杯海狮
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150
+F系列
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#118i
+1系
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#400 SEL
+S级
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#大海狮#大海狮
+金杯海狮
+foreignBrand:
+	全球鹰#国产#GC7
+localBrand:
+	全球鹰#吉利汽车#GC7#GC7
+GC7
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 xDrive25i
+X1(进口)
+foreignBrand:
+	铃木#合资#北斗星
+localBrand:
+	铃木#昌河铃木#北斗星#北斗星 竞驭
+北斗星
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 Coupe
+E级(进口)
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#大海狮#大海狮L
+金杯海狮
+foreignBrand:
+	三菱#进口#蓝瑟(进口)
+localBrand:
+	三菱#三菱汽车#Lancer [蓝瑟]#Lancer GTS [蓝瑟 GTS]
+蓝瑟(进口)
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 240 Coupe
+CLK
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#635d Convertible [635d 敞篷轿跑车]
+6系
+foreignBrand:
+	雪铁龙#合资#毕加索
+localBrand:
+	雪铁龙#神龙汽车#毕加索#毕加索
+毕加索
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#190 D
+E级(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#190 E
+E级(进口)
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 500
+S级
+foreignBrand:
+	奥迪#合资#A3
+localBrand:
+	奥迪#一汽奥迪#A3#A3 Sportback
+A3
+foreignBrand:
+	大众#合资#CC
+localBrand:
+	大众#一汽大众#CC#CC
+CC
+foreignBrand:
+	三菱#合资#帕杰罗速跑
+localBrand:
+	三菱#北京吉普#帕杰罗速跑#帕杰罗速跑
+帕杰罗速跑
+foreignBrand:
+	福特#进口#探险者
+localBrand:
+	福特#福特汽车#Explorer [探险者]#Explorer [探险者]
+探险者
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i Touring [330i 旅行车]
+3系(进口)
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Countryman#Cooper Countryman All 4
+Countryman
+foreignBrand:
+	雪铁龙#进口#C4
+localBrand:
+	雪铁龙#雪铁龙汽车#Picasso [毕加索]#C4 Picasso [C4 毕加索]
+C4
+foreignBrand:
+	日产#合资#奇骏
+localBrand:
+	日产#东风日产#奇骏#奇骏
+奇骏
+foreignBrand:
+	道奇#进口#凯领（进口）
+localBrand:
+	道奇#克莱斯勒#Caravan [凯领]#Caravan [凯领]
+凯领（进口）
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 1.8i Convertible [Z3 1.8i 敞篷跑车]
+Z3
+foreignBrand:
+	英菲尼迪#进口#QX
+localBrand:
+	英菲尼迪#日产汽车#QX#QX56
+QX
+foreignBrand:
+	长安#国产#CX30三厢
+localBrand:
+	长安#长安汽车#CX30#CX30-三厢
+CX30三厢
+foreignBrand:
+	雷克萨斯#进口#ES
+localBrand:
+	雷克萨斯#丰田汽车#ES#ES300
+ES
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive30i
+X5
+foreignBrand:
+	起亚#进口#狮跑(进口)
+localBrand:
+	起亚#起亚汽车#Sportage [狮跑]#Sportage [狮跑]
+狮跑(进口)
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne S Hybrid [卡宴 S 油电混合]
+卡宴
+foreignBrand:
+	东南#国产#V3菱悦
+localBrand:
+	东南#东南汽车#菱悦#菱悦
+V3菱悦
+foreignBrand:
+	大众#合资#桑塔纳
+localBrand:
+	大众#上海大众#桑塔纳#桑塔纳
+桑塔纳
+foreignBrand:
+	奥迪#进口#A8L
+localBrand:
+	奥迪#奥迪汽车#A8#A8 W12
+A8L
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive30d
+X5
+foreignBrand:
+	斯巴鲁#进口#XV
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Impreza [翼豹]#Impreza XV [翼豹 XV]
+XV
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP560-4 Gold Edition
+盖拉多
+foreignBrand:
+	力帆#国产#530
+localBrand:
+	力帆#力帆汽车#530#530
+530
+foreignBrand:
+	风行#国产#景逸X5
+localBrand:
+	风行#东风汽车#景逸#景逸X5
+景逸X5
+foreignBrand:
+	大众#进口#途锐
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg X [途锐 X]
+途锐
+foreignBrand:
+	起亚#合资#远舰
+localBrand:
+	起亚#东风悦达起亚#远舰#远舰
+远舰
+foreignBrand:
+	日产#进口#350Z
+localBrand:
+	日产#日产汽车#350Z#350 Convertible [350 敞篷]
+350Z
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5
+X5
+foreignBrand:
+	林肯#进口#MKZ
+localBrand:
+	林肯#福特汽车#MKZ#MKZ
+MKZ
+foreignBrand:
+	巴博斯#进口#巴博斯 M级
+localBrand:
+	巴博斯#巴博斯汽车#M-class [M级]#35MR
+巴博斯 M级
+foreignBrand:
+	全球鹰#国产#远景
+localBrand:
+	全球鹰#吉利汽车#远景#远景
+远景
+foreignBrand:
+	奔驰#进口#R级
+localBrand:
+	奔驰#奔驰汽车#R-Class [R级]#R 350 L
+R级
+foreignBrand:
+	中兴#国产#中兴C3
+localBrand:
+	中兴#中兴汽车#C3#C3
+中兴C3
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#125i Coupe [125i 双门轿跑车]
+1系
+foreignBrand:
+	奥迪#进口#A3(进口)
+localBrand:
+	奥迪#奥迪汽车#A3#A3
+A3(进口)
+foreignBrand:
+	新凯#合资#都市之星
+localBrand:
+	新凯#新凯汽车#都市之星#都市之星
+都市之星
+foreignBrand:
+	风行#国产#景逸
+localBrand:
+	风行#东风汽车#景逸#景逸XL
+景逸
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#X6 xDrive30d
+X6
+foreignBrand:
+	大众#合资#速腾
+localBrand:
+	大众#一汽大众#速腾#速腾GLI
+速腾
+foreignBrand:
+	依维柯#国产#宝迪
+localBrand:
+	依维柯#南京依维柯#宝迪#宝迪A42
+宝迪
+foreignBrand:
+	开瑞#国产#优优
+localBrand:
+	开瑞#奇瑞汽车#优优#优优II
+优优
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318i Coupe [318i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	本田#合资#雅阁
+localBrand:
+	本田#广汽本田#雅阁#第七代雅阁
+雅阁
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#116i
+1系
+foreignBrand:
+	大众#合资#朗逸
+localBrand:
+	大众#上海大众#朗逸#朗逸经典
+朗逸
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang Coupe [野马 Coupe]
+野马
+foreignBrand:
+	铃木#合资#天语尚悦
+localBrand:
+	铃木#长安铃木#天语·尚悦#天语·尚悦
+天语尚悦
+foreignBrand:
+	大众#合资#高尔夫
+localBrand:
+	大众#一汽大众#高尔夫#高尔夫
+高尔夫
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 500 Coupe
+E级(进口)
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#116d
+1系
+foreignBrand:
+	奔驰#进口#B级
+localBrand:
+	奔驰#奔驰汽车#B-Class [B级]#B 260
+B级
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 200 CDI
+A级
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#518i Touring [518i 旅行车]
+5系(进口)
+foreignBrand:
+	长城#国产#赛酷
+localBrand:
+	长城#长城汽车#赛酷#赛酷
+赛酷
+foreignBrand:
+	MG#国产#3SW
+localBrand:
+	MG#上海汽车#MG3#MG3 Xross
+3SW
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#735i
+7系
+foreignBrand:
+	东风#国产#风神水星
+localBrand:
+	东风#东风汽车#风神水星#风神水星
+风神水星
+foreignBrand:
+	捷豹#进口#XKR
+localBrand:
+	捷豹#捷豹汽车#XK#XKR Convertible
+XKR
+foreignBrand:
+	比亚迪#国产#S6
+localBrand:
+	比亚迪#比亚迪汽车#S6#S6
+S6
+foreignBrand:
+	福田#国产#风景快运
+localBrand:
+	福田#福田汽车#风景#快运
+风景快运
+foreignBrand:
+	华普#国产#海域
+localBrand:
+	华普#上海华普#海域#海域AA
+海域
+foreignBrand:
+	吉利#国产#美日
+localBrand:
+	吉利#吉利汽车#美日#美日
+美日
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#海狮#海狮优越者
+金杯海狮
+foreignBrand:
+	海马#国产#海马3
+localBrand:
+	海马#一汽海马#海马3#海马3
+海马3
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 CGI
+E级(进口)
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C63 AMG
+AMG车系
+foreignBrand:
+	南汽新雅途#国产#优尼柯
+localBrand:
+	新雅途#南京汽车#优尼柯#优尼柯
+优尼柯
+foreignBrand:
+	铃木#合资#北斗星
+localBrand:
+	铃木#昌河铃木#北斗星#北斗星e+
+北斗星
+foreignBrand:
+	长丰#国产#长丰DUV
+localBrand:
+	扬子#长丰扬子汽车#长丰DUV#长丰DUV
+长丰DUV
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CL AMG#CL65 K AMG
+AMG车系
+foreignBrand:
+	路特斯#进口#Esprit
+localBrand:
+	路特斯#宝腾汽车#Esprit [竞速]#Esprit [竞速]
+Esprit
+foreignBrand:
+	DS#合资#DS 5LS
+localBrand:
+	DS#长安标致雪铁龙#DS 5LS#DS 5LS
+DS 5LS
+foreignBrand:
+	现代#进口#美佳
+localBrand:
+	现代#现代汽车#Matrix [美佳]#Matrix [美佳]
+美佳
+foreignBrand:
+	三菱#进口#戈蓝(进口)
+localBrand:
+	三菱#三菱汽车#Galant [戈蓝]#Galant [戈蓝]
+戈蓝(进口)
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#528Li
+5系
+foreignBrand:
+	庞蒂亚克#进口#庞蒂亚克
+localBrand:
+	庞蒂克#通用汽车#Trams-AM [火鸟]#Trams-AM [火鸟]
+庞蒂亚克
+foreignBrand:
+	丰田#合资#皇冠
+localBrand:
+	丰田#一汽丰田#皇冠#皇冠
+皇冠
+foreignBrand:
+	福特#进口#福特征服者
+localBrand:
+	福特#福特汽车#Expedition [征服者]#Expedition [征服者]
+福特征服者
+foreignBrand:
+	雪佛兰#进口#克尔维特C6
+localBrand:
+	雪佛兰#通用汽车#Corvette [克尔维特]#Corvette C6 Coupe [克尔维特C6 Coupe]
+克尔维特C6
+foreignBrand:
+	比亚迪#国产#F3
+localBrand:
+	比亚迪#比亚迪汽车#F3#F3
+F3
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CDI Coupe
+E级(进口)
+foreignBrand:
+	迈凯伦#进口#迈凯伦12C
+localBrand:
+	迈凯伦#迈凯伦汽车#12C#12C
+迈凯伦12C
+foreignBrand:
+	大发#国产#森雅
+localBrand:
+	大发#一汽吉林#森雅#森雅
+森雅
+foreignBrand:
+	全球鹰#国产#熊猫
+localBrand:
+	全球鹰#吉利汽车#熊猫#熊猫
+熊猫
+foreignBrand:
+	别克#合资#赛欧
+localBrand:
+	别克#上海通用#赛欧#赛欧SRV
+赛欧
+foreignBrand:
+	大众#进口#Variant
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat Variant VR6 [帕萨特 旅行车 VR6]
+Variant
+foreignBrand:
+	黄海#国产#领航者CUV
+localBrand:
+	黄海#曙光汽车#领航者#领航者
+领航者CUV
+foreignBrand:
+	奥迪#合资#奥迪100
+localBrand:
+	奥迪#一汽奥迪#100#100
+奥迪100
+foreignBrand:
+	悍马#进口#H3
+localBrand:
+	悍马#通用汽车#H3#H3
+H3
+foreignBrand:
+	现代#进口#新胜达
+localBrand:
+	现代#现代汽车#Santa Fe [胜达]#New Santa Fe [新胜达]
+新胜达
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS400
+GS
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 K
+E级(进口)
+foreignBrand:
+	长城#国产#长城C30
+localBrand:
+	长城#长城汽车#长城C30#长城C30
+长城C30
+foreignBrand:
+	福特#进口#锐界
+localBrand:
+	福特#福特汽车#Edge [锐界]#Edge [锐界]
+锐界
+foreignBrand:
+	大众#进口#甲壳虫
+localBrand:
+	大众#大众汽车#Beetle [甲壳虫]#Beetle [甲壳虫]
+甲壳虫
+foreignBrand:
+	MINI#进口#JCW PACEMAN
+localBrand:
+	MINI#宝马汽车#Paceman#JCW Paceman All 4
+JCW PACEMAN
+foreignBrand:
+	阿斯顿·马丁#进口#DBS
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#DBS#DBS Volante [DBS 敞篷]
+DBS
+foreignBrand:
+	雪铁龙#合资#爱丽舍两厢
+localBrand:
+	雪铁龙#东风雪铁龙#爱丽舍#爱丽舍
+爱丽舍两厢
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#135i Coupe [135i 双门轿跑车]
+1系
+foreignBrand:
+	劳斯莱斯#进口#幻影
+localBrand:
+	劳斯莱斯#劳斯莱斯#Phantom [幻影]#Phantom [幻影]
+幻影
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K02
+东风小康
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K01
+东风小康
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K07
+东风小康
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K06
+东风小康
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K05
+东风小康
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive40d
+X3
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#530Li
+5系
+foreignBrand:
+	奇瑞#国产#瑞虎
+localBrand:
+	奇瑞#奇瑞汽车#瑞虎#瑞虎
+瑞虎
+foreignBrand:
+	雪铁龙#进口#C4
+localBrand:
+	雪铁龙#雪铁龙汽车#C4#C4
+C4
+foreignBrand:
+	MINI#进口#mini cooper
+localBrand:
+	MINI#宝马汽车#Mini#Mini Cooper S
+mini cooper
+foreignBrand:
+	讴歌#进口#RLX
+localBrand:
+	讴歌#本田汽车#RLX#RLX
+RLX
+foreignBrand:
+	巴博斯#进口#巴博斯 S级
+localBrand:
+	巴博斯#巴博斯汽车#S-class [S级]#50S 4M
+巴博斯 S级
+foreignBrand:
+	雪佛兰#进口#克尔维特C6
+localBrand:
+	雪佛兰#通用汽车#Corvette [克尔维特]#Corvette C6 Convertible [克尔维特C6 敞篷]
+克尔维特C6
+foreignBrand:
+	北京汽车#国产#E系列
+localBrand:
+	北京#北京汽车#E系列#E系列-三厢
+E系列
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 SuperCab
+F系列
+foreignBrand:
+	夏利#国产#夏利A+
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利A+-两厢
+夏利A+
+foreignBrand:
+	吉普#合资#切诺基
+localBrand:
+	Jeep#北京吉普#切诺基#切诺基 顺途
+切诺基
+foreignBrand:
+	奔驰#进口#GLK级
+localBrand:
+	奔驰#奔驰汽车#GLK-Class [GLK级]#GLK 300
+GLK级
+foreignBrand:
+	迈凯伦#进口#迈凯伦12C
+localBrand:
+	迈凯伦#迈凯伦汽车#12C#12C Coupe
+迈凯伦12C
+foreignBrand:
+	阿斯顿·马丁#进口#DB9
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#DB9#DB9
+DB9
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C-Class AMG Coupe [C级 AMG 双门轿跑车]
+AMG车系
+foreignBrand:
+	夏利#国产#夏利N3+
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利N3+-三厢
+夏利N3+
+foreignBrand:
+	标致#合资#207三厢
+localBrand:
+	标致#神龙汽车#207#207-三厢
+207三厢
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650i Convertible [650i 敞篷轿跑车]
+6系
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS400
+LS
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#500 E
+E级(进口)
+foreignBrand:
+	MG#国产#3SW
+localBrand:
+	MG#上海汽车#MG3#MG3 SW
+3SW
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325d Touring [325d 旅行车]
+3系(进口)
+foreignBrand:
+	标致#进口#407 Coupe
+localBrand:
+	标致#标致汽车#407#407 Coupe
+407 Coupe
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640i xDrive Gran Coupe [640i xDrive 四门轿跑车]
+6系
+foreignBrand:
+	江铃#国产#宝典
+localBrand:
+	江铃#江铃汽车#宝典#宝典
+宝典
+foreignBrand:
+	克莱斯勒#进口#交叉火力
+localBrand:
+	克莱斯勒#克莱斯勒#Crossfire [交叉火力]#Crossfire Convertible [交叉火力 敞篷]
+交叉火力
+foreignBrand:
+	荣威#国产#950
+localBrand:
+	荣威#上海汽车#950#950
+950
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#118d
+1系
+foreignBrand:
+	奇瑞#国产#旗云
+localBrand:
+	奇瑞#奇瑞汽车#旗云#旗云之星
+旗云
+foreignBrand:
+	吉奥#国产#帅豹
+localBrand:
+	吉奥#广汽吉奥#帅豹#帅豹
+帅豹
+foreignBrand:
+	美亚#国产#奇骏
+localBrand:
+	美亚#天汽美亚#奇骏#奇骏
+奇骏
+foreignBrand:
+	奥迪#进口#A8L
+localBrand:
+	奥迪#奥迪汽车#A8#A8
+A8L
+foreignBrand:
+	欧宝#进口#安德拉
+localBrand:
+	欧宝#通用汽车#Antara [安德拉]#Antara [安德拉]
+安德拉
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#One Clubman
+CLUBMAN
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 450 CDI
+S级
+foreignBrand:
+	东南#国产#V6菱仕
+localBrand:
+	东南#东南汽车#V6菱仕#V6菱仕
+V6菱仕
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 400 CDI
+ML级
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#S-Class AMG [S级 AMG]#S63L AMG 4MATIC
+AMG车系
+foreignBrand:
+	铃木#合资#北斗星X5
+localBrand:
+	铃木#昌河铃木#北斗星#北斗星X5
+北斗星X5
+foreignBrand:
+	奥迪#进口#奥迪S8
+localBrand:
+	奥迪#奥迪汽车#A8#S8
+奥迪S8
+foreignBrand:
+	马自达#进口#马自达5
+localBrand:
+	马自达#马自达汽车#Mazda5 [马自达5]#Mazda5 [马自达5]
+马自达5
+foreignBrand:
+	双龙#进口#雷斯特
+localBrand:
+	双龙#双龙汽车#Rexton [雷斯特]#Rexton W [雷斯特 W]
+雷斯特
+foreignBrand:
+	开瑞#国产#优翼
+localBrand:
+	开瑞#奇瑞汽车#优翼#优翼
+优翼
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera 4S [帕纳美拉 4S]
+Panamera
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 230
+C级
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 280
+E级(进口)
+foreignBrand:
+	奔驰#进口#CLS
+localBrand:
+	奔驰#奔驰汽车#CLS-Class [CLS级]#CLS 350
+CLS
+foreignBrand:
+	比亚迪#国产#G3
+localBrand:
+	比亚迪#比亚迪汽车#G3#G3
+G3
+foreignBrand:
+	雪佛兰#进口#科迈罗
+localBrand:
+	雪佛兰#通用汽车#Camaro [科迈罗]#Camaro [科迈罗]
+科迈罗
+foreignBrand:
+	众泰#国产#众泰Z100
+localBrand:
+	众泰#众泰汽车#Z100#Z100
+众泰Z100
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#528i
+5系(进口)
+foreignBrand:
+	DS#进口#DS3(进口)
+localBrand:
+	DS#雪铁龙汽车#DS3#DS3
+DS3(进口)
+foreignBrand:
+	英菲尼迪#进口#EX
+localBrand:
+	英菲尼迪#日产汽车#QX50#QX50
+EX
+foreignBrand:
+	路特斯#进口#Elise
+localBrand:
+	路特斯#宝腾汽车#Elite [竞悦]#Elite [竞悦]
+Elise
+foreignBrand:
+	五菱#国产#五菱宏光
+localBrand:
+	五菱#上汽通用五菱#宏光#宏光
+五菱宏光
+foreignBrand:
+	瑞麒#国产#G5
+localBrand:
+	瑞麒#奇瑞汽车#G5#G5
+G5
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320i Coupe [320i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	奥迪#进口#A7
+localBrand:
+	奥迪#奥迪汽车#A7#A7
+A7
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320cd Convertible [320cd 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	起亚#进口#嘉华（进口）
+localBrand:
+	起亚#起亚汽车#Carnival [嘉华]#Carnival [嘉华]
+嘉华（进口）
+foreignBrand:
+	丰田#合资#RAV4
+localBrand:
+	丰田#一汽丰田#RAV4#RAV4
+RAV4
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive40i
+X5
+foreignBrand:
+	凯迪拉克#进口#SRX(进口)
+localBrand:
+	凯迪拉克#通用汽车#SRX#SRX
+SRX(进口)
+foreignBrand:
+	奇瑞#国产#风云2两厢
+localBrand:
+	奇瑞#奇瑞汽车#风云2#风云2-两厢
+风云2两厢
+foreignBrand:
+	丰田#进口#普拉多(进口)
+localBrand:
+	丰田#丰田汽车#Land Cruiser Prado [普拉多]#Land Cruiser Prado [普拉多]
+普拉多(进口)
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra-Sedan [雅特-三厢]
+雅特
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 300
+C级
+foreignBrand:
+	众泰#国产#众泰5008
+localBrand:
+	众泰#众泰汽车#008#5008
+众泰5008
+foreignBrand:
+	江铃#国产#宝威
+localBrand:
+	江铃#江铃汽车#宝威#宝威
+宝威
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#GT3
+保时捷911
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#GT2
+保时捷911
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝V系列#V80L
+佳宝
+foreignBrand:
+	现代#进口#ix35(进口)
+localBrand:
+	现代#现代汽车#ix35#ix35
+ix35(进口)
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#630ci Coupe [630ci 双门轿跑车]
+6系
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane Cabriolet [梅甘娜 敞篷车]
+梅甘娜
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Targa 4S
+保时捷911
+foreignBrand:
+	北汽#国产#幻速S3
+localBrand:
+	幻速#北京汽车#S3#S3
+幻速S3
+foreignBrand:
+	华普#国产#飓风
+localBrand:
+	华普#上海华普#飓风#飓风
+飓风
+foreignBrand:
+	斯巴鲁#进口#XV
+localBrand:
+	斯巴鲁#斯巴鲁汽车#XV#XV
+XV
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#745Li
+7系
+foreignBrand:
+	福迪#国产#小超人皮卡
+localBrand:
+	福迪#福迪汽车#小超人#小超人
+小超人皮卡
+foreignBrand:
+	丰田#合资#凯美瑞
+localBrand:
+	丰田#广汽丰田#凯美瑞#凯美瑞经典
+凯美瑞
+foreignBrand:
+	宝马#合资#X1
+localBrand:
+	宝马#华晨宝马#X1#X1 xDrive28i
+X1
+foreignBrand:
+	铃木#合资#雨燕
+localBrand:
+	铃木#长安铃木#雨燕#雨燕
+雨燕
+foreignBrand:
+	阿斯顿·马丁#进口#Rapide
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Rapide#Rapide
+Rapide
+foreignBrand:
+	大众#合资#帕萨特
+localBrand:
+	大众#上海大众#帕萨特#帕萨特
+帕萨特
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i Coupe [330i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	丰田#进口#汉兰达(进口)
+localBrand:
+	丰田#丰田汽车#Highlander [汉兰达]#Highlander [汉兰达]
+汉兰达(进口)
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne Turbo [卡宴]
+卡宴
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#630i Coupe [630i 双门轿跑车]
+6系
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 Tourer
+C级(进口)
+foreignBrand:
+	迈巴赫#进口#62
+localBrand:
+	迈巴赫#奔驰汽车#Maybach62 [迈巴赫62]#Maybach62 S Landaulet [迈巴赫62 S Landaulet]
+62
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#528i xDrive
+5系(进口)
+foreignBrand:
+	马自达#合资#马自达3
+localBrand:
+	马自达#长安福特马自达#马自达3#马自达3
+马自达3
+foreignBrand:
+	标致#进口#206(进口)
+localBrand:
+	标致#标致汽车#206#206 Sedan
+206(进口)
+foreignBrand:
+	大迪#国产#霸道
+localBrand:
+	大迪#大迪汽车#霸道#霸道
+霸道
+foreignBrand:
+	莲花#进口#RCR竞速
+localBrand:
+	莲花#青年莲花#竞速#竞速
+RCR竞速
+foreignBrand:
+	五菱#国产#五菱宏光
+localBrand:
+	五菱#上汽通用五菱#宏光#宏光S
+五菱宏光
+foreignBrand:
+	奥迪#进口#A1
+localBrand:
+	奥迪#奥迪汽车#A1#A1 Sportback
+A1
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 2.8i Convertible [Z3 2.8i 敞篷跑车]
+Z3
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525d Touring [525d 旅行车]
+5系(进口)
+foreignBrand:
+	丰田#合资#雅力士
+localBrand:
+	丰田#广汽丰田#雅力士#雅力士
+雅力士
+foreignBrand:
+	英伦#国产#金鹰CROSS
+localBrand:
+	英伦#吉利汽车#金鹰#金鹰Cross
+金鹰CROSS
+foreignBrand:
+	双龙#进口#雷斯特Ⅱ
+localBrand:
+	双龙#双龙汽车#Rexton [雷斯特]#Rexton Ⅱ [雷斯特 Ⅱ]
+雷斯特Ⅱ
+foreignBrand:
+	江淮#国产#同悦
+localBrand:
+	江淮#江淮汽车#同悦#同悦Cross
+同悦
+foreignBrand:
+	沃尔沃#进口#XC90
+localBrand:
+	沃尔沃#沃尔沃汽车#XC90#XC90
+XC90
+foreignBrand:
+	长城#国产#哈弗M1
+localBrand:
+	长城#长城汽车#哈弗M1#哈弗M1
+哈弗M1
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TT Roadster
+TT
+foreignBrand:
+	丰田#进口#4Runner
+localBrand:
+	丰田#丰田汽车#4Runner#4Runner
+4Runner
+foreignBrand:
+	华泰#国产#路盛E70
+localBrand:
+	华泰#华泰汽车#路盛E70#路盛E70
+路盛E70
+foreignBrand:
+	日产#进口#奇骏(进口)
+localBrand:
+	日产#日产汽车#X-Trail [奇骏]#X-Trail [奇骏]
+奇骏(进口)
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640d Convertible [640d 敞篷轿跑车]
+6系
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640i xDrive Convertible [640i xDrive 敞篷轿跑车]
+6系
+foreignBrand:
+	卡尔森#进口#卡尔森 GL级
+localBrand:
+	卡尔森#卡尔森汽车#GL级#CGL45
+卡尔森 GL级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318i Touring [318i 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M3 Convertible [M3 敞篷轿跑车]
+M系
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#ActiveHybrid 5 [5系 油电混合]
+5系(进口)
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 sDrive20i
+Z4
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320ci Convertible [320ci 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	丰田#进口#红杉
+localBrand:
+	丰田#丰田汽车#Sequoia [红杉]#Sequoia [红杉]
+红杉
+foreignBrand:
+	雪铁龙#合资#C5
+localBrand:
+	雪铁龙#神龙汽车#C5#C5
+C5
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP560-4
+盖拉多
+foreignBrand:
+	福田#国产#传奇
+localBrand:
+	福田#福田汽车#传奇#传奇
+传奇
+foreignBrand:
+	如虎#进口#如虎 CTR 3
+localBrand:
+	RUF#如虎汽车#CTR#CTR 3
+如虎 CTR 3
+foreignBrand:
+	菲亚特#进口#多宝
+localBrand:
+	菲亚特#菲亚特汽车#Doblo [多宝]#Doblo [多宝]
+多宝
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G35-Sedan [G35-三厢]
+G系
+foreignBrand:
+	雷克萨斯#进口#SC
+localBrand:
+	雷克萨斯#丰田汽车#SC#SC300
+SC
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316d Touring [316d 旅行车]
+3系(进口)
+foreignBrand:
+	雷克萨斯#进口#SC
+localBrand:
+	雷克萨斯#丰田汽车#SC#SC400
+SC
+foreignBrand:
+	现代#合资#伊兰特
+localBrand:
+	现代#北京现代#伊兰特#伊兰特-三厢
+伊兰特
+foreignBrand:
+	大众#合资#CrossPOLO
+localBrand:
+	大众#上海大众#POLO#Cross POLO
+CrossPOLO
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 220 CDI Tourer
+E级(进口)
+foreignBrand:
+	菲亚特#进口#朋多
+localBrand:
+	菲亚特#菲亚特汽车#Punto [朋多]#Punto [朋多]
+朋多
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#325i
+3系
+foreignBrand:
+	马自达#进口#马自达3（进口）
+localBrand:
+	马自达#马自达汽车#Mazda3 [马自达3]#Mazda3-Sedan [马自达3-三厢]
+马自达3（进口）
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 210 Evolution
+A级
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#S-Class AMG [S级 AMG]#S65L AMG
+AMG车系
+foreignBrand:
+	吉普#合资#JEEP 2500
+localBrand:
+	Jeep#北京吉普#Jeep2500#Jeep2500
+JEEP 2500
+foreignBrand:
+	现代#合资#瑞奕
+localBrand:
+	现代#北京现代#瑞奕#瑞奕
+瑞奕
+foreignBrand:
+	北汽#国产#陆霸
+localBrand:
+	北汽#北汽股份#陆霸#陆霸2400
+陆霸
+foreignBrand:
+	凯迪拉克#进口#凯雷德
+localBrand:
+	凯迪拉克#通用汽车#Escalade [凯雷德]#Escalade [凯雷德]
+凯雷德
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic Si [思域 Si]
+思域（进口）
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535xi xDrive
+5系(进口)
+foreignBrand:
+	克莱斯勒#进口#太阳舞
+localBrand:
+	克莱斯勒#克莱斯勒#Sundance [太阳舞]#Sundance [太阳舞]
+太阳舞
+foreignBrand:
+	哈飞#国产#哈飞民意
+localBrand:
+	哈飞#哈飞汽车#民意#民意
+哈飞民意
+foreignBrand:
+	五菱#国产#PN货车
+localBrand:
+	五菱#上汽通用五菱#PN系列货车#PN系列货车
+PN货车
+foreignBrand:
+	劳斯莱斯#进口#魅影
+localBrand:
+	劳斯莱斯#劳斯莱斯#Wraith [魅影]#Wraith [魅影]
+魅影
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 CDI
+E级(进口)
+foreignBrand:
+	沃尔沃#进口#S80
+localBrand:
+	沃尔沃#沃尔沃汽车#S80#S80L
+S80
+foreignBrand:
+	长城#国产#精灵
+localBrand:
+	长城#长城汽车#长城精灵#长城精灵Cross
+精灵
+foreignBrand:
+	吉奥#国产#GX6
+localBrand:
+	吉奥#广汽吉奥#GX6#GX6
+GX6
+foreignBrand:
+	比亚迪#国产#F6
+localBrand:
+	比亚迪#比亚迪汽车#F6#F6
+F6
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K17
+东风小康
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#123d Coupe [123d 双门轿跑车]
+1系
+foreignBrand:
+	福特#进口#福克斯(进口)
+localBrand:
+	福特#福特汽车#Focus [福克斯]#Focus RS [福克斯 RS]
+福克斯(进口)
+foreignBrand:
+	雪铁龙#合资#世嘉两厢
+localBrand:
+	雪铁龙#东风雪铁龙#世嘉#世嘉Cross
+世嘉两厢
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera 4 Cabriolet
+保时捷911
+foreignBrand:
+	观致#合资#观致3
+localBrand:
+	观致#观致汽车#观致3#观致3
+观致3
+foreignBrand:
+	东风风神#国产#风神H30
+localBrand:
+	风神#东风汽车#H30#H30
+风神H30
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i Touring [325i 旅行车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 240 Tourer
+E级(进口)
+foreignBrand:
+	法拉利#进口#法拉利360 Modena
+localBrand:
+	法拉利#法拉利汽车#360#360 Spider
+法拉利360 Modena
+foreignBrand:
+	三菱#合资#蓝瑟
+localBrand:
+	三菱#东南汽车#蓝瑟#蓝瑟
+蓝瑟
+foreignBrand:
+	英菲尼迪#进口#EX
+localBrand:
+	英菲尼迪#日产汽车#Q70#Q70L Hybrid [Q70L 油电混合]
+EX
+foreignBrand:
+	沃尔沃#进口#C30
+localBrand:
+	沃尔沃#沃尔沃汽车#C30#C30
+C30
+foreignBrand:
+	起亚#合资#秀尔
+localBrand:
+	起亚#东风悦达起亚#秀尔#秀尔
+秀尔
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 260 L CGI
+E级(进口)
+foreignBrand:
+	众泰#国产#Z300
+localBrand:
+	众泰#众泰汽车#Z300#Z300
+Z300
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 180 CGI
+C级
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#600 SE
+S级
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS430
+LS
+foreignBrand:
+	雷克萨斯#进口#RX
+localBrand:
+	雷克萨斯#丰田汽车#RX#RX330
+RX
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 3.0i Convertible [Z3 3.0i 敞篷跑车]
+Z3
+foreignBrand:
+	中兴#国产#威虎
+localBrand:
+	中兴#中兴汽车#威虎#威虎G3
+威虎
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive30d
+X3
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 400 L Hybrid
+E级
+foreignBrand:
+	英菲尼迪#进口#EX
+localBrand:
+	英菲尼迪#日产汽车#EX#EX37
+EX
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#快客-B
+风景冲浪
+foreignBrand:
+	英菲尼迪#进口#EX
+localBrand:
+	英菲尼迪#日产汽车#EX#EX35
+EX
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive30i
+X3
+foreignBrand:
+	英菲尼迪#进口#EX
+localBrand:
+	英菲尼迪#日产汽车#EX#EX30
+EX
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera 4S
+保时捷911
+foreignBrand:
+	雪佛兰#合资#赛欧三厢
+localBrand:
+	雪佛兰#上海通用#赛欧#赛欧SRV
+赛欧三厢
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 320 CDI Tourer
+E级(进口)
+foreignBrand:
+	捷豹#进口#X-TYPE
+localBrand:
+	捷豹#捷豹汽车#X-Type#X-Type
+X-TYPE
+foreignBrand:
+	奥迪#进口#A4(进口)
+localBrand:
+	奥迪#奥迪汽车#A4#A4 Allroad Quattro
+A4(进口)
+foreignBrand:
+	奥迪#进口#A8L
+localBrand:
+	奥迪#奥迪汽车#A8#A8L
+A8L
+foreignBrand:
+	丰田#进口#RAV4(进口)
+localBrand:
+	丰田#丰田汽车#RAV4#RAV4
+RAV4(进口)
+foreignBrand:
+	奇瑞#国产#东方之子
+localBrand:
+	奇瑞#奇瑞汽车#东方之子#东方之子
+东方之子
+foreignBrand:
+	法拉利#进口#法拉利360 Modena
+localBrand:
+	法拉利#法拉利汽车#360#360
+法拉利360 Modena
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS300h
+GS
+foreignBrand:
+	标致#进口#206(进口)
+localBrand:
+	标致#标致汽车#206#206 CC
+206(进口)
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#SL-Class AMG [SL级 AMG]#SL65 AMG
+AMG车系
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera S Hybrid [帕纳美拉 S Hybrid]
+Panamera
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328ci Coupe [328ci 双门轿跑车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#SL级
+localBrand:
+	奔驰#奔驰汽车#SL-Class [SL级]#SL 350
+SL级
+foreignBrand:
+	欧宝#进口#欧宝Insignia
+localBrand:
+	欧宝#通用汽车#Insignia [音速亚]#Insignia Hatchback [音速亚 掀背车]
+欧宝Insignia
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera Turbo S Executive [帕纳美拉 Turbo S Executive]
+Panamera
+foreignBrand:
+	陆风#国产#X8
+localBrand:
+	陆风#陆风汽车#X8#X8
+X8
+foreignBrand:
+	保时捷#进口#Cayman
+localBrand:
+	保时捷#保时捷汽车#Cayman [卡曼]#Cayman S [卡曼 S]
+Cayman
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525td Touring [525td 旅行车]
+5系(进口)
+foreignBrand:
+	奥迪#进口#A6(进口)
+localBrand:
+	奥迪#奥迪汽车#A6#A6 Avant
+A6(进口)
+foreignBrand:
+	陆风#国产#陆风X6
+localBrand:
+	陆风#陆风汽车#X6#X6龙腾版
+陆风X6
+foreignBrand:
+	莲花#国产#L3三厢
+localBrand:
+	莲花#青年莲花#L3#L3-三厢
+L3三厢
+foreignBrand:
+	中兴#国产#无限V7
+localBrand:
+	中兴#中兴汽车#无限#无限V7
+无限V7
+foreignBrand:
+	日产#进口#GT-R
+localBrand:
+	日产#日产汽车#GT-R#GT-R
+GT-R
+foreignBrand:
+	中兴#国产#无限V5
+localBrand:
+	中兴#中兴汽车#无限#无限V5
+无限V5
+foreignBrand:
+	中兴#国产#无限V3
+localBrand:
+	中兴#中兴汽车#无限#无限V3
+无限V3
+foreignBrand:
+	雪佛兰#进口#科帕奇(进口)
+localBrand:
+	雪佛兰#通用汽车#Captive [科帕奇]#Captive [科帕奇]
+科帕奇(进口)
+foreignBrand:
+	沃尔沃#进口#XC70
+localBrand:
+	沃尔沃#沃尔沃汽车#XC70#XC70
+XC70
+foreignBrand:
+	吉奥#国产#帅舰
+localBrand:
+	吉奥#广汽吉奥#帅舰#帅舰
+帅舰
+foreignBrand:
+	捷豹#进口#XKR
+localBrand:
+	捷豹#捷豹汽车#XK#XKR
+XKR
+foreignBrand:
+	众泰#国产#众泰2008
+localBrand:
+	众泰#众泰汽车#008#2008
+众泰2008
+foreignBrand:
+	菲亚特#进口#菲亚特Panda
+localBrand:
+	菲亚特#菲亚特汽车#Panda [熊猫]#Panda [熊猫]
+菲亚特Panda
+foreignBrand:
+	帝豪#国产#EC8
+localBrand:
+	帝豪#吉利汽车#EC8#EC8
+EC8
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#760i
+7系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i Convertible [335i 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#QX70#QX70
+FX
+foreignBrand:
+	兰博基尼#进口#Reventon
+localBrand:
+	兰博基尼#兰博基尼#Reventon [雷文顿]#Reventon [雷文顿]
+Reventon
+foreignBrand:
+	长城#国产#长城房车
+localBrand:
+	长城#长城汽车#风骏#风骏房车
+长城房车
+foreignBrand:
+	福特#合资#蒙迪欧-致胜
+localBrand:
+	福特#长安福特#蒙迪欧#蒙迪欧致胜
+蒙迪欧-致胜
+foreignBrand:
+	大通#国产#MAXUS V80
+localBrand:
+	大通#上海汽车#V80#V80
+MAXUS V80
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#540i Touring [540i 旅行车]
+5系(进口)
+foreignBrand:
+	斯柯达#进口#速派
+localBrand:
+	斯柯达#大众汽车#Superb [速派]#Superb [速派]
+速派
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#220 E
+E级(进口)
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#快捷
+风景冲浪
+foreignBrand:
+	宾利#进口#雅致
+localBrand:
+	宾利#宾利汽车#Arnage [雅致]#Arnage [雅致]
+雅致
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#728i
+7系
+foreignBrand:
+	大众#进口#Multivan
+localBrand:
+	大众#大众汽车#Multivan [迈特威]#Multivan [迈特威]
+Multivan
+foreignBrand:
+	奇瑞#国产#瑞虎
+localBrand:
+	奇瑞#奇瑞汽车#瑞虎#瑞虎DR
+瑞虎
+foreignBrand:
+	奔驰#进口#CLS
+localBrand:
+	奔驰#奔驰汽车#CLS-Class [CLS级]#CLS 500
+CLS
+foreignBrand:
+	华普#国产#海迅
+localBrand:
+	华普#上海华普#海迅#海迅-三厢
+海迅
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 400 CDI
+S级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#323ci Convertible [323ci 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	巴博斯#进口#巴博斯 SLK级
+localBrand:
+	巴博斯#巴博斯汽车#SLK-class [SLK级]#26SC
+巴博斯 SLK级
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 450
+S级
+foreignBrand:
+	北汽#国产#域胜007
+localBrand:
+	北汽#北汽股份#域胜007#域胜007
+域胜007
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#320 E
+E级(进口)
+foreignBrand:
+	长城#国产#哈弗H6
+localBrand:
+	长城#长城汽车#哈弗H6#哈弗H6
+哈弗H6
+foreignBrand:
+	双环#国产#来旺
+localBrand:
+	双环#双环汽车#来旺#来旺
+来旺
+foreignBrand:
+	铃木#合资#锋驭
+localBrand:
+	铃木#长安铃木#锋驭#锋驭
+锋驭
+foreignBrand:
+	铃木#进口#吉姆尼
+localBrand:
+	铃木#铃木汽车#Jimny [吉姆尼]#Jimny [吉姆尼]
+吉姆尼
+foreignBrand:
+	马自达#合资#马自达3
+localBrand:
+	马自达#长安马自达#马自达3#马自达3
+马自达3
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera 4 Platinum Edition [帕纳美拉 4 Platinum Edition]
+Panamera
+foreignBrand:
+	雪佛兰#进口#科迈罗
+localBrand:
+	雪佛兰#通用汽车#Camaro [科迈罗]#Camaro-SS[科迈罗-SS]
+科迈罗
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 260 CGI
+C级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i xDrive Touring [330i xDrive 旅行车]
+3系(进口)
+foreignBrand:
+	克莱斯勒#进口#300C(进口)
+localBrand:
+	克莱斯勒#克莱斯勒#300#300C
+300C(进口)
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180
+C级(进口)
+foreignBrand:
+	福特#合资#福克斯两厢
+localBrand:
+	福特#长安福特#福克斯#经典福克斯-两厢
+福克斯两厢
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#323ci Coupe [323ci 双门轿跑车]
+3系(进口)
+foreignBrand:
+	凯迪拉克#进口#STS
+localBrand:
+	凯迪拉克#通用汽车#STS#STS
+STS
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 535i
+5系GT
+foreignBrand:
+	力帆#国产#兴顺
+localBrand:
+	力帆#力帆汽车#兴顺#兴顺
+兴顺
+foreignBrand:
+	华普#国产#海锋
+localBrand:
+	华普#上海华普#海锋#海锋
+海锋
+foreignBrand:
+	永源#国产#庄威
+localBrand:
+	永源#永源汽车#庄威#庄威
+庄威
+foreignBrand:
+	北汽#国产#陆霸
+localBrand:
+	北汽#北汽股份#陆霸#陆霸3000
+陆霸
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316i
+3系(进口)
+foreignBrand:
+	起亚#合资#福瑞迪
+localBrand:
+	起亚#东风悦达起亚#福瑞迪#福瑞迪
+福瑞迪
+foreignBrand:
+	斯柯达#进口#速尊
+localBrand:
+	斯柯达#大众汽车#Superb [速派]#Superb Combi [速尊]
+速尊
+foreignBrand:
+	欧宝#进口#赛飞利
+localBrand:
+	欧宝#通用汽车#Zafira [赛飞利]#Zafira [赛飞利]
+赛飞利
+foreignBrand:
+	DS#进口#DS4(进口)
+localBrand:
+	DS#雪铁龙汽车#DS4#DS4
+DS4(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316d
+3系(进口)
+foreignBrand:
+	沃尔沃#进口#S40（进口）
+localBrand:
+	沃尔沃#沃尔沃汽车#S40#S40
+S40（进口）
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320i Convertible [320i 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#蒙派克S
+蒙派克
+foreignBrand:
+	雪铁龙#合资#C4L
+localBrand:
+	雪铁龙#东风雪铁龙#C4#C4L
+C4L
+foreignBrand:
+	大众#合资#POLO劲取
+localBrand:
+	大众#上海大众#POLO#POLO 劲取
+POLO劲取
+foreignBrand:
+	铃木#合资#利亚纳两厢
+localBrand:
+	铃木#昌河铃木#利亚纳#利亚纳-两厢
+利亚纳两厢
+foreignBrand:
+	长安#国产#奔奔
+localBrand:
+	长安#长安汽车#奔奔#奔奔
+奔奔
+foreignBrand:
+	中华#国产#骏捷FSV
+localBrand:
+	中华#华晨汽车#骏捷#骏捷FSV
+骏捷FSV
+foreignBrand:
+	纳智捷#国产#大7 MPV
+localBrand:
+	纳智捷#东风裕隆#大7 MPV#大7 MPV
+大7 MPV
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#蒙派克E
+蒙派克
+foreignBrand:
+	铃木#进口#凯泽西
+localBrand:
+	铃木#铃木汽车#Kizashi [凯泽西]#Kizashi [凯泽西]
+凯泽西
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G20-Sedan [G20-三厢]
+G系
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250 CDI Coupe
+C级(进口)
+foreignBrand:
+	雷克萨斯#进口#ES
+localBrand:
+	雷克萨斯#丰田汽车#ES#ES250
+ES
+foreignBrand:
+	力帆#国产#330
+localBrand:
+	力帆#力帆汽车#330#330
+330
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Countryman#Cooper Countryman
+Countryman
+foreignBrand:
+	力帆#国产#520i
+localBrand:
+	力帆#力帆汽车#520#520i
+520i
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 500 Carbriolet
+CLK
+foreignBrand:
+	阿尔法·罗密欧#进口#147
+localBrand:
+	阿尔法-罗密欧#阿尔法-罗密欧#ALFA 147#ALFA 147
+147
+foreignBrand:
+	哈飞#国产#百利
+localBrand:
+	哈飞#哈飞汽车#百利#百利
+百利
+foreignBrand:
+	菲亚特#进口#菲跃
+localBrand:
+	菲亚特#菲亚特汽车#Freemont [菲跃]#Freemont [菲跃]
+菲跃
+foreignBrand:
+	起亚#进口#威客
+localBrand:
+	起亚#起亚汽车#VQ [威客]#VQ-R [威客-R]
+威客
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#745d
+7系
+foreignBrand:
+	力帆#国产#320
+localBrand:
+	力帆#力帆汽车#320#320
+320
+foreignBrand:
+	阿斯顿·马丁#进口#V12 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V12 Vantage
+V12 Vantage
+foreignBrand:
+	萨博#进口#9-3
+localBrand:
+	萨博#通用汽车#9-3#9-3 Convertible [9-3 敞篷]
+9-3
+foreignBrand:
+	中兴#国产#旗舰
+localBrand:
+	中兴#中兴汽车#旗舰#旗舰SUV
+旗舰
+foreignBrand:
+	现代#合资#途胜
+localBrand:
+	现代#北京现代#途胜#途胜
+途胜
+foreignBrand:
+	克莱斯勒#合资#300C
+localBrand:
+	克莱斯勒#北京奔驰#300C#300C
+300C
+foreignBrand:
+	雪佛兰#进口#迈锐宝
+localBrand:
+	雪佛兰#通用汽车#Malibu [迈锐宝]#Malibu-SS-Hatchback [迈锐宝-SS-两厢]
+迈锐宝
+foreignBrand:
+	北京汽车#国产#威旺306
+localBrand:
+	威旺#北京汽车#306#306
+威旺306
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 320
+C级(进口)
+foreignBrand:
+	斯巴鲁#进口#傲虎
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Outback [傲虎]#Outback [傲虎]
+傲虎
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS350
+LS
+foreignBrand:
+	欧宝#进口#欧宝Insignia
+localBrand:
+	欧宝#通用汽车#Insignia [音速亚]#Insignia ST [音速亚 ST]
+欧宝Insignia
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325xi Touring [325xi 旅行车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 Coupe
+E级(进口)
+foreignBrand:
+	大众#进口#Scirocco尚酷
+localBrand:
+	大众#大众汽车#Scirocco [尚酷]#Scirocco [尚酷]
+Scirocco尚酷
+foreignBrand:
+	奔驰#进口#奔驰MB100
+localBrand:
+	奔驰#奔驰汽车#MB100#MB100
+奔驰MB100
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#730iL
+7系
+foreignBrand:
+	光冈#进口#女王
+localBrand:
+	光冈#光冈汽车#Himiko [女王]#Himiko [女王]
+女王
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#X6 xDrive40d
+X6
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#911
+保时捷911
+foreignBrand:
+	吉奥#国产#财运500
+localBrand:
+	吉奥#广汽吉奥#财运#财运500
+财运500
+foreignBrand:
+	玛莎拉蒂#进口#Ghibli
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#Ghibli#Ghibli S Q4
+Ghibli
+foreignBrand:
+	雪佛兰#合资#赛欧三厢
+localBrand:
+	雪佛兰#上海通用#赛欧#赛欧-三厢
+赛欧三厢
+foreignBrand:
+	法拉利#进口#法拉利360 Modena
+localBrand:
+	法拉利#法拉利汽车#360#360 Modena Spider
+法拉利360 Modena
+foreignBrand:
+	马自达#合资#马自达2
+localBrand:
+	马自达#长安福特马自达#马自达2#马自达2
+马自达2
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风I
+瑞风
+foreignBrand:
+	长城#国产#长城C50
+localBrand:
+	长城#长城汽车#长城C50#长城C50
+长城C50
+foreignBrand:
+	瑞麒#国产#瑞麒X1
+localBrand:
+	瑞麒#奇瑞汽车#X1#X1
+瑞麒X1
+foreignBrand:
+	雪铁龙#合资#赛纳
+localBrand:
+	雪铁龙#神龙汽车#赛纳#赛纳
+赛纳
+foreignBrand:
+	沃尔沃#进口#XC60
+localBrand:
+	沃尔沃#沃尔沃汽车#XC60#XC60
+XC60
+foreignBrand:
+	宾利#进口#飞驰
+localBrand:
+	宾利#宾利汽车#Flying Spur [飞驰]#Flying Spur W12 [飞驰 W12]
+飞驰
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#645Ci
+6系
+foreignBrand:
+	大众#进口#R36
+localBrand:
+	大众#大众汽车#R36#R36
+R36
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318d Touring [318d 旅行车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 260 Sport
+A级
+foreignBrand:
+	江淮#国产#星锐
+localBrand:
+	江淮#江淮汽车#星锐#星锐6系
+星锐
+星锐
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 3.0si
+X3
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 CDI Coupe
+C级(进口)
+foreignBrand:
+	华普#国产#海景
+localBrand:
+	华普#上海华普#海景#海景
+海景
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 3.0sd
+X3
+foreignBrand:
+	奔驰#进口#CLS
+localBrand:
+	奔驰#奔驰汽车#CLS-Class [CLS级]#CLS 350 Shooting Brake [CLS 350 猎装车]
+CLS
+foreignBrand:
+	长丰#国产#黑金刚
+localBrand:
+	长丰#广汽长丰#猎豹#猎豹黑金刚
+黑金刚
+foreignBrand:
+	江淮#国产#和悦RS
+localBrand:
+	江淮#江淮汽车#和悦#和悦RS
+和悦RS
+foreignBrand:
+	起亚#进口#新佳乐
+localBrand:
+	起亚#起亚汽车#Carens [佳乐]#New Carens [新佳乐]
+新佳乐
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 sDrive20d
+X1(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#Vanquish
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vanquish#Vanquish S
+Vanquish
+foreignBrand:
+	欧宝#进口#欧美佳
+localBrand:
+	欧宝#通用汽车#Omega [欧美佳]#Omega Tourer [欧美佳 旅行车]
+欧美佳
+foreignBrand:
+	福迪#国产#飞越
+localBrand:
+	福迪#福迪汽车#飞越#飞越
+飞越
+foreignBrand:
+	吉奥#国产#帅驰
+localBrand:
+	吉奥#广汽吉奥#帅驰#帅驰
+帅驰
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#FX#FX50
+FX
+foreignBrand:
+	MG#国产#MG5
+localBrand:
+	MG#上海汽车#MG5#MG5
+MG5
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS460
+GS
+foreignBrand:
+	红旗#国产#世纪星
+localBrand:
+	红旗#一汽轿车#世纪星#卓越者
+世纪星
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#Q70#Q70L
+FX
+foreignBrand:
+	吉奥#国产#星朗
+localBrand:
+	吉奥#广汽吉奥#星朗#星朗
+星朗
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 535d xDrive
+5系GT
+foreignBrand:
+	现代#合资#雅绅特
+localBrand:
+	现代#北京现代#雅绅特#雅绅特
+雅绅特
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325ci Touring [325ci 旅行车]
+3系(进口)
+foreignBrand:
+	海马#国产#福仕达新鸿达
+localBrand:
+	海马#郑州海马#福仕达#新鸿达
+福仕达新鸿达
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CDI
+E级(进口)
+foreignBrand:
+	MINI#进口#JCW COUPE
+localBrand:
+	MINI#宝马汽车#Coupe#Mini JCW Coupe
+JCW COUPE
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#560 SE
+S级
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#420 E
+E级(进口)
+foreignBrand:
+	日产#合资#锐骐皮卡
+localBrand:
+	东风风度#郑州日产#锐骐#锐骐皮卡
+锐骐皮卡
+foreignBrand:
+	大众#进口#FOX
+localBrand:
+	大众#大众汽车#FOX#Cross FOX
+FOX
+foreignBrand:
+	捷豹#进口#XKR
+localBrand:
+	捷豹#捷豹汽车#XK#XKR-S Convertible
+XKR
+foreignBrand:
+	菲亚特#进口#Stilo
+localBrand:
+	菲亚特#菲亚特汽车#Stilo [时尚]#Stilo [时尚]
+Stilo
+foreignBrand:
+	海马#国产#福美来
+localBrand:
+	海马#一汽海马#福美来#福美来二代
+福美来
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 320
+S级
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 400 L
+E级
+foreignBrand:
+	日产#合资#阳光
+localBrand:
+	日产#东风日产#阳光#阳光
+阳光
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#E-Class AMG [E级 AMG]#E63 AMG
+AMG车系
+foreignBrand:
+	西亚特#进口#伊比飒
+localBrand:
+	西雅特#大众汽车#Ibiza [伊比飒]#Ibiza [伊比飒]
+伊比飒
+foreignBrand:
+	江淮#国产#星锐
+localBrand:
+	江淮#江淮汽车#星锐#星锐
+星锐
+星锐
+foreignBrand:
+	黄海#国产#小柴神
+localBrand:
+	黄海#曙光汽车#小柴神#小柴神
+小柴神
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 Regular Cab
+F系列
+foreignBrand:
+	比亚迪#国产#S8
+localBrand:
+	比亚迪#比亚迪汽车#S8#S8
+S8
+foreignBrand:
+	法拉利#进口#法拉利360 Modena
+localBrand:
+	法拉利#法拉利汽车#360#360 GTC
+法拉利360 Modena
+foreignBrand:
+	雪佛兰#进口#EXPRESS
+localBrand:
+	雪佛兰#通用汽车#Express#Express1500
+EXPRESS
+foreignBrand:
+	雪佛兰#进口#EXPRESS
+localBrand:
+	雪佛兰#通用汽车#Express#Express
+EXPRESS
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 350
+E级
+foreignBrand:
+	克莱斯勒#进口#赛百灵
+localBrand:
+	克莱斯勒#克莱斯勒#Sebring [赛百灵]#Sebring Convertible [赛百灵 敞篷]
+赛百灵
+foreignBrand:
+	华普#国产#海域
+localBrand:
+	华普#上海华普#海域#海域MB
+海域
+foreignBrand:
+	福迪#国产#探索者Ⅱ
+localBrand:
+	福迪#福迪汽车#探索者#探索者Ⅱ
+探索者Ⅱ
+foreignBrand:
+	福迪#国产#探索者Ⅲ
+localBrand:
+	福迪#福迪汽车#探索者#探索者Ⅲ
+探索者Ⅲ
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 2.5si
+Z4
+foreignBrand:
+	标致#进口#407
+localBrand:
+	标致#标致汽车#407#407
+407
+foreignBrand:
+	林肯#进口#MKX
+localBrand:
+	林肯#福特汽车#MKX#MKX
+MKX
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#冲浪-CRV
+风景冲浪
+foreignBrand:
+	启辰#国产#启辰D50
+localBrand:
+	启辰#东风日产#D50#D50
+启辰D50
+foreignBrand:
+	迈巴赫#进口#57
+localBrand:
+	迈巴赫#奔驰汽车#Maybach57 [迈巴赫57]#Maybach57 [迈巴赫57]
+57
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 400 4MATIC
+ML级
+foreignBrand:
+	克莱斯勒#进口#300C(进口)
+localBrand:
+	克莱斯勒#克莱斯勒#300#300C Touring
+300C(进口)
+foreignBrand:
+	讴歌#进口#TL
+localBrand:
+	讴歌#本田汽车#TL#TL
+TL
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#645Ci Coupe [645Ci 双门轿跑车]
+6系
+foreignBrand:
+	北汽#国产#幻速S2
+localBrand:
+	幻速#北京汽车#S2#S2
+幻速S2
+foreignBrand:
+	马自达#合资#马自达6
+localBrand:
+	马自达#一汽马自达#马自达6#马自达6 Wagon
+马自达6
+foreignBrand:
+	华泰#国产#吉田
+localBrand:
+	华泰#华泰汽车#吉田#吉田
+吉田
+foreignBrand:
+	克莱斯勒#进口#交叉火力
+localBrand:
+	克莱斯勒#克莱斯勒#Crossfire [交叉火力]#Crossfire [交叉火力]
+交叉火力
+foreignBrand:
+	英菲尼迪#进口#EX
+localBrand:
+	英菲尼迪#日产汽车#EX#EX25
+EX
+foreignBrand:
+	陆风#国产#陆风X6
+localBrand:
+	陆风#陆风汽车#X6#X6新势力
+陆风X6
+foreignBrand:
+	金杯#国产#金杯海星
+localBrand:
+	金杯#华晨金杯#海星#海星A7
+金杯海星
+foreignBrand:
+	比亚迪#国产#福莱尔
+localBrand:
+	比亚迪#比亚迪汽车#福莱尔#福莱尔
+福莱尔
+foreignBrand:
+	广汽#国产#传祺GA3
+localBrand:
+	传祺#广汽乘用车#GA3#GA3
+传祺GA3
+foreignBrand:
+	福特#进口#翼虎
+localBrand:
+	福特#福特汽车#Kuga [翼虎]#Kuga [翼虎]
+翼虎
+foreignBrand:
+	铃木#合资#北斗星
+localBrand:
+	铃木#昌河铃木#北斗星#北斗星
+北斗星
+foreignBrand:
+	宝马#进口#4系
+localBrand:
+	宝马#宝马汽车#4 Series [4系]#435i Coupe [435i 双门轿跑车]
+4系
+foreignBrand:
+	长城#国产#哈弗H5
+localBrand:
+	长城#长城汽车#哈弗H5#哈弗H5
+哈弗H5
+foreignBrand:
+	威麟#国产#H5
+localBrand:
+	威麟#奇瑞汽车#H5#H5
+H5
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#M-Class AMG [M级 AMG]#ML55 AMG
+AMG车系
+foreignBrand:
+	福特#进口#福克斯(进口)
+localBrand:
+	福特#福特汽车#Focus [福克斯]#Focus ST [福克斯 ST]
+福克斯(进口)
+foreignBrand:
+	本田#进口#CR-Z
+localBrand:
+	本田#本田汽车#CR-Z#CR-Z
+CR-Z
+foreignBrand:
+	GMC#进口#SIERRA
+localBrand:
+	GMC#通用汽车#Sierra [西拉]#Sierra 2500HD [西拉 2500HD]
+SIERRA
+foreignBrand:
+	奔驰#进口#CLS
+localBrand:
+	奔驰#奔驰汽车#CLS-Class [CLS级]#CLS 300 CGI
+CLS
+foreignBrand:
+	菲亚特#合资#派朗
+localBrand:
+	菲亚特#南京菲亚特#派朗#派朗
+派朗
+foreignBrand:
+	奥迪#进口#R8
+localBrand:
+	奥迪#奥迪汽车#R8#R8 Spyder
+R8
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 160 CDI
+A级
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 180 K
+C级
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#M Series [M系]#Z4 M Convertible [Z4 M 敞篷轿跑车]
+Z4
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#728iL
+7系
+foreignBrand:
+	依维柯#国产#Daily
+localBrand:
+	依维柯#南京依维柯#依维柯#依维柯
+Daily
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS250
+IS
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#328i
+3系
+foreignBrand:
+	奔驰#进口#SL级
+localBrand:
+	奔驰#奔驰汽车#SL-Class [SL级]#SL 500
+SL级
+foreignBrand:
+	奔驰#进口#CL级
+localBrand:
+	奔驰#奔驰汽车#CL-Class [CL级]#CL 500
+CL级
+foreignBrand:
+	福特#进口#福克斯(进口)
+localBrand:
+	福特#福特汽车#Focus [福克斯]#Focus-Sedan [福克斯-三厢]
+福克斯(进口)
+foreignBrand:
+	玛莎拉蒂#进口#COUPE
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#Coupe#Coupe
+COUPE
+foreignBrand:
+	宝龙#国产#霸道
+localBrand:
+	宝龙#宝龙汽车#霸道#霸道
+霸道
+foreignBrand:
+	奥迪#进口#A7
+localBrand:
+	奥迪#奥迪汽车#A7#A7 Sportback
+A7
+foreignBrand:
+	现代#合资#i30
+localBrand:
+	现代#北京现代#i30#i30
+i30
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 500 Coupe
+CLK
+foreignBrand:
+	华普#国产#海迅
+localBrand:
+	华普#上海华普#海迅#海迅AB
+海迅
+foreignBrand:
+	MINI#进口#MINI
+localBrand:
+	MINI#宝马汽车#Mini#Mini One D
+MINI
+foreignBrand:
+	长安#国产#CS35
+localBrand:
+	长安#长安汽车#CS#CS35
+CS35
+foreignBrand:
+	江淮#国产#和悦
+localBrand:
+	江淮#江淮汽车#和悦#和悦A13
+和悦
+foreignBrand:
+	劳斯莱斯#进口#古思特
+localBrand:
+	劳斯莱斯#劳斯莱斯#Ghost [古思特]#Ghost [古思特]
+古思特
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风
+瑞风
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#X6 xDrive35i
+X6
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#260 E
+E级(进口)
+foreignBrand:
+	日产#进口#奇骏(进口)
+localBrand:
+	日产#日产汽车#Rogue [奇骏]#Rogue [奇骏]
+奇骏(进口)
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic Hybrid [思域 油电混合]
+思域（进口）
+foreignBrand:
+	捷豹#进口#XJ
+localBrand:
+	捷豹#捷豹汽车#XJ#XJ6L
+XJ
+foreignBrand:
+	DS#进口#DS3(进口)
+localBrand:
+	DS#雪铁龙汽车#DS3#DS3 Cabrio
+DS3(进口)
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#M Series [M系]#Z3 M Convertible [Z3 M 敞篷轿跑车]
+Z3
+foreignBrand:
+	华泰#国产#特拉卡
+localBrand:
+	华泰#华泰汽车#特拉卡#特拉卡T9
+特拉卡
+foreignBrand:
+	劳伦士#进口#劳伦士M级
+localBrand:
+	劳伦士#劳伦士汽车#ML-Class [ML级]#ML 350
+劳伦士M级
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640i Coupe [640i 双门轿跑车]
+6系
+foreignBrand:
+	福迪#国产#探索者6
+localBrand:
+	福迪#福迪汽车#探索者#探索者6
+探索者6
+foreignBrand:
+	起亚#合资#K5
+localBrand:
+	起亚#东风悦达起亚#K5#K5
+K5
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS250 C
+IS
+foreignBrand:
+	雪铁龙#进口#C6
+localBrand:
+	雪铁龙#雪铁龙汽车#C6#C6
+C6
+foreignBrand:
+	法拉利#进口#法拉利599
+localBrand:
+	法拉利#法拉利汽车#599#599 GTB
+法拉利599
+foreignBrand:
+	本田#合资#雅阁
+localBrand:
+	本田#广汽本田#雅阁#第九代雅阁
+雅阁
+foreignBrand:
+	三菱#合资#戈蓝
+localBrand:
+	三菱#东南汽车#戈蓝#戈蓝
+戈蓝
+foreignBrand:
+	福迪#国产#探索者Ⅰ
+localBrand:
+	福迪#福迪汽车#探索者#探索者I
+探索者Ⅰ
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 xDrive18d
+X1(进口)
+foreignBrand:
+	起亚#进口#起亚Optima
+localBrand:
+	起亚#起亚汽车#Optima [欧迪玛]#Optima [欧迪玛]
+起亚Optima
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera S Executive [帕纳美拉 S Executive]
+Panamera
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200
+C级(进口)
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#550i
+5系(进口)
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 K Tourer
+C级(进口)
+foreignBrand:
+	吉奥#国产#星旺
+localBrand:
+	吉奥#广汽吉奥#星旺#星旺
+星旺
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535i xDrive
+5系(进口)
+foreignBrand:
+	比亚迪#国产#G6
+localBrand:
+	比亚迪#比亚迪汽车#G6#G6
+G6
+foreignBrand:
+	雪佛兰#进口#克尔维特C6
+localBrand:
+	雪佛兰#通用汽车#Corvette [克尔维特]#Corvette C6 [克尔维特C6]
+克尔维特C6
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d Convertible [320d 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#Virage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Virage#Virage Coupe
+Virage
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 220 CDI
+C级(进口)
+foreignBrand:
+	凯迪拉克#进口#STS
+localBrand:
+	凯迪拉克#通用汽车#STS#STS-V
+STS
+foreignBrand:
+	大众#合资#捷达
+localBrand:
+	大众#一汽大众#捷达#捷达王
+捷达
+foreignBrand:
+	玛莎拉蒂#进口#GranSport
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#GranSport#GranSport
+GranSport
+foreignBrand:
+	大众#进口#Variant
+localBrand:
+	大众#大众汽车#Magotan [迈腾]#Magotan Variant [迈腾 旅行车]
+Variant
+foreignBrand:
+	一汽#国产#威志两厢
+localBrand:
+	一汽#天津一汽夏利#威志#威志-两厢
+威志两厢
+foreignBrand:
+	华普#国产#杰士达美鹿
+localBrand:
+	华普#上海华普#杰士达美鹿#杰士达美鹿-两厢
+杰士达美鹿
+foreignBrand:
+	东风#国产#风行
+localBrand:
+	风行#东风汽车#风行#风行
+风行
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d xDrive
+3系(进口)
+foreignBrand:
+	玛莎拉蒂#进口#Ghibli
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#Ghibli#Ghibli
+Ghibli
+foreignBrand:
+	道奇#进口#酷威
+localBrand:
+	道奇#克莱斯勒#Journey [酷威]#Journey [酷威]
+酷威
+foreignBrand:
+	日产#进口#Pathfinder
+localBrand:
+	日产#日产汽车#Pathfinder [寻路者]#Pathfinder [寻路者]
+Pathfinder
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 200
+A级
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525td
+5系(进口)
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 3.0i Coupe [Z3 3.0i 双门跑车]
+Z3
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650i xDrive Coupe [650i xDrive 双门轿跑车]
+6系
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 4.8i
+X5
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 420 CDI
+E级(进口)
+foreignBrand:
+	雷诺#进口#雷诺Clio
+localBrand:
+	雷诺#雷诺汽车#Clio#Clio-Hatchback RS [Clio-两厢 RS]
+雷诺Clio
+foreignBrand:
+	长城#国产#长城C20R
+localBrand:
+	长城#长城汽车#长城C20R#长城C20R
+长城C20R
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C-Class AMG K [C级 AMG K]
+AMG车系
+foreignBrand:
+	瑞麒#国产#G3
+localBrand:
+	瑞麒#奇瑞汽车#G3#G3
+G3
+foreignBrand:
+	江铃#国产#驭胜
+localBrand:
+	江铃#江铃汽车#驭胜#驭胜
+驭胜
+foreignBrand:
+	大众#合资#途安
+localBrand:
+	大众#上海大众#途安#途安
+途安
+foreignBrand:
+	夏利#国产#夏利N3
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利N3-两厢
+夏利N3
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风穿梭
+瑞风
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320td Touring [320td 旅行车]
+3系(进口)
+foreignBrand:
+	日产#进口#风度
+localBrand:
+	日产#日产汽车#Cefiro [风度]#Cefiro A33 [风度 A33]
+风度
+foreignBrand:
+	长城#国产#赛骏
+localBrand:
+	长城#长城汽车#赛骏#赛骏
+赛骏
+foreignBrand:
+	中华#国产#骏捷FRV
+localBrand:
+	中华#华晨汽车#骏捷#骏捷FRV
+骏捷FRV
+foreignBrand:
+	比亚迪#国产#G3R
+localBrand:
+	比亚迪#比亚迪汽车#G3#G3R
+G3R
+foreignBrand:
+	日产#合资#轩逸
+localBrand:
+	日产#东风日产#轩逸#轩逸经典
+轩逸
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i Coupe [335i 双门轿跑车]
+3系(进口)
+foreignBrand:
+	MINI#进口#mini cooper
+localBrand:
+	MINI#宝马汽车#Mini#Mini Cooper
+mini cooper
+foreignBrand:
+	日产#进口#风度
+localBrand:
+	日产#日产汽车#Cefiro [风度]#Cefiro J31 [风度 J31]
+风度
+foreignBrand:
+	吉普#进口#大切诺基(进口)
+localBrand:
+	Jeep#克莱斯勒#Grand Cherokee [大切诺基]#Grand Cherokee [大切诺基]
+大切诺基(进口)
+foreignBrand:
+	道奇#进口#公羊
+localBrand:
+	道奇#克莱斯勒#Ram [公羊]#Ram [公羊]
+公羊
+foreignBrand:
+	本田#合资#雅阁
+localBrand:
+	本田#广汽本田#雅阁#第六代雅阁
+雅阁
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 500 L
+S级
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#520d Touring [520d 旅行车]
+5系(进口)
+foreignBrand:
+	丰田#进口#普瑞维亚
+localBrand:
+	丰田#丰田汽车#Previa [普瑞维亚]#Previa [普瑞维亚]
+普瑞维亚
+foreignBrand:
+	丰田#进口#Aygo
+localBrand:
+	丰田#丰田汽车#Aygo#Aygo
+Aygo
+foreignBrand:
+	奥迪#进口#Q3(进口)
+localBrand:
+	奥迪#奥迪汽车#Q3#Q3
+Q3(进口)
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G37 Coupe
+G系
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 450 CDI
+ML级
+foreignBrand:
+	日产#合资#日产NV200
+localBrand:
+	日产#郑州日产#NV200#NV200
+日产NV200
+foreignBrand:
+	海马#国产#福仕达腾达
+localBrand:
+	海马#郑州海马#福仕达#福仕达
+福仕达腾达
+foreignBrand:
+	风行#国产#景逸
+localBrand:
+	风行#东风汽车#景逸#景逸LV
+景逸
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 2.5si
+X3
+foreignBrand:
+	三菱#进口#格蓝迪
+localBrand:
+	三菱#三菱汽车#Grandis [格蓝迪]#Grandis [格蓝迪]
+格蓝迪
+foreignBrand:
+	海马#国产#海马M8
+localBrand:
+	海马#一汽海马#M8#M8
+海马M8
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#530i Touring [530i 旅行车]
+5系(进口)
+foreignBrand:
+	本田#进口#CR-Z
+localBrand:
+	本田#本田汽车#CR-Z#CR-Z hybrid
+CR-Z
+foreignBrand:
+	一汽#国产#夏利N5
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利N5
+夏利N5
+foreignBrand:
+	一汽#国产#夏利N7
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利N7
+夏利N7
+foreignBrand:
+	全球鹰#国产#GX7
+localBrand:
+	全球鹰#吉利汽车#GX7#GX7
+GX7
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#FX#FX45
+FX
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 230 K
+SLK
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风II
+瑞风
+foreignBrand:
+	萨博#进口#9-3
+localBrand:
+	萨博#通用汽车#9-3#9-3 SportCombi [9-3 旅行车]
+9-3
+foreignBrand:
+	别克#合资#君威
+localBrand:
+	别克#上海通用#君威#君威
+君威
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#K系列#K07 II
+东风小康
+foreignBrand:
+	金杯#国产#金杯海星
+localBrand:
+	金杯#华晨金杯#海星#海星A9
+金杯海星
+foreignBrand:
+	福特#合资#嘉年华两厢
+localBrand:
+	福特#长安福特#嘉年华#嘉年华-两厢
+嘉年华两厢
+foreignBrand:
+	菲亚特#合资#周末风
+localBrand:
+	菲亚特#南京菲亚特#周末风#周末风
+周末风
+foreignBrand:
+	夏利#国产#夏利N3+
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利N3+-两厢
+夏利N3+
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 350
+GL级
+foreignBrand:
+	标致#合资#308
+localBrand:
+	标致#神龙汽车#308#308
+308
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#Activehybrid 5 xDrive [5系 xDrive油电混合]
+5系(进口)
+foreignBrand:
+	凯迪拉克#合资#SLS赛威
+localBrand:
+	凯迪拉克#上海通用#赛威SLS#赛威SLS
+SLS赛威
+foreignBrand:
+	大众#合资#POLO
+localBrand:
+	大众#上海大众#POLO#POLO
+POLO
+foreignBrand:
+	北汽#国产#212
+localBrand:
+	北汽#北汽股份#北京212#北京212
+212
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 430 Tourer
+E级(进口)
+foreignBrand:
+	法拉利#进口#法拉利ENZO
+localBrand:
+	法拉利#法拉利汽车#Enzo#Enzo
+法拉利ENZO
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne GTS [卡宴 GTS]
+卡宴
+foreignBrand:
+	凯迪拉克#合资#XTS
+localBrand:
+	凯迪拉克#上海通用#XTS#XTS
+XTS
+foreignBrand:
+	长城#国产#金迪尔
+localBrand:
+	长城#长城汽车#金迪尔#金迪尔
+金迪尔
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera GTS Cabriolet
+保时捷911
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS300 Cross
+IS
+foreignBrand:
+	长安#国产#睿骋
+localBrand:
+	长安#长安汽车#睿骋#睿骋
+睿骋
+foreignBrand:
+	大众#进口#途锐 Hybrid
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg Hybrid [途锐 油电混合]
+途锐 Hybrid
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525d
+5系(进口)
+foreignBrand:
+	宝马#进口#7系Hybrid
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#ActiveHybrid 7 [7系 油电混合]
+7系Hybrid
+foreignBrand:
+	克莱斯勒#合资#铂锐
+localBrand:
+	克莱斯勒#北京奔驰#铂锐#铂锐
+铂锐
+foreignBrand:
+	奔驰#进口#GLK级
+localBrand:
+	奔驰#奔驰汽车#GLK-Class [GLK级]#GLK 350
+GLK级
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525i
+5系(进口)
+foreignBrand:
+	斯柯达#合资#昕锐
+localBrand:
+	斯柯达#上海大众#昕锐#昕锐
+昕锐
+foreignBrand:
+	丰田#进口#杰路驰
+localBrand:
+	丰田#丰田汽车#Zelas [杰路驰]#Zelas [杰路驰]
+杰路驰
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330ci Coupe [330ci 双门轿跑车]
+3系(进口)
+foreignBrand:
+	宝骏#国产#宝骏630
+localBrand:
+	宝骏#上汽通用五菱#宝骏630#宝骏630
+宝骏630
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP560-4 Spyder
+盖拉多
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M45
+M系
+foreignBrand:
+	马自达#合资#马自达2劲翔
+localBrand:
+	马自达#长安马自达#马自达2#马自达2劲翔
+马自达2劲翔
+foreignBrand:
+	玛莎拉蒂#进口#总裁
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#Quattroporte [总裁]#Quattroporte [总裁]
+总裁
+foreignBrand:
+	奇瑞#国产#旗云5
+localBrand:
+	奇瑞#奇瑞汽车#旗云#旗云5
+旗云5
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 420 CDI
+GL级
+foreignBrand:
+	斯柯达#合资#野帝
+localBrand:
+	斯柯达#上海大众#野帝#野帝
+野帝
+foreignBrand:
+	奇瑞#国产#风云2三厢
+localBrand:
+	奇瑞#奇瑞汽车#风云2#风云2-三厢
+风云2三厢
+foreignBrand:
+	福迪#国产#雄狮皮卡
+localBrand:
+	福迪#福迪汽车#雄狮#雄狮
+雄狮皮卡
+foreignBrand:
+	奥迪#合资#A4
+localBrand:
+	奥迪#一汽奥迪#A4#A4
+A4
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#740d xDrive
+7系
+foreignBrand:
+	海马#国产#福美来
+localBrand:
+	海马#一汽海马#福美来#福美来VS
+福美来
+foreignBrand:
+	标致#进口#206(进口)
+localBrand:
+	标致#标致汽车#206#206
+206(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera 4S Cabriolet
+保时捷911
+foreignBrand:
+	海格#国产#新大海狮
+localBrand:
+	海格#苏州金龙#大海狮#大海狮
+新大海狮
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C36 AMG
+AMG车系
+foreignBrand:
+	起亚#进口#威客
+localBrand:
+	起亚#起亚汽车#VQ [威客]#VQ [威客]
+威客
+foreignBrand:
+	大众#进口#Scirocco尚酷
+localBrand:
+	大众#大众汽车#Scirocco [尚酷]#Scirocco R-Line [尚酷 R-Line]
+Scirocco尚酷
+foreignBrand:
+	标致#进口#206(进口)
+localBrand:
+	标致#标致汽车#206#206 SW
+206(进口)
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#GT3
+Z4
+foreignBrand:
+	兰博基尼#进口#Murcielago
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP640 Roadster
+Murcielago
+foreignBrand:
+	东南#国产#得利卡
+localBrand:
+	东南#东南汽车#得利卡#得利卡
+得利卡
+foreignBrand:
+	雪铁龙#进口#C4
+localBrand:
+	雪铁龙#雪铁龙汽车#Picasso [毕加索]#Grand C4 Picasso [大C4毕加索]
+C4
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 500 L CGI
+S级
+foreignBrand:
+	北京汽车#国产#威旺M20
+localBrand:
+	威旺#北京汽车#M20#M20
+威旺M20
+foreignBrand:
+	奥迪#进口#奥迪S6
+localBrand:
+	奥迪#奥迪汽车#A6#S6
+奥迪S6
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G37-Sedan [G37-三厢]
+G系
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#750i
+7系
+foreignBrand:
+	别克#合资#GL8
+localBrand:
+	别克#上海通用#GL8#GL8 豪华商务车
+GL8
+foreignBrand:
+	贵州云雀#国产#云雀WOW
+localBrand:
+	云雀#云雀汽车#云雀#云雀
+云雀WOW
+foreignBrand:
+	吉普#合资#大切诺基
+localBrand:
+	Jeep#北京吉普#大切诺基#大切诺基 征程4000
+大切诺基
+foreignBrand:
+	阿尔法·罗密欧#进口#156
+localBrand:
+	阿尔法-罗密欧#阿尔法-罗密欧#ALFA 156#ALFA 156
+156
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 CDI
+C级(进口)
+foreignBrand:
+	奇瑞#国产#瑞虎5
+localBrand:
+	奇瑞#奇瑞汽车#瑞虎#瑞虎5
+瑞虎5
+foreignBrand:
+	斯柯达#进口#弗雷西亚
+localBrand:
+	斯柯达#大众汽车#Felicia [弗雷西亚]#Felicia Combi [弗雷西亚 旅行车]
+弗雷西亚
+foreignBrand:
+	奇瑞#国产#旗云3
+localBrand:
+	奇瑞#奇瑞汽车#瑞虎#瑞虎3
+旗云3
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318Ci Convertible [318Ci 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	奔驰#合资#凌特
+localBrand:
+	奔驰#福建奔驰#凌特#凌特 尊旅
+凌特
+foreignBrand:
+	奥迪#进口#A6(进口)
+localBrand:
+	奥迪#奥迪汽车#A6#A6
+A6(进口)
+foreignBrand:
+	奔驰#合资#唯雅诺
+localBrand:
+	奔驰#福建奔驰#唯雅诺#唯雅诺
+唯雅诺
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 320 Coupe
+E级(进口)
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat B6 [帕萨特B6]
+帕萨特(进口)
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#蒙派克
+蒙派克
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 450 CDI
+GL级
+foreignBrand:
+	夏利#国产#两厢夏利
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利-两厢
+两厢夏利
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#530i
+5系(进口)
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#760Li
+7系
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 320 Coupe
+C级(进口)
+foreignBrand:
+	宝马#合资#X1
+localBrand:
+	宝马#华晨宝马#X1#X1 sDrive18i
+X1
+foreignBrand:
+	布嘉迪#进口#威航
+localBrand:
+	布加迪#大众汽车#Veyron [威航]#Veyron [威航]
+威航
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 SVT Raptor SuperCab
+F系列
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#350 SD
+S级
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP550-2
+盖拉多
+foreignBrand:
+	哈飞#国产#赛马
+localBrand:
+	哈飞#哈飞汽车#赛马#赛马
+赛马
+foreignBrand:
+	法拉利#进口#法拉利F430
+localBrand:
+	法拉利#法拉利汽车#F430#F430 F1 GTC
+法拉利F430
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C55 AMG Tourer
+AMG车系
+foreignBrand:
+	沃尔沃#进口#S80
+localBrand:
+	沃尔沃#沃尔沃汽车#S80#S80
+S80
+foreignBrand:
+	恒天#国产#途腾T1
+localBrand:
+	恒天#恒天汽车#途腾#途腾T1
+途腾T1
+foreignBrand:
+	恒天#国产#途腾T3
+localBrand:
+	恒天#恒天汽车#途腾#途腾T3
+途腾T3
+foreignBrand:
+	恒天#国产#途腾T2
+localBrand:
+	恒天#恒天汽车#途腾#途腾T2
+途腾T2
+foreignBrand:
+	大众#进口#Variant
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat Variant [帕萨特 旅行车]
+Variant
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318d
+3系(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318i
+3系(进口)
+foreignBrand:
+	吉利#国产#美人豹
+localBrand:
+	吉利#吉利汽车#美人豹#雳靓
+美人豹
+foreignBrand:
+	比亚迪#国产#F3R
+localBrand:
+	比亚迪#比亚迪汽车#F3#F3R
+F3R
+foreignBrand:
+	奥迪#合资#A6
+localBrand:
+	奥迪#一汽奥迪#A6#A6
+A6
+foreignBrand:
+	日产#合资#蓝鸟
+localBrand:
+	日产#东风日产#蓝鸟#风神蓝鸟
+蓝鸟
+foreignBrand:
+	玛莎拉蒂#进口#GranTurismo
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#GT#GT
+GranTurismo
+foreignBrand:
+	奔驰#进口#唯雅诺Viano
+localBrand:
+	奔驰#奔驰汽车#Viano [唯雅诺]#Viano [唯雅诺]
+唯雅诺Viano
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#740d
+7系
+foreignBrand:
+	玛莎拉蒂#进口#总裁
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#Quattroporte [总裁]#Quattroporte GT [总裁 GT]
+总裁
+foreignBrand:
+	大众#进口#EOS
+localBrand:
+	大众#大众汽车#Eos#Eos
+EOS
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#740i
+7系
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#123d Convertible [123d 敞篷轿跑车]
+1系
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 260 Coupe
+E级(进口)
+foreignBrand:
+	MG#国产#MG6
+localBrand:
+	MG#上海汽车#MG6#MG6 Fast-Back
+MG6
+foreignBrand:
+	现代#合资#朗动
+localBrand:
+	现代#北京现代#朗动#朗动
+朗动
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C-Class AMG CDI Tourer [C级 AMG CDI 旅行车]
+AMG车系
+foreignBrand:
+	精灵smart#进口#fortwo
+localBrand:
+	Smart#奔驰汽车#Fortwo#Fortwo
+fortwo
+foreignBrand:
+	力帆#国产#720
+localBrand:
+	力帆#力帆汽车#720#720
+720
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d xDrive Touring [320d xDrive 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#123d
+1系
+foreignBrand:
+	长城#国产#炫丽
+localBrand:
+	长城#长城汽车#炫丽#炫丽
+炫丽
+foreignBrand:
+	江淮#国产#悦悦
+localBrand:
+	江淮#江淮汽车#悦悦#悦悦
+悦悦
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 230
+C级(进口)
+foreignBrand:
+	柯尼赛格#进口#CCXR
+localBrand:
+	科尼赛克#科尼赛克#CCXR#CCXR
+CCXR
+foreignBrand:
+	大众#进口#甲壳虫
+localBrand:
+	大众#大众汽车#Beetle [甲壳虫]#Beetle Cabrio [甲壳虫 敞篷]
+甲壳虫
+foreignBrand:
+	克莱斯勒#合资#大捷龙
+localBrand:
+	克莱斯勒#东南汽车#大捷龙#大捷龙
+大捷龙
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 400 L Hybrid
+S级
+foreignBrand:
+	天马#国产#骏驰
+localBrand:
+	天马#天马汽车#骏驰#骏驰
+骏驰
+foreignBrand:
+	吉奥#国产#星旺CL
+localBrand:
+	吉奥#广汽吉奥#星旺#星旺CL
+星旺CL
+foreignBrand:
+	雪佛兰#合资#乐风
+localBrand:
+	雪佛兰#上海通用#乐风#乐风
+乐风
+foreignBrand:
+	福特#合资#福克斯三厢
+localBrand:
+	福特#长安福特#福克斯#经典福克斯-三厢
+福克斯三厢
+foreignBrand:
+	比亚迪#国产#福莱尔
+localBrand:
+	比亚迪#比亚迪汽车#福莱尔#福莱尔 福星
+福莱尔
+foreignBrand:
+	奔驰#进口#CLS
+localBrand:
+	奔驰#奔驰汽车#CLS-Class [CLS级]#CLS 350 CGI
+CLS
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf R
+高尔夫(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 Blue Efficiency
+E级(进口)
+foreignBrand:
+	哈飞#国产#路尊小霸王
+localBrand:
+	哈飞#哈飞汽车#路尊小霸王#路尊小霸王
+路尊小霸王
+foreignBrand:
+	华泰#国产#圣达菲
+localBrand:
+	华泰#华泰汽车#圣达菲#圣达菲
+圣达菲
+foreignBrand:
+	标致#进口#406
+localBrand:
+	标致#标致汽车#406#406 Coupe
+406
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 300
+C级(进口)
+foreignBrand:
+	海格#国产#中巴系列
+localBrand:
+	海格#苏州金龙#龙威#龙威
+中巴系列
+foreignBrand:
+	兰博基尼#进口#Aventador
+localBrand:
+	兰博基尼#兰博基尼#Aventador [埃文塔多]#LP700-4
+Aventador
+foreignBrand:
+	金杯#国产#雷龙
+localBrand:
+	金杯#华晨金杯#雷龙#雷龙
+雷龙
+foreignBrand:
+	标致#进口#607
+localBrand:
+	标致#标致汽车#607#607
+607
+foreignBrand:
+	凯迪拉克#合资#SRX
+localBrand:
+	凯迪拉克#上海通用#SRX#SRX
+SRX
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#M财富快车
+蒙派克
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive25si
+X3
+foreignBrand:
+	现代#进口#酷派
+localBrand:
+	现代#现代汽车#Coupe [酷派]#Coupe [酷派]
+酷派
+foreignBrand:
+	别克#合资#昂科拉
+localBrand:
+	别克#上海通用#昂科拉#昂科拉
+昂科拉
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Targa
+保时捷911
+foreignBrand:
+	威兹曼#进口#GT
+localBrand:
+	威兹曼#威兹曼汽车#MF4#GT MF4-S
+GT
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#530i xDrive
+5系(进口)
+foreignBrand:
+	福田#国产#传奇
+localBrand:
+	福田#福田汽车#传奇#传奇X
+传奇
+foreignBrand:
+	克莱斯勒#进口#君王
+localBrand:
+	克莱斯勒#克莱斯勒#Concorde [君王]#Concorde [君王]
+君王
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#PassatB3 VR6 [帕萨特B3 VR6]
+帕萨特(进口)
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS300 C
+IS
+foreignBrand:
+	迈巴赫#进口#62
+localBrand:
+	迈巴赫#奔驰汽车#Maybach62 [迈巴赫62]#Maybach62 S [迈巴赫62 S]
+62
+foreignBrand:
+	奥迪#进口#A5
+localBrand:
+	奥迪#奥迪汽车#A5#A5 Coupe
+A5
+foreignBrand:
+	比亚迪#国产#福莱尔
+localBrand:
+	比亚迪#比亚迪汽车#福莱尔#福莱尔 百灵
+福莱尔
+foreignBrand:
+	大众#合资#桑塔纳3000
+localBrand:
+	大众#上海大众#桑塔纳#桑塔纳3000
+桑塔纳3000
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#Cooper Hampton Clubman
+CLUBMAN
+foreignBrand:
+	江淮#国产#星锐
+localBrand:
+	江淮#江淮汽车#星锐#星锐4系
+星锐
+星锐
+foreignBrand:
+	大众#合资#宝来/宝来经典
+localBrand:
+	大众#一汽大众#宝来#宝来GP
+宝来/宝来经典
+foreignBrand:
+	罗孚#进口#罗孚
+localBrand:
+	罗孚#罗孚汽车#75#75
+罗孚
+foreignBrand:
+	奥迪#进口#A8L
+localBrand:
+	奥迪#奥迪汽车#A8#A8L W12
+A8L
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera
+保时捷911
+foreignBrand:
+	雪铁龙#合资#爱丽舍
+localBrand:
+	雪铁龙#东风雪铁龙#爱丽舍#爱丽舍-三厢
+爱丽舍
+foreignBrand:
+	奇瑞#国产#QQme
+localBrand:
+	奇瑞#奇瑞汽车#QQ#QQme
+QQme
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 300 D Tourer
+E级(进口)
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 500 L 4MATIC
+S级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d xDrive Coupe [320d xDrive 双门轿跑车]
+3系(进口)
+foreignBrand:
+	沃尔沃#进口#S70
+localBrand:
+	沃尔沃#沃尔沃汽车#S70#S70
+S70
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 sDrive28i
+Z4
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#爱尔法-快客
+风景冲浪
+foreignBrand:
+	江铃#国产#经典全顺
+localBrand:
+	福特#江铃汽车#全顺#全顺
+经典全顺
+foreignBrand:
+	东风#国产#小王子
+localBrand:
+	东风#东风汽车#小王子#小王子
+小王子
+foreignBrand:
+	雪佛兰#合资#乐风
+localBrand:
+	SPRINGO#上海通用#SPRINGO#SPRINGO
+乐风
+foreignBrand:
+	日产#进口#公爵
+localBrand:
+	日产#日产汽车#Cedric [公爵王]#Cedric [公爵王]
+公爵
+foreignBrand:
+	奥迪#进口#A8L
+localBrand:
+	奥迪#奥迪汽车#A8#A8L Hybrid
+A8L
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d Convertible [330d 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d xDrive
+3系(进口)
+foreignBrand:
+	林肯#进口#城市
+localBrand:
+	林肯#福特汽车#Towncar [城市]#Towncar [城市]
+城市
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 K Tourer
+E级(进口)
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M3 GTS
+M系
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 sDrive35i
+Z4
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang [野马]
+野马
+foreignBrand:
+	奔驰#进口#GLK级
+localBrand:
+	奔驰#奔驰汽车#GLK-Class [GLK级]#GLK 220 CDI
+GLK级
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Turbo S Cabriolet
+保时捷911
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#X6 xDrive50i
+X6
+foreignBrand:
+	本田#合资#艾力绅
+localBrand:
+	本田#东风本田#艾力绅#艾力绅
+艾力绅
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 430
+ML级
+foreignBrand:
+	福田#国产#风景快运
+localBrand:
+	福田#福田汽车#风景#快运-A
+风景快运
+foreignBrand:
+	福田#国产#风景快运
+localBrand:
+	福田#福田汽车#风景#快运-B
+风景快运
+foreignBrand:
+	福田#国产#风景快运
+localBrand:
+	福田#福田汽车#风景#快运-C
+风景快运
+foreignBrand:
+	起亚#进口#凯尊
+localBrand:
+	起亚#起亚汽车#Cadenza [凯尊]#Cadenza [凯尊]
+凯尊
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320si
+3系(进口)
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Countryman#Cooper S Countryman
+Countryman
+foreignBrand:
+	路虎#进口#揽胜运动版
+localBrand:
+	路虎#路虎汽车#Range Rover [揽胜]#Range Rover Sport [揽胜运动版]
+揽胜运动版
+foreignBrand:
+	铃木#合资#天语SX4两厢
+localBrand:
+	铃木#长安铃木#天语SX4#天语SX4-两厢
+天语SX4两厢
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 280 Coupe
+CLK
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 400 L
+S级
+foreignBrand:
+	吉奥#国产#星旺L
+localBrand:
+	吉奥#广汽吉奥#星旺#星旺L
+星旺L
+foreignBrand:
+	吉普#合资#大切诺基
+localBrand:
+	Jeep#北京吉普#大切诺基#大切诺基 4700
+大切诺基
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 300
+S级
+foreignBrand:
+	捷豹#进口#S-TYPE
+localBrand:
+	捷豹#捷豹汽车#S-Type#S-Type R
+S-TYPE
+foreignBrand:
+	雪铁龙#合资#世嘉两厢
+localBrand:
+	雪铁龙#神龙汽车#世嘉#世嘉-两厢
+世嘉两厢
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 350 Carbriolet
+CLK
+foreignBrand:
+	别克#合资#君越
+localBrand:
+	别克#上海通用#君越#君越
+君越
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 280
+SLK
+foreignBrand:
+	长安#国产#奔奔MINI
+localBrand:
+	长安#长安汽车#奔奔#奔奔MINI
+奔奔MINI
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330ci Convertible [330ci 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	雪佛兰#进口#迈锐宝
+localBrand:
+	雪佛兰#通用汽车#Malibu [迈锐宝]#Malibu-Hatchback [迈锐宝-两厢]
+迈锐宝
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic Tourer[思域 旅行版]
+思域（进口）
+foreignBrand:
+	一汽#国产#雅酷
+localBrand:
+	夏利#天津一汽夏利#雅酷#雅酷
+雅酷
+foreignBrand:
+	大众#进口#Multivan
+localBrand:
+	大众#大众汽车#Multivan [迈特威]#Multivan T5 [迈特威 T5]
+Multivan
+foreignBrand:
+	江铃#国产#福特新世代全顺
+localBrand:
+	福特#江铃汽车#全顺#新世代
+福特新世代全顺
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS600HL
+LS
+foreignBrand:
+	迈巴赫#进口#62
+localBrand:
+	迈巴赫#奔驰汽车#Maybach62 [迈巴赫62]#Maybach62 [迈巴赫62]
+62
+foreignBrand:
+	吉奥#国产#帅威
+localBrand:
+	吉奥#广汽吉奥#帅威#帅威
+帅威
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#V系列#V07S
+东风小康
+foreignBrand:
+	奥迪#进口#Q7
+localBrand:
+	奥迪#奥迪汽车#Q7#Q7
+Q7
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 240 Carbriolet
+CLK
+foreignBrand:
+	万丰#国产#万丰皮卡
+localBrand:
+	万丰#上海万丰#万丰皮卡#万丰皮卡
+万丰皮卡
+foreignBrand:
+	奔驰#进口#凌特Sprinter
+localBrand:
+	奔驰#奔驰汽车#Sprinter [斯宾特]#Sprinter524 [斯宾特524]
+凌特Sprinter
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 K Tourer
+C级(进口)
+foreignBrand:
+	江淮#国产#瑞风·和畅
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风II和畅
+瑞风·和畅
+foreignBrand:
+	起亚#合资#智跑
+localBrand:
+	起亚#东风悦达起亚#智跑#智跑
+智跑
+foreignBrand:
+	众泰#国产#众泰T200
+localBrand:
+	众泰#众泰汽车#T200#T200
+众泰T200
+foreignBrand:
+	吉奥#国产#星旺M2
+localBrand:
+	吉奥#广汽吉奥#星旺#星旺M2
+星旺M2
+foreignBrand:
+	吉奥#国产#星旺M1
+localBrand:
+	吉奥#广汽吉奥#星旺#星旺M1
+星旺M1
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#X6 xDrive35d
+X6
+foreignBrand:
+	海马#国产#海马爱尚
+localBrand:
+	海马#郑州海马#爱尚#爱尚
+海马爱尚
+foreignBrand:
+	奔驰#进口#SL级
+localBrand:
+	奔驰#奔驰汽车#SL-Class [SL级]#SL 300
+SL级
+foreignBrand:
+	长丰#国产#飞腾
+localBrand:
+	长丰#广汽长丰#猎豹#猎豹飞腾
+飞腾
+foreignBrand:
+	菲亚特#合资#西耶那
+localBrand:
+	菲亚特#南京菲亚特#西耶那#西耶那
+西耶那
+foreignBrand:
+	斯柯达#合资#明锐
+localBrand:
+	斯柯达#上海大众#明锐#明锐
+明锐
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 2.9d
+X5
+foreignBrand:
+	标致#合资#307CROSS
+localBrand:
+	标致#东风标致#307#307 Cross
+307CROSS
+foreignBrand:
+	英伦#国产#TX4
+localBrand:
+	英伦#吉利汽车#TX4#TX4
+TX4
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525tds Touring [525tds 旅行车]
+5系(进口)
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 320 CDI
+S级
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane-Hatchback GT [梅甘娜-两厢 GT]
+梅甘娜
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d Coupe [320d 双门轿跑车]
+3系(进口)
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf
+高尔夫(进口)
+foreignBrand:
+	MINI#进口#CABRIO
+localBrand:
+	MINI#宝马汽车#Cabrio#Cooper Cabrio
+CABRIO
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335d
+3系(进口)
+foreignBrand:
+	奔驰#进口#R级
+localBrand:
+	奔驰#奔驰汽车#R-Class [R级]#R 300 L
+R级
+foreignBrand:
+	黄海#国产#大柴神
+localBrand:
+	黄海#曙光汽车#大柴神#大柴神
+大柴神
+foreignBrand:
+	日产#进口#蓝鸟(进口)
+localBrand:
+	日产#日产汽车#Stanza [蓝鸟]#Stanza-U [蓝鸟-北美版]
+蓝鸟(进口)
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive35i
+X3
+foreignBrand:
+	英伦#国产#SX7
+localBrand:
+	英伦#吉利汽车#SX7#SX7
+SX7
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 320 Tourer
+C级(进口)
+foreignBrand:
+	铃木#合资#利亚纳A6
+localBrand:
+	铃木#昌河铃木#利亚纳#利亚纳A6-三厢
+利亚纳A6
+foreignBrand:
+	铃木#合资#利亚纳三厢
+localBrand:
+	铃木#昌河铃木#利亚纳#利亚纳-三厢
+利亚纳三厢
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 240
+E级(进口)
+foreignBrand:
+	长城#国产#赛影
+localBrand:
+	长城#长城汽车#赛影#赛影
+赛影
+foreignBrand:
+	黄海#国产#翱龙CUV
+localBrand:
+	黄海#曙光汽车#翱龙#翱龙CUV
+翱龙CUV
+foreignBrand:
+	五菱#国产#五菱荣光
+localBrand:
+	五菱#上汽通用五菱#荣光#荣光S
+五菱荣光
+foreignBrand:
+	海格#国产#中巴系列
+localBrand:
+	海格#苏州金龙#H5C#H5C
+中巴系列
+foreignBrand:
+	陆风#国产#X9
+localBrand:
+	陆风#陆风汽车#X9#X9
+X9
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#海狮#海狮领航者
+金杯海狮
+foreignBrand:
+	保时捷#进口#Cayman
+localBrand:
+	保时捷#保时捷汽车#Cayman [卡曼]#Cayman [卡曼]
+Cayman
+foreignBrand:
+	西亚特#进口#西亚特Leon
+localBrand:
+	西雅特#大众汽车#Leon#Leon
+西亚特Leon
+foreignBrand:
+	大众#进口#Variant
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat Variant VR5 [帕萨特 旅行车 VR5]
+Variant
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TTS Coupe
+TT
+foreignBrand:
+	本田#合资#凌派
+localBrand:
+	本田#广汽本田#凌派#凌派
+凌派
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 SVT
+F系列
+foreignBrand:
+	荣威#国产#350
+localBrand:
+	荣威#上海汽车#350#350S
+350
+foreignBrand:
+	海马#国产#福美来
+localBrand:
+	海马#一汽海马#福美来#福美来三代
+福美来
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风一家亲
+瑞风
+foreignBrand:
+	荣威#国产#350
+localBrand:
+	荣威#上海汽车#350#350D
+350
+foreignBrand:
+	江淮#国产#和悦A30
+localBrand:
+	江淮#江淮汽车#和悦#和悦A30
+和悦A30
+foreignBrand:
+	日产#进口#风雅
+localBrand:
+	日产#日产汽车#Fuga [风雅]#Fuga 350 [风雅 350]
+风雅
+foreignBrand:
+	荣威#国产#350
+localBrand:
+	荣威#上海汽车#350#350C
+350
+foreignBrand:
+	GMC#进口#SIERRA
+localBrand:
+	GMC#通用汽车#Sierra [西拉]#Sierra 1500 [西拉 1500]
+SIERRA
+foreignBrand:
+	菲亚特#进口#朋多
+localBrand:
+	菲亚特#菲亚特汽车#Punto [朋多]#Grande Punto [朋多]
+朋多
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane [梅甘娜]
+梅甘娜
+foreignBrand:
+	起亚#合资#K2
+localBrand:
+	起亚#东风悦达起亚#K2#K2-三厢
+K2
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 550
+S级
+foreignBrand:
+	宾利#进口#欧陆
+localBrand:
+	宾利#宾利汽车#Continental [欧陆]#Continental [欧陆]
+欧陆
+foreignBrand:
+	捷豹#进口#XJ
+localBrand:
+	捷豹#捷豹汽车#XJ#XJ8L
+XJ
+foreignBrand:
+	红旗#国产#红旗HQ3
+localBrand:
+	红旗#一汽轿车#红旗HQ3#红旗HQ3
+红旗HQ3
+foreignBrand:
+	马自达#合资#马自达6
+localBrand:
+	马自达#一汽马自达#马自达6#马自达6
+马自达6
+foreignBrand:
+	雪佛兰#进口#EXPRESS
+localBrand:
+	雪佛兰#通用汽车#Express#Express2500
+EXPRESS
+foreignBrand:
+	标致#合资#207两厢
+localBrand:
+	标致#神龙汽车#207#207-两厢
+207两厢
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf VR6
+高尔夫(进口)
+foreignBrand:
+	日产#进口#途乐
+localBrand:
+	日产#日产汽车#Patrol [途乐]#Patrol [途乐]
+途乐
+foreignBrand:
+	斯巴鲁#进口#力狮
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Legacy [力狮]#Legacy Wagon [力狮 旅行车]
+力狮
+foreignBrand:
+	奇瑞#国产#风云
+localBrand:
+	奇瑞#奇瑞汽车#风云#风云
+风云
+foreignBrand:
+	奔驰#进口#威霆Vito
+localBrand:
+	奔驰#奔驰汽车#Vito [威霆]#Vito [威霆]
+威霆Vito
+foreignBrand:
+	现代#合资#索纳塔
+localBrand:
+	现代#北京现代#索纳塔#索纳塔
+索纳塔
+foreignBrand:
+	保时捷#进口#Boxster
+localBrand:
+	保时捷#保时捷汽车#Boxster [博克斯特]#Boxster [博克斯特]
+Boxster
+foreignBrand:
+	欧宝#进口#威达
+localBrand:
+	欧宝#通用汽车#Vectra [威达]#Vectra [威达]
+威达
+foreignBrand:
+	日产#合资#天籁
+localBrand:
+	日产#东风日产#天籁#天籁
+天籁
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 270 CDI
+ML级
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 500 4MATIC
+GL级
+foreignBrand:
+	日产#进口#公爵
+localBrand:
+	日产#日产汽车#Cedric [公爵王]#Cedric 300 [公爵王 300]
+公爵
+foreignBrand:
+	捷豹#进口#XF
+localBrand:
+	捷豹#捷豹汽车#XF#XF
+XF
+foreignBrand:
+	纳智捷#国产#MASTER CEO
+localBrand:
+	纳智捷#东风裕隆#MASTER CEO#MASTER CEO
+MASTER CEO
+foreignBrand:
+	雷诺#进口#拉古那
+localBrand:
+	雷诺#雷诺汽车#Laguna [拉古娜]#Laguna Coupe [拉古娜 Coupe]
+拉古那
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra-Hacthback [雅特-两厢]
+雅特
+foreignBrand:
+	巴博斯#进口#巴博斯 S级
+localBrand:
+	巴博斯#巴博斯汽车#S-class [S级]#60S
+巴博斯 S级
+foreignBrand:
+	马自达#进口#CX-9
+localBrand:
+	马自达#马自达汽车#CX-9#CX-9
+CX-9
+foreignBrand:
+	宝马#进口#4系
+localBrand:
+	宝马#宝马汽车#4 Series [4系]#435i Convertible [435i 敞篷轿跑车]
+4系
+foreignBrand:
+	三菱#合资#三菱翼神
+localBrand:
+	三菱#东南汽车#翼神#翼神
+三菱翼神
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#530d xDrive
+5系(进口)
+foreignBrand:
+	江淮#国产#星锐
+localBrand:
+	江淮#江淮汽车#星锐#星锐5系
+星锐
+星锐
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#523i
+5系
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#R-Class AMG [R级 AMG]#R63 AMG
+AMG车系
+foreignBrand:
+	别克#合资#GL8
+localBrand:
+	别克#上海通用#GL8#GL8
+GL8
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 220
+C级(进口)
+foreignBrand:
+	起亚#合资#狮跑
+localBrand:
+	起亚#东风悦达起亚#狮跑#狮跑
+狮跑
+foreignBrand:
+	起亚#合资#赛拉图欧风
+localBrand:
+	起亚#东风悦达起亚#赛拉图#赛拉图 欧风
+赛拉图欧风
+foreignBrand:
+	江淮#国产#瑞鹰
+localBrand:
+	江淮#江淮汽车#瑞鹰#瑞鹰
+瑞鹰
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#E-Class AMG [E级 AMG]#E55K AMG
+AMG车系
+foreignBrand:
+	双环#国产#来宝SRV
+localBrand:
+	双环#双环汽车#来宝#来宝S-RV
+来宝SRV
+foreignBrand:
+	丰田#进口#坦途
+localBrand:
+	丰田#丰田汽车#Tundra [坦途]#Tundra [坦途]
+坦途
+foreignBrand:
+	奔驰#进口#R级
+localBrand:
+	奔驰#奔驰汽车#R-Class [R级]#R 500 L
+R级
+foreignBrand:
+	大众#进口#甲壳虫
+localBrand:
+	大众#大众汽车#Beetle [甲壳虫]#Beetle R-Line [甲壳虫 R-Line]
+甲壳虫
+foreignBrand:
+	欧宝#进口#欧宝Insignia
+localBrand:
+	欧宝#通用汽车#Insignia [音速亚]#Insignia [音速亚]
+欧宝Insignia
+foreignBrand:
+	雷克萨斯#进口#GX
+localBrand:
+	雷克萨斯#丰田汽车#GX#GX470
+GX
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 300 L
+S级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i Convertible [330i 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 280 Tourer
+E级(进口)
+foreignBrand:
+	新凯#合资#新凯靓星
+localBrand:
+	新凯#新凯汽车#新凯靓星#新凯靓星
+新凯靓星
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 K Coupe
+C级(进口)
+foreignBrand:
+	斯柯达#合资#晶锐
+localBrand:
+	斯柯达#上海大众#晶锐#晶锐
+晶锐
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 2.8i Coupe [Z3 2.8i 双门跑车]
+Z3
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 Tourer
+E级(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335d Touring [335d 旅行车]
+3系(进口)
+foreignBrand:
+	日产#合资#帕拉丁
+localBrand:
+	日产#郑州日产#帕拉丁#帕拉丁
+帕拉丁
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 230 K Coupe
+C级(进口)
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#118i Convertible [118i 敞篷轿跑车]
+1系
+foreignBrand:
+	奔驰#合资#威霆
+localBrand:
+	奔驰#福建奔驰#威霆#威霆
+威霆
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 xDrive23d
+X1(进口)
+foreignBrand:
+	雪铁龙#合资#C2
+localBrand:
+	雪铁龙#东风雪铁龙#C2#C2 Cross
+C2
+foreignBrand:
+	道奇#进口#锋哲
+localBrand:
+	道奇#克莱斯勒#Avenger [锋哲]#Avenger [锋哲]
+锋哲
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic Coupe [思域 Coupe]
+思域（进口）
+foreignBrand:
+	宝马#进口#3系GT
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#GT 320i
+3系GT
+foreignBrand:
+	雷克萨斯#进口#RX
+localBrand:
+	雷克萨斯#丰田汽车#RX#RX450h
+RX
+foreignBrand:
+	玛莎拉蒂#进口#GranCabrio
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#GranCabrio#GranCabrio
+GranCabrio
+foreignBrand:
+	奥迪#进口#A3(进口)
+localBrand:
+	奥迪#奥迪汽车#A3#A3 Limousine
+A3(进口)
+foreignBrand:
+	中兴#国产#驰野
+localBrand:
+	中兴#中兴汽车#驰野#驰野
+驰野
+foreignBrand:
+	奔腾#国产#B70
+localBrand:
+	奔腾#一汽轿车#B70#B70
+B70
+foreignBrand:
+	江淮#国产#和悦RS
+localBrand:
+	江淮#江淮汽车#和悦#和悦A13 RS
+和悦RS
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 sDrive18d
+X1(进口)
+foreignBrand:
+	一汽#国产#森雅S80
+localBrand:
+	一汽#一汽吉林#森雅S80#森雅S80
+森雅S80
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 sDrive18i
+X1(进口)
+foreignBrand:
+	大众#进口#R36
+localBrand:
+	大众#大众汽车#R36#R36 旅行车
+R36
+foreignBrand:
+	标致#进口#107
+localBrand:
+	标致#标致汽车#107#107
+107
+foreignBrand:
+	吉奥#国产#吉奥凯旋
+localBrand:
+	吉奥#广汽吉奥#凯旋SUV#凯旋SUV
+吉奥凯旋
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS300
+GS
+foreignBrand:
+	奔驰#进口#凌特Sprinter
+localBrand:
+	奔驰#奔驰汽车#Sprinter [斯宾特]#Sprinter315 [斯宾特315]
+凌特Sprinter
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 300 L
+E级
+foreignBrand:
+	帕加尼#进口#Zonda
+localBrand:
+	帕加尼#帕加尼汽车#Zonda#Zonda
+Zonda
+foreignBrand:
+	金杯#国产#金杯海星
+localBrand:
+	金杯#华晨金杯#海星#海星
+金杯海星
+foreignBrand:
+	黄海#国产#傲龙CUV
+localBrand:
+	黄海#曙光汽车#傲龙#傲龙CUV
+傲龙CUV
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#SL-Class AMG [SL级 AMG]#SL63 AMG
+AMG车系
+foreignBrand:
+	奇瑞#国产#QQ3
+localBrand:
+	奇瑞#奇瑞汽车#QQ#QQ3
+QQ3
+foreignBrand:
+	奇瑞#国产#QQ6
+localBrand:
+	奇瑞#奇瑞汽车#QQ#QQ6
+QQ6
+foreignBrand:
+	一汽#国产#威志三厢
+localBrand:
+	一汽#天津一汽夏利#威志#威志-三厢
+威志三厢
+foreignBrand:
+	MINI#进口#MINI JCW
+localBrand:
+	MINI#宝马汽车#Mini#Mini JCW
+MINI JCW
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328iM Touring [328iM 旅行车]
+3系(进口)
+foreignBrand:
+	现代#合资#悦动
+localBrand:
+	现代#北京现代#悦动#悦动
+悦动
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325ci Coupe [325ci 双门轿跑车]
+3系(进口)
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Countryman#Cooper D Countryman
+Countryman
+foreignBrand:
+	阿斯顿·马丁#进口#V8 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V8 Vantage S
+V8 Vantage
+foreignBrand:
+	双龙#进口#路帝
+localBrand:
+	双龙#双龙汽车#Rodius [路帝]#Rodius [路帝]
+路帝
+foreignBrand:
+	法拉利#进口#法拉利F12
+localBrand:
+	法拉利#法拉利汽车#F12 Berlinetta#F12 Berlinetta
+法拉利F12
+foreignBrand:
+	MG#国产#MG7
+localBrand:
+	MG#上海汽车#MG7#MG7
+MG7
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#M135i
+1系
+foreignBrand:
+	凯迪拉克#进口#凯雷德
+localBrand:
+	凯迪拉克#通用汽车#Escalade [凯雷德]#Escalade EXT [凯雷德 EXT]
+凯雷德
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera 4 GTS
+保时捷911
+foreignBrand:
+	吉奥#国产#奥轩G3
+localBrand:
+	吉奥#广汽吉奥#奥轩#奥轩G3
+奥轩G3
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 420 CDI
+S级
+foreignBrand:
+	红旗#国产#世纪星
+localBrand:
+	红旗#一汽轿车#世纪星#世纪星
+世纪星
+foreignBrand:
+	巴博斯#进口#巴博斯 S级
+localBrand:
+	巴博斯#巴博斯汽车#S-class [S级]#38S 4M
+巴博斯 S级
+foreignBrand:
+	三菱#进口#帕杰罗(进口)
+localBrand:
+	三菱#三菱汽车#Pajero [帕杰罗]#Pajero V73 [帕杰罗 V73]
+帕杰罗(进口)
+foreignBrand:
+	丰田#合资#花冠
+localBrand:
+	丰田#一汽丰田#花冠#花冠EX
+花冠
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 260 L
+E级
+foreignBrand:
+	劳伦士#进口#劳伦士S级
+localBrand:
+	劳伦士#劳伦士汽车#S-Class [S级]#S 500 L
+劳伦士S级
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#630ci Convertible [630ci 敞篷轿跑车]
+6系
+foreignBrand:
+	丰田#进口#普锐斯(进口)
+localBrand:
+	丰田#丰田汽车#Prius [普锐斯]#Prius [普锐斯]
+普锐斯(进口)
+foreignBrand:
+	起亚#合资#K2
+localBrand:
+	起亚#东风悦达起亚#K2#K2-两厢
+K2
+foreignBrand:
+	日产#进口#风雅
+localBrand:
+	日产#日产汽车#Fuga [风雅]#Fuga 450 [风雅 450]
+风雅
+foreignBrand:
+	讴歌#进口#ILX
+localBrand:
+	讴歌#本田汽车#ILX#ILX
+ILX
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP550-2 Tricolore
+盖拉多
+foreignBrand:
+	别克#合资#英朗GT
+localBrand:
+	别克#上海通用#英朗#英朗GT
+英朗GT
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 230
+E级
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525d xDrive
+5系(进口)
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera S E-Hybrid [帕纳美拉 S E-Hybrid]
+Panamera
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 230 K
+C级(进口)
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#523i
+5系(进口)
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#X6#X6 xDrive40i
+X6
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 220 CDI Coupe
+C级(进口)
+foreignBrand:
+	菲亚特#进口#Stilo
+localBrand:
+	菲亚特#菲亚特汽车#Stilo [短剑]#Stilo [短剑]
+Stilo
+foreignBrand:
+	丰田#合资#兰德酷路泽
+localBrand:
+	丰田#一汽丰田#兰德酷路泽#兰德酷路泽
+兰德酷路泽
+foreignBrand:
+	宾利#进口#雅骏
+localBrand:
+	宾利#宾利汽车#Azure [雅骏]#Azure [雅骏]
+雅骏
+foreignBrand:
+	陆风#国产#X8
+localBrand:
+	陆风#陆风汽车#X8#X8探索版
+X8
+foreignBrand:
+	宾利#进口#欧陆
+localBrand:
+	宾利#宾利汽车#Continental [欧陆]#Continental R [欧陆 R]
+欧陆
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#523i Touring [523i 旅行车]
+5系(进口)
+foreignBrand:
+	奥迪#进口#R8
+localBrand:
+	奥迪#奥迪汽车#R8#R8 Coupe
+R8
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#560 SEL
+S级
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera [帕纳美拉]
+Panamera
+foreignBrand:
+	福特#进口#福克斯(进口)
+localBrand:
+	福特#福特汽车#Focus [福克斯]#Focus-Hatchback [福克斯-两厢]
+福克斯(进口)
+foreignBrand:
+	吉奥#国产#奥轩G5
+localBrand:
+	吉奥#广汽吉奥#奥轩#奥轩G5
+奥轩G5
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 450 Hybrid
+ML级
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#135i Convertible [135i 敞篷轿跑车]
+1系
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 sDrive35is
+Z4
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250 CDI Tourer
+C级(进口)
+foreignBrand:
+	长安#国产#杰勋
+localBrand:
+	长安#长安汽车#杰勋#杰勋
+杰勋
+foreignBrand:
+	华泰#国产#元田B11
+localBrand:
+	华泰#华泰汽车#B11#B11
+元田B11
+foreignBrand:
+	别克#合资#GL8
+localBrand:
+	别克#上海通用#GL8#GL8 商务车
+GL8
+foreignBrand:
+	标致#进口#307 CC
+localBrand:
+	标致#标致汽车#307#307 CC
+307 CC
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525i Touring [525i 旅行车]
+5系(进口)
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf Wagon [高尔夫 旅行车]
+高尔夫(进口)
+foreignBrand:
+	MG#国产#MG6
+localBrand:
+	MG#上海汽车#MG6#MG6
+MG6
+foreignBrand:
+	大众#进口#迈腾(进口)
+localBrand:
+	大众#大众汽车#Magotan [迈腾]#Magotan [迈腾]
+迈腾(进口)
+foreignBrand:
+	法拉利#进口#法拉利458 Italia
+localBrand:
+	法拉利#法拉利汽车#458#458 Speciale
+法拉利458 Italia
+foreignBrand:
+	凯迪拉克#进口#SRX(进口)
+localBrand:
+	凯迪拉克#通用汽车#SRX#SRX PERFORMANCE
+SRX(进口)
+foreignBrand:
+	奇瑞#国产#E5
+localBrand:
+	奇瑞#奇瑞汽车#E5#E5
+E5
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C-Class AMG K Tourer [C级 AMG K 旅行车]
+AMG车系
+foreignBrand:
+	江南#国产#江南奥拓
+localBrand:
+	江南#江南汽车#奥拓#奥拓
+江南奥拓
+foreignBrand:
+	奥迪#进口#SQ5
+localBrand:
+	奥迪#奥迪汽车#Q5#SQ5
+SQ5
+foreignBrand:
+	日产#合资#御轩
+localBrand:
+	东风风度#郑州日产#御轩#御轩
+御轩
+foreignBrand:
+	大众#合资#宝来/宝来经典
+localBrand:
+	大众#一汽大众#宝来#宝来经典
+宝来/宝来经典
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝T系列#T50
+佳宝
+foreignBrand:
+	丰田#进口#汉兰达(进口)
+localBrand:
+	丰田#丰田汽车#Highlander [汉兰达]#Highlander Hybrid [汉兰达 油电混合]
+汉兰达(进口)
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#730i
+7系
+foreignBrand:
+	丰田#合资#威驰
+localBrand:
+	丰田#一汽丰田#威驰#威驰
+威驰
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640i Convertible [640i 敞篷轿跑车]
+6系
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750E
+750
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750D
+750
+foreignBrand:
+	如虎#进口#如虎 XL
+localBrand:
+	RUF#如虎汽车#XL#XL
+如虎 XL
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive48i
+X5
+foreignBrand:
+	MINI#进口#JCW CLUBMAN
+localBrand:
+	MINI#宝马汽车#JCW Clubman#Clubman
+JCW CLUBMAN
+foreignBrand:
+	中客华北#国产#华北腾狮
+localBrand:
+	华北#中客华北#腾狮#腾狮
+华北腾狮
+foreignBrand:
+	标致#进口#407 SW
+localBrand:
+	标致#标致汽车#407#407 SW
+407 SW
+foreignBrand:
+	路虎#进口#发现3
+localBrand:
+	路虎#路虎汽车#Discovery [发现]#Discovery3 [发现3]
+发现3
+foreignBrand:
+	三菱#进口#帕杰罗·劲畅
+localBrand:
+	三菱#三菱汽车#Pajero [帕杰罗]#Pajero Sport [帕杰罗·劲畅]
+帕杰罗·劲畅
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane-Hatchback [梅甘娜-两厢]
+梅甘娜
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750S
+750
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 260
+C级
+foreignBrand:
+	奔驰#进口#CLS
+localBrand:
+	奔驰#奔驰汽车#CLS-Class [CLS级]#CLS 300
+CLS
+foreignBrand:
+	雪佛兰#进口#迈锐宝
+localBrand:
+	雪佛兰#通用汽车#Malibu [迈锐宝]#Malibu-SS [迈锐宝-SS]
+迈锐宝
+foreignBrand:
+	荣威#国产#750
+localBrand:
+	荣威#上海汽车#750#750i
+750
+foreignBrand:
+	雪佛兰#合资#景程
+localBrand:
+	雪佛兰#上海通用#景程#景程
+景程
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d xDrive Touring [330d xDrive 旅行车]
+3系(进口)
+foreignBrand:
+	凯迪拉克#进口#CTS
+localBrand:
+	凯迪拉克#通用汽车#CTS#CTS Sport Wagon [CTS 旅行版]
+CTS
+foreignBrand:
+	海马#国产#欢动
+localBrand:
+	海马#一汽海马#欢动#欢动
+欢动
+foreignBrand:
+	海格#国产#中巴系列
+localBrand:
+	海格#苏州金龙#H5V#H5V
+中巴系列
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i
+3系(进口)
+foreignBrand:
+	宾利#进口#雅致
+localBrand:
+	宾利#宾利汽车#Arnage [雅致]#Arnage RL [雅致 RL]
+雅致
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#V系列#V27
+东风小康
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#V系列#V26
+东风小康
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#V系列#V21
+东风小康
+foreignBrand:
+	雪铁龙#进口#C5(进口)
+localBrand:
+	雪铁龙#雪铁龙汽车#C5#C5
+C5(进口)
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#V系列#V22
+东风小康
+foreignBrand:
+	金杯#国产#第三代阁瑞斯
+localBrand:
+	金杯#华晨金杯#阁瑞斯#阁瑞斯
+第三代阁瑞斯
+foreignBrand:
+	陕汽通家#国产#福家
+localBrand:
+	陕汽通家#陕汽通家#福家#福家
+福家
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra Tourer [雅特 旅行车]
+雅特
+foreignBrand:
+	福田#国产#拓陆者
+localBrand:
+	福田#福田汽车#拓陆者#拓陆者
+拓陆者
+foreignBrand:
+	标致#合资#408
+localBrand:
+	标致#神龙汽车#408#408
+408
+foreignBrand:
+	铃木#合资#羚羊
+localBrand:
+	铃木#长安铃木#羚羊#羚羊
+羚羊
+foreignBrand:
+	欧宝#进口#欧美佳
+localBrand:
+	欧宝#通用汽车#Omega [欧美佳]#Omega [欧美佳]
+欧美佳
+foreignBrand:
+	雪佛兰#合资#科鲁兹
+localBrand:
+	雪佛兰#上海通用#科鲁兹#科鲁兹
+科鲁兹
+foreignBrand:
+	斯巴鲁#进口#翼豹 WRX STI
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Impreza [翼豹]#Impreza WRX Sti [翼豹 WRX Sti]
+翼豹 WRX STI
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne [卡宴]
+卡宴
+foreignBrand:
+	雪佛兰#进口#迈锐宝
+localBrand:
+	雪佛兰#通用汽车#Malibu [迈锐宝]#Malibu [迈锐宝]
+迈锐宝
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#525Li
+5系
+foreignBrand:
+	江南#国产#精灵
+localBrand:
+	江南#江南汽车#精灵#精灵
+精灵
+foreignBrand:
+	现代#进口#索纳塔（进口）
+localBrand:
+	现代#现代汽车#Sonata [索纳塔]#Sonata [索纳塔]
+索纳塔（进口）
+foreignBrand:
+	道奇#进口#蝰蛇
+localBrand:
+	道奇#克莱斯勒#Viper [蝰蛇]#Viper SRT-10 Coupe [蝰蛇 SRT-10 Coupe]
+蝰蛇
+foreignBrand:
+	现代#合资#瑞纳两厢
+localBrand:
+	现代#北京现代#瑞纳#瑞纳-两厢
+瑞纳两厢
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 280 Carbriolet
+CLK
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 xDrive20d
+X1(进口)
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 xDrive20i
+X1(进口)
+foreignBrand:
+	夏利#国产#三厢夏利
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利-三厢
+三厢夏利
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic-Hatchback [思域-两厢]
+思域（进口）
+foreignBrand:
+	红旗#国产#红旗H7
+localBrand:
+	红旗#一汽轿车#H7#H7
+红旗H7
+foreignBrand:
+	沃尔沃#进口#V60
+localBrand:
+	沃尔沃#沃尔沃汽车#V60#V60
+V60
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CGI Carbriolet
+E级(进口)
+foreignBrand:
+	凯迪拉克#进口#DTS
+localBrand:
+	凯迪拉克#通用汽车#DTS#DTS
+DTS
+foreignBrand:
+	现代#合资#瑞纳
+localBrand:
+	现代#北京现代#瑞纳#瑞纳
+瑞纳
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 280
+C级
+foreignBrand:
+	福特#进口#福特Ka
+localBrand:
+	福特#福特汽车#Ka#Ka
+福特Ka
+foreignBrand:
+	比亚迪#国产#思锐
+localBrand:
+	比亚迪#比亚迪汽车#思锐#思锐
+思锐
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP570-4 Superleggera
+盖拉多
+foreignBrand:
+	现代#进口#维拉克斯
+localBrand:
+	现代#现代汽车#Veracrus [维拉克斯]#Veracrus [维拉克斯]
+维拉克斯
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 2.0i
+Z4
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP520-2
+盖拉多
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP530 Superleggera
+盖拉多
+foreignBrand:
+	风行#国产#景逸SUV
+localBrand:
+	风行#东风汽车#景逸#景逸SUV
+景逸SUV
+foreignBrand:
+	日产#进口#蓝鸟(进口)
+localBrand:
+	日产#日产汽车#Bluebird [蓝鸟]#Bluebird Sylphy [蓝鸟 Sylphy]
+蓝鸟(进口)
+foreignBrand:
+	奔驰#进口#SLR级
+localBrand:
+	奔驰#奔驰汽车#SLR-Class [SLR级]#SLR Stirling Moss
+SLR级
+foreignBrand:
+	英菲尼迪#进口#QX
+localBrand:
+	英菲尼迪#日产汽车#QX#QX4
+QX
+foreignBrand:
+	菲亚特#合资#菲翔
+localBrand:
+	菲亚特#广汽菲亚特#菲翔#菲翔
+菲翔
+foreignBrand:
+	雷克萨斯#进口#GX
+localBrand:
+	雷克萨斯#丰田汽车#GX#GX460
+GX
+foreignBrand:
+	起亚#进口#起亚Forte
+localBrand:
+	起亚#起亚汽车#Forte [福瑞迪]#Forte [福瑞迪]
+起亚Forte
+foreignBrand:
+	威兹曼#进口#GT
+localBrand:
+	威兹曼#威兹曼汽车#MF4#GT MF4
+GT
+foreignBrand:
+	雷诺#进口#风景
+localBrand:
+	雷诺#雷诺汽车#Scenic [风景]#Grand Scenic [大风景]
+风景
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250 Coupe
+C级(进口)
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 SuperCrew
+F系列
+foreignBrand:
+	讴歌#进口#MDX
+localBrand:
+	讴歌#本田汽车#MDX#MDX
+MDX
+foreignBrand:
+	福特#合资#翼搏
+localBrand:
+	福特#长安福特#翼搏#翼搏
+翼搏
+foreignBrand:
+	依维柯#国产#都灵V
+localBrand:
+	依维柯#南京依维柯#都灵V#都灵V V50
+都灵V
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#120i Convertible [120i 敞篷轿跑车]
+1系
+foreignBrand:
+	本田#进口#雅阁(进口)
+localBrand:
+	本田#本田汽车#Accord [雅阁]#Accord-Sedan [雅阁-三厢]
+雅阁(进口)
+foreignBrand:
+	凯迪拉克#进口#CTS-V
+localBrand:
+	凯迪拉克#通用汽车#CTS#CTS-V Wagon [CTS-V 旅行版]
+CTS-V
+foreignBrand:
+	丰田#合资#汉兰达
+localBrand:
+	丰田#广汽丰田#汉兰达#汉兰达
+汉兰达
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Turbo Cabriolet
+保时捷911
+foreignBrand:
+	三菱#进口#蓝瑟EX
+localBrand:
+	三菱#三菱汽车#Lancer [蓝瑟]#Lancer EX [蓝瑟 EX]
+蓝瑟EX
+foreignBrand:
+	上海汇众#国产#德驰
+localBrand:
+	汇众#上海汇众#德驰#德驰
+德驰
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera Turbo Executive [帕纳美拉 Turbo Executive]
+Panamera
+foreignBrand:
+	马自达#进口#MX-5
+localBrand:
+	马自达#马自达汽车#MX-5#MX-5
+MX-5
+foreignBrand:
+	天马#国产#英雄
+localBrand:
+	天马#天马汽车#英雄#英雄
+英雄
+foreignBrand:
+	英菲尼迪#进口#QX
+localBrand:
+	英菲尼迪#日产汽车#Q45#Q45
+QX
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#420 SEL
+S级
+foreignBrand:
+	三菱#进口#欧蓝德EX
+localBrand:
+	三菱#三菱汽车#Outland [欧蓝德]#Outland [欧蓝德]
+欧蓝德EX
+foreignBrand:
+	宾利#进口#雅致
+localBrand:
+	宾利#宾利汽车#Arnage [雅致]#Arnage R [雅致 R]
+雅致
+foreignBrand:
+	荣威#国产#W5
+localBrand:
+	荣威#上海汽车#W5#W5
+W5
+foreignBrand:
+	长安#国产#奔奔LOVE
+localBrand:
+	长安#长安汽车#奔奔#奔奔LOVE
+奔奔LOVE
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i xDrive Coupe [335i xDrive 双门轿跑车]
+3系(进口)
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#SLK AMG#SLK55 AMG
+AMG车系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d Touring [320d 旅行车]
+3系(进口)
+foreignBrand:
+	北京汽车#国产#威旺307
+localBrand:
+	威旺#北京汽车#307#307
+威旺307
+foreignBrand:
+	莲花#进口#RCR竞悦
+localBrand:
+	莲花#青年莲花#竞悦#竞悦
+RCR竞悦
+foreignBrand:
+	纳智捷#国产#纳智捷 5 Sedan
+localBrand:
+	纳智捷#东风裕隆#5 Sedan#5 Sedan
+纳智捷 5 Sedan
+foreignBrand:
+	凯迪拉克#进口#凯雷德
+localBrand:
+	凯迪拉克#通用汽车#Escalade [凯雷德]#Escalade ESV [凯雷德 ESV]
+凯雷德
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i xDrive
+3系(进口)
+foreignBrand:
+	本田#进口#CR-V（进口）
+localBrand:
+	本田#本田汽车#CR-V#CR-V
+CR-V（进口）
+foreignBrand:
+	英菲尼迪#进口#英菲尼迪JX
+localBrand:
+	英菲尼迪#日产汽车#JX#JX35
+英菲尼迪JX
+foreignBrand:
+	路特斯#进口#Evora
+localBrand:
+	路特斯#宝腾汽车#Evora#Evora
+Evora
+foreignBrand:
+	斯巴鲁#进口#翼豹 WRX STI
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Impreza [翼豹]#Impreza WRX-STI-Sedan [翼豹WRX-STI-三厢]
+翼豹 WRX STI
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CDI Carbriolet
+E级(进口)
+foreignBrand:
+	斯柯达#合资#昊锐
+localBrand:
+	斯柯达#上海大众#昊锐#昊锐
+昊锐
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#G-Class AMG [G级 AMG]#G63 AMG
+AMG车系
+foreignBrand:
+	长城#国产#哈弗M2
+localBrand:
+	长城#长城汽车#哈弗M2#哈弗M2
+哈弗M2
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 2.0d
+X3
+foreignBrand:
+	起亚#进口#起亚Soul
+localBrand:
+	起亚#起亚汽车#Soul [秀尔]#Soul [秀尔]
+起亚Soul
+foreignBrand:
+	起亚#合资#赛拉图
+localBrand:
+	起亚#东风悦达起亚#赛拉图#赛拉图
+赛拉图
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 2.0i
+X3
+foreignBrand:
+	法拉利#进口#法拉利F430
+localBrand:
+	法拉利#法拉利汽车#F430#F430 Spider
+法拉利F430
+foreignBrand:
+	现代#进口#现代世纪
+localBrand:
+	现代#现代汽车#Centennial [世纪百年]#Centennial [世纪百年]
+现代世纪
+foreignBrand:
+	玛莎拉蒂#进口#GranTurismo
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#GT#GT S
+GranTurismo
+foreignBrand:
+	大众#进口#途锐
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg BlueMotion [途锐 蓝驱]
+途锐
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智Q7
+菱智
+foreignBrand:
+	安驰#国产#威豹
+localBrand:
+	安驰#江淮安驰#威豹#威豹
+威豹
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智Q8
+菱智
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318is Coupe [318is 双门轿跑车]
+3系(进口)
+foreignBrand:
+	奇瑞#国产#奇瑞E3
+localBrand:
+	奇瑞#奇瑞汽车#E3#E3
+奇瑞E3
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 CGI
+C级(进口)
+foreignBrand:
+	雷诺#进口#雷诺Clio
+localBrand:
+	雷诺#雷诺汽车#Clio#Clio Tourting [Clio 旅行车]
+雷诺Clio
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 240 Tourer
+C级(进口)
+foreignBrand:
+	奇瑞#国产#旗云1
+localBrand:
+	奇瑞#奇瑞汽车#旗云#旗云1
+旗云1
+foreignBrand:
+	美亚#国产#奇兵
+localBrand:
+	美亚#天汽美亚#奇兵#奇兵
+奇兵
+foreignBrand:
+	奇瑞#国产#旗云3
+localBrand:
+	奇瑞#奇瑞汽车#旗云#旗云3
+旗云3
+foreignBrand:
+	五菱#国产#五菱兴旺
+localBrand:
+	五菱#上汽通用五菱#兴旺#兴旺
+五菱兴旺
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 350
+SLK
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#630i Convertible [630i 敞篷轿跑车]
+6系
+foreignBrand:
+	本田#合资#奥德赛
+localBrand:
+	本田#广汽本田#奥德赛#奥德赛
+奥德赛
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 528i
+5系GT
+foreignBrand:
+	一汽#国产#威乐
+localBrand:
+	一汽#天津一汽夏利#威乐#威乐
+威乐
+foreignBrand:
+	川汽野马#国产#野马F12
+localBrand:
+	野马#四川汽车#F12#F12
+野马F12
+foreignBrand:
+	英伦#国产#SC7
+localBrand:
+	英伦#吉利汽车#SC7#SC7
+SC7
+foreignBrand:
+	欧宝#进口#欧宝Corsa
+localBrand:
+	欧宝#通用汽车#Corsa [可赛]#Corsa [可赛]
+欧宝Corsa
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650Ci Convertible [650Ci 敞篷轿跑车]
+6系
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera Cabriolet
+保时捷911
+foreignBrand:
+	黑豹#国产#黑豹货车
+localBrand:
+	黑豹#沈阳黑豹#旅行家#旅行家
+黑豹货车
+foreignBrand:
+	长城#国产#凌傲
+localBrand:
+	长城#长城汽车#凌傲#凌傲
+凌傲
+foreignBrand:
+	日产#合资#逍客
+localBrand:
+	日产#东风日产#逍客#逍客
+逍客
+foreignBrand:
+	大众#进口#途锐
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg R5 [途锐 R5]
+途锐
+foreignBrand:
+	欧宝#进口#欧宝Insignia
+localBrand:
+	欧宝#通用汽车#Insignia [音速亚]#Insignia OPC Sports [音速亚 OPC Sports]
+欧宝Insignia
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 260 CGI Carbriolet
+E级(进口)
+foreignBrand:
+	奥迪#进口#RS5
+localBrand:
+	奥迪#奥迪汽车#A5#RS5 Coupe
+RS5
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#523Li
+5系
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智QA
+菱智
+foreignBrand:
+	法拉利#进口#法拉利456M
+localBrand:
+	法拉利#法拉利汽车#456#456 M GTA
+法拉利456M
+foreignBrand:
+	现代#进口#索纳塔（进口）
+localBrand:
+	现代#现代汽车#Sonata [索纳塔]#Sonata Hybrid [索纳塔 油电混合]
+索纳塔（进口）
+foreignBrand:
+	吉利#国产#美日
+localBrand:
+	吉利#吉利汽车#美日#美日之风
+美日
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d
+3系(进口)
+foreignBrand:
+	雷克萨斯#进口#LX
+localBrand:
+	雷克萨斯#丰田汽车#LX#LX470
+LX
+foreignBrand:
+	天马#国产#风驰
+localBrand:
+	天马#天马汽车#风驰#风驰
+风驰
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 420 Tourer
+E级(进口)
+foreignBrand:
+	东南#国产#V5菱致
+localBrand:
+	东南#东南汽车#V5菱致#V5菱致
+V5菱致
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 350 CGI
+C级(进口)
+foreignBrand:
+	长安#国产#悦翔V3
+localBrand:
+	长安#长安汽车#悦翔#悦翔V3
+悦翔V3
+foreignBrand:
+	福特#合资#福克斯三厢
+localBrand:
+	福特#长安福特#福克斯#福克斯-三厢
+福克斯三厢
+foreignBrand:
+	长安#国产#悦翔
+localBrand:
+	长安#长安汽车#悦翔#悦翔V5
+悦翔
+foreignBrand:
+	菲亚特#合资#派力奥
+localBrand:
+	菲亚特#南京菲亚特#派力奥#派力奥
+派力奥
+foreignBrand:
+	路特斯#进口#Europa
+localBrand:
+	路特斯#宝腾汽车#Europa#Europa
+Europa
+foreignBrand:
+	法拉利#进口#法拉利458 Italia
+localBrand:
+	法拉利#法拉利汽车#458#458 Spider
+法拉利458 Italia
+foreignBrand:
+	大众#进口#途锐
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg R-Line [途锐 R-Line]
+途锐
+foreignBrand:
+	路虎#进口#揽胜
+localBrand:
+	路虎#路虎汽车#Range Rover [揽胜]#Range Rover [揽胜]
+揽胜
+foreignBrand:
+	奇瑞#国产#旗云
+localBrand:
+	奇瑞#奇瑞汽车#旗云#旗云
+旗云
+foreignBrand:
+	别克#合资#赛欧
+localBrand:
+	别克#上海通用#赛欧#赛欧-三厢
+赛欧
+foreignBrand:
+	现代#进口#雅尊
+localBrand:
+	现代#现代汽车#Azera [雅尊]#Azera [雅尊]
+雅尊
+foreignBrand:
+	雪铁龙#进口#C4 Aircross
+localBrand:
+	雪铁龙#雪铁龙汽车#C4#C4 Aircross
+C4 Aircross
+foreignBrand:
+	日产#进口#350Z
+localBrand:
+	日产#日产汽车#350Z#350Z Coupe
+350Z
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535i
+5系(进口)
+foreignBrand:
+	福田#国产#迷迪
+localBrand:
+	福田#福田汽车#迷迪#迷迪
+迷迪
+foreignBrand:
+	福田#国产#蒙派克
+localBrand:
+	福田#福田汽车#蒙派克#X商务舱
+蒙派克
+foreignBrand:
+	大众#进口#途锐
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg R50 [途锐 R50]
+途锐
+foreignBrand:
+	启辰#国产#启辰R50
+localBrand:
+	启辰#东风日产#R50#R50
+启辰R50
+foreignBrand:
+	奥迪#合资#奥迪200
+localBrand:
+	奥迪#一汽奥迪#200#200
+奥迪200
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i xDrive Coupe [330i xDrive 双门轿跑车]
+3系(进口)
+foreignBrand:
+	光冈#进口#Galue
+localBrand:
+	光冈#光冈汽车#Galue Convertible [嘉路]#Galue Convertible [嘉路]
+Galue
+foreignBrand:
+	标致#进口#4008
+localBrand:
+	标致#标致汽车#4008#4008
+4008
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640d Coupe [640d 双门轿跑车]
+6系
+foreignBrand:
+	北汽#国产#勇士
+localBrand:
+	北汽#北汽股份#勇士#勇士
+勇士
+foreignBrand:
+	现代#进口#辉翼
+localBrand:
+	现代#现代汽车#H-1 [辉翼]#H-1 [辉翼]
+辉翼
+foreignBrand:
+	捷豹#进口#S-TYPE
+localBrand:
+	捷豹#捷豹汽车#S-Type#S-Type
+S-TYPE
+foreignBrand:
+	路特斯#进口#Elise
+localBrand:
+	路特斯#宝腾汽车#Elise#Elise
+Elise
+foreignBrand:
+	悍马#进口#H1
+localBrand:
+	悍马#通用汽车#H1#H1
+H1
+foreignBrand:
+	雪铁龙#合资#世嘉三厢
+localBrand:
+	雪铁龙#神龙汽车#世嘉#世嘉-三厢
+世嘉三厢
+foreignBrand:
+	丰田#进口#埃尔法
+localBrand:
+	丰田#丰田汽车#Alphard [埃尔法]#Alphard [埃尔法]
+埃尔法
+foreignBrand:
+	雷克萨斯#进口#SC
+localBrand:
+	雷克萨斯#丰田汽车#SC#SC430
+SC
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#Activehybrid 5 Touring [5系 油电混合 旅行车]
+5系(进口)
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 3.0si
+Z4
+foreignBrand:
+	日产#合资#奥丁
+localBrand:
+	东风风度#郑州日产#奥丁#奥丁
+奥丁
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320d
+3系(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320i
+3系(进口)
+foreignBrand:
+	雷克萨斯#进口#RX
+localBrand:
+	雷克萨斯#丰田汽车#RX#RX350
+RX
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#SLS AMG#SLS AMG
+AMG车系
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra Carbio [雅特 敞篷]
+雅特
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350
+E级(进口)
+foreignBrand:
+	马自达#合资#睿翼
+localBrand:
+	马自达#一汽马自达#睿翼#睿翼
+睿翼
+foreignBrand:
+	开瑞#国产#优优
+localBrand:
+	开瑞#奇瑞汽车#优优#优优
+优优
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 530d xDrive
+5系GT
+foreignBrand:
+	欧宝#进口#威达
+localBrand:
+	欧宝#通用汽车#Vectra [威达]#Vectra-Hatchback [威达-两厢]
+威达
+foreignBrand:
+	大宇#进口#典雅
+localBrand:
+	大宇#大宇汽车#Leganza [典雅]#Leganza [典雅]
+典雅
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#645Ci Convertible [645Ci 敞篷轿跑车]
+6系
+foreignBrand:
+	荣威#国产#550
+localBrand:
+	荣威#上海汽车#550#550 Plug-in
+550
+foreignBrand:
+	三菱#进口#欧蓝德EX
+localBrand:
+	三菱#三菱汽车#Outland [欧蓝德]#Outland EX [欧蓝德EX劲界]
+欧蓝德EX
+foreignBrand:
+	标致#合资#3008
+localBrand:
+	标致#东风标致#3008#3008
+3008
+foreignBrand:
+	兰博基尼#进口#LP700-4
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP670-4 SuperVeloce
+LP700-4
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang Boss 302 [野马 Boss 302]
+野马
+foreignBrand:
+	兰博基尼#进口#Murcielago
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP580 E-Grar
+Murcielago
+foreignBrand:
+	威麟#国产#威麟H3
+localBrand:
+	威麟#奇瑞汽车#H3#H3
+威麟H3
+foreignBrand:
+	吉林通田#国产#阁萝
+localBrand:
+	通田#通田汽车#阁罗#阁罗
+阁萝
+foreignBrand:
+	比亚迪#国产#F0
+localBrand:
+	比亚迪#比亚迪汽车#F0#F0
+F0
+foreignBrand:
+	起亚#合资#普莱特
+localBrand:
+	起亚#东风悦达起亚#普莱特#普莱特-两厢
+普莱特
+foreignBrand:
+	吉普#进口#指南者
+localBrand:
+	Jeep#克莱斯勒#Compass [指南者]#Compass [指南者]
+指南者
+foreignBrand:
+	丰田#进口#FJ酷路泽
+localBrand:
+	丰田#丰田汽车#FJ Cruiser [FJ酷路泽]#FJ Cruiser [FJ酷路泽]
+FJ酷路泽
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 Tourer
+C级(进口)
+foreignBrand:
+	道奇#进口#蝰蛇
+localBrand:
+	道奇#克莱斯勒#Viper [蝰蛇]#Viper RT/10[蝰蛇 RT/10]
+蝰蛇
+foreignBrand:
+	吉利#国产#美日
+localBrand:
+	吉利#吉利汽车#美日#美日之星
+美日
+foreignBrand:
+	吉奥#国产#伊美
+localBrand:
+	吉奥#广汽吉奥#伊美#伊美
+伊美
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C63 AMG Tourer
+AMG车系
+foreignBrand:
+	中华#国产#骏捷Wagon
+localBrand:
+	中华#华晨汽车#骏捷#骏捷Wagon
+骏捷Wagon
+foreignBrand:
+	比亚迪#国产#E6
+localBrand:
+	比亚迪#比亚迪汽车#E6#E6
+E6
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝V系列#V70
+佳宝
+foreignBrand:
+	别克#合资#凯越旅行车
+localBrand:
+	别克#上海通用#凯越#凯越旅行车
+凯越旅行车
+foreignBrand:
+	大宇#进口#蓝龙
+localBrand:
+	大宇#大宇汽车#Lanos [蓝龙]#Lanos [蓝龙]
+蓝龙
+foreignBrand:
+	雪铁龙#进口#C4
+localBrand:
+	雪铁龙#雪铁龙汽车#C4#C4L
+C4
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 500 Carbriolet
+E级(进口)
+foreignBrand:
+	金杯#国产#第三代阁瑞斯
+localBrand:
+	金杯#华晨金杯#阁瑞斯#智领
+第三代阁瑞斯
+foreignBrand:
+	欧宝#进口#麦瑞纳
+localBrand:
+	欧宝#通用汽车#Meriva [麦瑞纳]#Meriva [麦瑞纳]
+麦瑞纳
+foreignBrand:
+	宝马#进口#4系
+localBrand:
+	宝马#宝马汽车#4 Series [4系]#428i Coupe [428i 双门轿跑车]
+4系
+foreignBrand:
+	凯迪拉克#进口#BLS
+localBrand:
+	凯迪拉克#通用汽车#BLS#BLS Wagon
+BLS
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 Carbriolet
+E级(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#911 Cabriolet
+保时捷911
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 4.8is
+X5
+foreignBrand:
+	雷诺#进口#纬度
+localBrand:
+	雷诺#雷诺三星#Latitude [纬度]#Latitude [纬度]
+纬度
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Paceman#Cooper Paceman
+Countryman
+foreignBrand:
+	丰田#进口#丰田86
+localBrand:
+	丰田#丰田汽车#86#86
+丰田86
+foreignBrand:
+	东南#国产#菱利
+localBrand:
+	东南#东南汽车#菱利#菱利
+菱利
+foreignBrand:
+	华普#国产#海尚
+localBrand:
+	华普#上海华普#海尚#海尚MA
+海尚
+foreignBrand:
+	长城#国产#风骏3
+localBrand:
+	长城#长城汽车#风骏#风骏3
+风骏3
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 200 K
+E级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d xDrive Coupe [330d xDrive 双门轿跑车]
+3系(进口)
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat B4 VR6 [帕萨特B4 VR6]
+帕萨特(进口)
+foreignBrand:
+	长城#国产#风骏5
+localBrand:
+	长城#长城汽车#风骏#风骏5
+风骏5
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#745i
+7系
+foreignBrand:
+	标致#进口#207 CC
+localBrand:
+	标致#标致汽车#207#207 CC
+207 CC
+foreignBrand:
+	丰田#合资#凯美瑞
+localBrand:
+	丰田#广汽丰田#凯美瑞#凯美瑞 骏瑞
+凯美瑞
+foreignBrand:
+	宝马#合资#X1
+localBrand:
+	宝马#华晨宝马#X1#X1 sDrive20i
+X1
+foreignBrand:
+	宝马#合资#X1
+localBrand:
+	宝马#华晨宝马#X1#X1 xDrive20i
+X1
+foreignBrand:
+	哈飞#国产#骏意
+localBrand:
+	哈飞#哈飞汽车#骏意#骏意
+骏意
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive25i
+X3
+foreignBrand:
+	现代#进口#君爵
+localBrand:
+	现代#现代汽车#Grandeur [君爵]#Grandeur XG250 [君爵 XG250]
+君爵
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#120d
+1系
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#120i
+1系
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#328Li
+3系
+foreignBrand:
+	马自达#合资#睿翼轿跑
+localBrand:
+	马自达#一汽马自达#睿翼#睿翼 轿跑车
+睿翼轿跑
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic Si Coupe [思域 Si Coupe]
+思域（进口）
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 300 CDI
+ML级
+foreignBrand:
+	标致#合资#508
+localBrand:
+	标致#神龙汽车#508#508
+508
+foreignBrand:
+	GMC#进口#SIERRA
+localBrand:
+	GMC#通用汽车#Sierra [西拉]#Sierra 2500HD Hybrid [西拉 2500HD 油电混合]
+SIERRA
+foreignBrand:
+	铃木#合资#天语SX4三厢
+localBrand:
+	铃木#长安铃木#天语SX4#天语SX4-三厢
+天语SX4三厢
+foreignBrand:
+	马自达#合资#马自达8
+localBrand:
+	马自达#一汽马自达#马自达8#马自达8
+马自达8
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智M5 QA
+菱智
+foreignBrand:
+	大众#合资#朗境
+localBrand:
+	大众#上海大众#朗境#朗境
+朗境
+foreignBrand:
+	中兴#国产#旗舰
+localBrand:
+	中兴#中兴汽车#旗舰#旗舰皮卡
+旗舰
+foreignBrand:
+	宾利#进口#雅致
+localBrand:
+	宾利#宾利汽车#Arnage [雅致]#Arnage T [雅致 T]
+雅致
+foreignBrand:
+	路虎#进口#第四代发现
+localBrand:
+	路虎#路虎汽车#Discovery [发现]#Discovery4 [发现4]
+第四代发现
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#525i
+5系
+foreignBrand:
+	大众#合资#朗行
+localBrand:
+	大众#上海大众#朗行#朗行
+朗行
+foreignBrand:
+	奥迪#进口#Q5(进口)
+localBrand:
+	奥迪#奥迪汽车#Q5#Q5
+Q5(进口)
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat [帕萨特]
+帕萨特(进口)
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535i Touring [535i 旅行车]
+5系(进口)
+foreignBrand:
+	吉普#进口#大切诺基(进口)
+localBrand:
+	Jeep#克莱斯勒#Cherokee [切诺基]#Cherokee [切诺基]
+大切诺基(进口)
+foreignBrand:
+	东风风神#国产#风神S30
+localBrand:
+	风神#东风汽车#S30#S30-三厢
+风神S30
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS460L
+LS
+foreignBrand:
+	黄海#国产#旗胜V3
+localBrand:
+	黄海#曙光汽车#旗胜#旗胜V3
+旗胜V3
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 320 4MATIC
+ML级
+foreignBrand:
+	长安#国产#志翔
+localBrand:
+	长安#长安汽车#志翔#志翔
+志翔
+foreignBrand:
+	GMC#进口#SIERRA
+localBrand:
+	GMC#通用汽车#Sierra [西拉]#Sierra 3500HD [西拉 3500HD]
+SIERRA
+foreignBrand:
+	三菱#合资#欧蓝德
+localBrand:
+	三菱#北京吉普#欧蓝德#欧蓝德
+欧蓝德
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CGI Tourer
+E级(进口)
+foreignBrand:
+	萨博#进口#9-5
+localBrand:
+	萨博#通用汽车#9-5#9-5
+9-5
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 220 CDI Tourer
+C级(进口)
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 350 CDI
+C级(进口)
+foreignBrand:
+	马自达#合资#马自达6
+localBrand:
+	马自达#一汽马自达#马自达6#马自达6 轿跑车
+马自达6
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Turbo
+保时捷911
+foreignBrand:
+	上海汇众#国产#伊思坦纳
+localBrand:
+	汇众#上海汇众#伊思坦纳#伊思坦纳
+伊思坦纳
+foreignBrand:
+	金杯#国产#金杯S30
+localBrand:
+	金杯#华晨金杯#智尚#智尚S30
+金杯S30
+foreignBrand:
+	金杯#国产#第三代阁瑞斯
+localBrand:
+	金杯#华晨金杯#阁瑞斯#尊领
+第三代阁瑞斯
+foreignBrand:
+	英菲尼迪#进口#Q60
+localBrand:
+	英菲尼迪#日产汽车#Q60#Q60S
+Q60
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i xDrive Coupe [325i xDrive 双门轿跑车]
+3系(进口)
+foreignBrand:
+	吉普#进口#牧马人
+localBrand:
+	Jeep#克莱斯勒#Wrangler [牧马人]#Wrangler [牧马人]
+牧马人
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318tds
+3系(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#Virage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Virage#Virage Volante [Virage 敞篷]
+Virage
+foreignBrand:
+	雷克萨斯#进口#LS
+localBrand:
+	雷克萨斯#丰田汽车#LS#LS600hL
+LS
+foreignBrand:
+	巴博斯#进口#巴博斯 S级
+localBrand:
+	巴博斯#巴博斯汽车#S-class [S级]#40S Hybrid [40S 油电混合]
+巴博斯 S级
+foreignBrand:
+	现代#合资#瑞纳
+localBrand:
+	现代#北京现代#瑞纳#瑞纳-三厢
+瑞纳
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智M5 Q7
+菱智
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 600 L
+S级
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智M5 Q3
+菱智
+foreignBrand:
+	标致#进口#307 SW
+localBrand:
+	标致#标致汽车#307#307 SW
+307 SW
+foreignBrand:
+	MG#国产#MG6
+localBrand:
+	MG#上海汽车#MG6#MG6 Magnette
+MG6
+foreignBrand:
+	标致#合资#207两厢
+localBrand:
+	标致#东风标致#207#207 Cross
+207两厢
+foreignBrand:
+	夏利#国产#夏利A绅雅
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利 绅雅
+夏利A绅雅
+foreignBrand:
+	瑞麒#国产#M5
+localBrand:
+	瑞麒#奇瑞汽车#M5#M5
+M5
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 3.0i
+X5
+foreignBrand:
+	标致#进口#207 CC
+localBrand:
+	标致#标致汽车#207#207
+207 CC
+foreignBrand:
+	三菱#合资#君阁
+localBrand:
+	三菱#东南汽车#君阁#君阁
+君阁
+foreignBrand:
+	三菱#进口#帕杰罗(进口)
+localBrand:
+	三菱#三菱汽车#Pajero [帕杰罗]#Pajero [帕杰罗]
+帕杰罗(进口)
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 3.0d
+X5
+foreignBrand:
+	起亚#进口#索兰托
+localBrand:
+	起亚#起亚汽车#Sorento [索兰托]#Sorento [索兰托]
+索兰托
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#755ih
+7系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330ci Touring [330ci 旅行车]
+3系(进口)
+foreignBrand:
+	MG#进口#TF(进口)
+localBrand:
+	MG#上海汽车#MGTF#MGTF
+TF(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330d Touring [330d 旅行车]
+3系(进口)
+foreignBrand:
+	东风风神#国产#H30 Cross
+localBrand:
+	风神#东风汽车#H30#H30 Cross
+H30 Cross
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#323i
+3系(进口)
+foreignBrand:
+	江淮#国产#瑞风M5
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风M5
+瑞风M5
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 K
+C级(进口)
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 160 Coupe
+C级(进口)
+foreignBrand:
+	标致#进口#3008(进口)
+localBrand:
+	标致#标致汽车#3008#3008
+3008(进口)
+foreignBrand:
+	奥迪#进口#S4
+localBrand:
+	奥迪#奥迪汽车#A4#S4 Cabriolet
+S4
+foreignBrand:
+	大众#合资#途观
+localBrand:
+	大众#上海大众#途观#途观
+途观
+foreignBrand:
+	起亚#进口#霸锐
+localBrand:
+	起亚#起亚汽车#Borrego [霸锐]#Borrego [霸锐]
+霸锐
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318Ci
+3系(进口)
+foreignBrand:
+	兰博基尼#进口#Murcielago
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP580
+Murcielago
+foreignBrand:
+	阿斯顿·马丁#进口#V12 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V12 Vantage Volante [V12 Vantage 敞篷]
+V12 Vantage
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#Clubman
+CLUBMAN
+foreignBrand:
+	奥迪#进口#A4(进口)
+localBrand:
+	奥迪#奥迪汽车#A4#A4 Cabriolet
+A4(进口)
+foreignBrand:
+	雪佛兰#进口#EXPRESS
+localBrand:
+	雪佛兰#通用汽车#Express#Express LWB
+EXPRESS
+foreignBrand:
+	江淮#国产#瑞风S5
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风S5
+瑞风S5
+foreignBrand:
+	道奇#进口#蝰蛇
+localBrand:
+	道奇#克莱斯勒#Viper [蝰蛇]#Viper RT/10 Roadster [蝰蛇 RT/10 敞篷]
+蝰蛇
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 CDI
+C级(进口)
+foreignBrand:
+	日产#进口#阳光(进口)
+localBrand:
+	日产#日产汽车#Sunny [阳光]#Sunny-Hatchback [阳光-两厢]
+阳光(进口)
+foreignBrand:
+	红旗#国产#明仕
+localBrand:
+	红旗#一汽轿车#明仕#明仕
+明仕
+foreignBrand:
+	哈飞#国产#路宝
+localBrand:
+	哈飞#哈飞汽车#路宝#路宝
+路宝
+foreignBrand:
+	雷诺#进口#雷诺Clio
+localBrand:
+	雷诺#雷诺汽车#Clio#Clio-Hatchback [Clio-两厢]
+雷诺Clio
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP560-4 Bicolore
+盖拉多
+foreignBrand:
+	双龙#进口#柯兰多
+localBrand:
+	双龙#双龙汽车#Korando [柯兰多]#Korando [柯兰多]
+柯兰多
+foreignBrand:
+	起亚#合资#普莱特
+localBrand:
+	起亚#东风悦达起亚#普莱特#普莱特-三厢
+普莱特
+foreignBrand:
+	大众#合资#POLO劲情
+localBrand:
+	大众#上海大众#POLO#POLO 劲情
+POLO劲情
+foreignBrand:
+	雷克萨斯#进口#LF-A
+localBrand:
+	雷克萨斯#丰田汽车#LF-A#LF-A
+LF-A
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera S [帕纳美拉 S]
+Panamera
+foreignBrand:
+	柯尼赛格#进口#Agera
+localBrand:
+	科尼赛克#科尼赛克#Agera#Agera
+Agera
+foreignBrand:
+	丰田#合资#普锐斯
+localBrand:
+	丰田#一汽丰田#普锐斯#普锐斯
+普锐斯
+foreignBrand:
+	奇瑞#国产#A3两厢
+localBrand:
+	奇瑞#奇瑞汽车#A3#A3-两厢
+A3两厢
+foreignBrand:
+	宝龙#国产#菱惠
+localBrand:
+	宝龙#宝龙汽车#菱惠#菱惠
+菱惠
+foreignBrand:
+	现代#合资#名图
+localBrand:
+	现代#北京现代#名图#名图
+名图
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 350
+ML级
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝T系列#T51
+佳宝
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#520Li
+5系
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CL AMG#CL63 K AMG
+AMG车系
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 xDrive20i
+X3
+foreignBrand:
+	奥迪#进口#A3(进口)
+localBrand:
+	奥迪#奥迪汽车#A3#A3 Sportback
+A3(进口)
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝T系列#T57
+佳宝
+foreignBrand:
+	长安#国产#奔奔
+localBrand:
+	长安#长安汽车#奔奔#奔奔i
+奔奔
+foreignBrand:
+	欧朗#国产#欧朗
+localBrand:
+	欧朗#一汽轿车#欧朗#欧朗-两厢
+欧朗
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335d Coupe [335d 双门轿跑车]
+3系(进口)
+foreignBrand:
+	本田#合资#思铂睿
+localBrand:
+	本田#东风本田#思铂睿#思铂睿
+思铂睿
+foreignBrand:
+	雷诺#进口#雷诺Clio
+localBrand:
+	雷诺#雷诺汽车#Clio#Clio-Sedan [Clio-三厢]
+雷诺Clio
+foreignBrand:
+	沃尔沃#合资#S80L
+localBrand:
+	沃尔沃#长安沃尔沃#S80#S80L
+S80L
+foreignBrand:
+	林肯#进口#MKS
+localBrand:
+	林肯#福特汽车#MKS#MKS
+MKS
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325xi
+3系(进口)
+foreignBrand:
+	大众#进口#Scirocco尚酷
+localBrand:
+	大众#大众汽车#Scirocco [尚酷]#Scirocco GTS [尚酷 GTS]
+Scirocco尚酷
+foreignBrand:
+	萨博#进口#9-5
+localBrand:
+	萨博#通用汽车#9-5#9-5 SportCombi [9-5 旅行车]
+9-5
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 280 CDI
+E级(进口)
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#130i
+1系
+foreignBrand:
+	五菱#国产#五菱扬光
+localBrand:
+	五菱#上汽通用五菱#扬光#扬光
+五菱扬光
+foreignBrand:
+	DS#进口#DS5(进口)
+localBrand:
+	DS#雪铁龙汽车#DS5#DS5
+DS5(进口)
+foreignBrand:
+	宝马#进口#4系
+localBrand:
+	宝马#宝马汽车#4 Series [4系]#435i xDrive coupe [435i xDrive 双门轿跑车]
+4系
+foreignBrand:
+	奔驰#进口#R级
+localBrand:
+	奔驰#奔驰汽车#R-Class [R级]#R 350
+R级
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 280 CDI
+ML级
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Countryman#One Countryman
+Countryman
+foreignBrand:
+	大众#进口#辉腾
+localBrand:
+	大众#大众汽车#Phaeton [辉腾]#Phaeton [辉腾]
+辉腾
+foreignBrand:
+	大众#合资#朗逸
+localBrand:
+	大众#上海大众#朗逸#朗逸
+朗逸
+foreignBrand:
+	雪佛兰#进口#克尔维特C6
+localBrand:
+	雪佛兰#通用汽车#Corvette [克尔维特]#Corvette Convertible [克尔维特 敞篷]
+克尔维特C6
+foreignBrand:
+	日产#进口#阳光(进口)
+localBrand:
+	日产#日产汽车#Sunny [阳光]#Sunny-Sedan [阳光-三厢]
+阳光(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330i
+3系(进口)
+foreignBrand:
+	马自达#合资#马自达3星骋
+localBrand:
+	马自达#长安马自达#马自达3#马自达3星骋-三厢
+马自达3星骋
+foreignBrand:
+	华泰#国产#宝利格
+localBrand:
+	华泰#华泰汽车#宝利格#宝利格
+宝利格
+foreignBrand:
+	沃尔沃#合资#S40
+localBrand:
+	沃尔沃#长安沃尔沃#S40#S40
+S40
+foreignBrand:
+	新凯#合资#新凯之星
+localBrand:
+	新凯#新凯汽车#新凯之星#新凯之星
+新凯之星
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane CC [梅甘娜 CC]
+梅甘娜
+foreignBrand:
+	长丰#国产#飞扬SUV
+localBrand:
+	扬子#长丰扬子汽车#飞扬#飞扬SUV
+飞扬SUV
+foreignBrand:
+	起亚#进口#速迈
+localBrand:
+	起亚#起亚汽车#Shuma [速迈]#Shuma [速迈]
+速迈
+foreignBrand:
+	一汽#国产#威姿
+localBrand:
+	一汽#天津一汽夏利#威姿#威姿
+威姿
+foreignBrand:
+	华普#国产#海域
+localBrand:
+	华普#上海华普#海域#海域-三厢
+海域
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#GT2 RS
+保时捷911
+foreignBrand:
+	克莱斯勒#进口#彩虹
+localBrand:
+	克莱斯勒#克莱斯勒#Neon [彩虹]#Neon [彩虹]
+彩虹
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#M-Class AMG [M级 AMG]#ML63 AMG
+AMG车系
+foreignBrand:
+	奔驰#进口#G级
+localBrand:
+	奔驰#奔驰汽车#G-Class [G级]#G 500
+G级
+foreignBrand:
+	华普#国产#海尚
+localBrand:
+	华普#上海华普#海尚#海尚
+海尚
+foreignBrand:
+	日产#进口#风度
+localBrand:
+	日产#日产汽车#Cefiro [风度]#Cefiro A31 [风度 A31]
+风度
+foreignBrand:
+	大众#进口#夏朗
+localBrand:
+	大众#大众汽车#Sharan [夏朗]#Sharan [夏朗]
+夏朗
+foreignBrand:
+	精灵smart#进口#fortwo
+localBrand:
+	Smart#奔驰汽车#Fortwo#Fortwo coupe
+fortwo
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#300 SE
+S级
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#300 SD
+S级
+foreignBrand:
+	大众#进口#途锐
+localBrand:
+	大众#大众汽车#Touareg [途锐]#Touareg [途锐]
+途锐
+foreignBrand:
+	阿斯顿·马丁#进口#V12 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V12 Vantage S
+V12 Vantage
+foreignBrand:
+	大众#合资#速腾
+localBrand:
+	大众#一汽大众#速腾#速腾
+速腾
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#300 SEL
+S级
+foreignBrand:
+	沃尔沃#进口#C70
+localBrand:
+	沃尔沃#沃尔沃汽车#C70#C70 Convertible [C70 敞篷车]
+C70
+foreignBrand:
+	标致#合资#307两厢
+localBrand:
+	标致#神龙汽车#307#307-两厢
+307两厢
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 Coupe
+C级(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318is
+3系(进口)
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#528i Touring [528i 旅行车]
+5系(进口)
+foreignBrand:
+	英伦#国产#TX4
+localBrand:
+	英伦#吉利汽车#TX4#高级定制商务型
+TX4
+foreignBrand:
+	别克#合资#凯越
+localBrand:
+	别克#上海通用#凯越#凯越
+凯越
+foreignBrand:
+	雪佛兰#进口#斯帕可
+localBrand:
+	雪佛兰#通用汽车#Spark [斯帕可]#Spark [斯帕可]
+斯帕可
+foreignBrand:
+	劳伦士#进口#劳伦士M级
+localBrand:
+	劳伦士#劳伦士汽车#ML-Class [ML级]#ML 500
+劳伦士M级
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera Turbo [帕纳美拉 Turbo]
+Panamera
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TTS Roadster
+TT
+foreignBrand:
+	兰博基尼#进口#Aventador
+localBrand:
+	兰博基尼#兰博基尼#Aventador [埃文塔多]#LP700-4 Roadster
+Aventador
+foreignBrand:
+	法拉利#进口#法拉利612
+localBrand:
+	法拉利#法拉利汽车#612#612 Scaglietti
+法拉利612
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CGI Coupe
+E级(进口)
+foreignBrand:
+	三菱#进口#帕杰罗·劲畅
+localBrand:
+	三菱#三菱汽车#Pajero [帕杰罗]#Pajero Sport [帕杰罗·速跑]
+帕杰罗·劲畅
+foreignBrand:
+	江淮#国产#同悦RS
+localBrand:
+	江淮#江淮汽车#同悦#同悦RS
+同悦RS
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318ti Touring [318ti 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#550i Touring [550i 旅行车]
+5系(进口)
+foreignBrand:
+	大迪#国产#都市威菱
+localBrand:
+	大迪#大迪汽车#都市威菱SUV#都市威菱SUV
+都市威菱
+foreignBrand:
+	雷克萨斯#进口#GX
+localBrand:
+	雷克萨斯#丰田汽车#GX#GX400
+GX
+foreignBrand:
+	奥迪#进口#A5
+localBrand:
+	奥迪#奥迪汽车#A5#A5 Sportback
+A5
+foreignBrand:
+	奔驰#合资#C级
+localBrand:
+	奔驰#北京奔驰#C级#C 200 CGI
+C级
+foreignBrand:
+	中兴#国产#福星SUV
+localBrand:
+	中兴#中兴汽车#福星#福星SUV
+福星SUV
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 400 4MATIC
+GL级
+foreignBrand:
+	北汽#国产#陆铃
+localBrand:
+	北汽#北汽股份#陆铃#陆铃
+陆铃
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf R32
+高尔夫(进口)
+foreignBrand:
+	力帆#国产#520
+localBrand:
+	力帆#力帆汽车#520#520
+520
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#750Li xDrive
+7系
+foreignBrand:
+	英伦#国产#SC5-RV
+localBrand:
+	英伦#吉利汽车#SC5#SC5-RV
+SC5-RV
+foreignBrand:
+	海格#国产#中巴系列
+localBrand:
+	海格#苏州金龙#H7V#H7V
+中巴系列
+foreignBrand:
+	路虎#进口#神行者2
+localBrand:
+	路虎#路虎汽车#Freelander [神行者]#Freelander2 [神行者2代]
+神行者2
+foreignBrand:
+	中顺#国产#中顺mpv
+localBrand:
+	中顺#中顺汽车#中顺世纪#中顺世纪
+中顺mpv
+foreignBrand:
+	丰田#合资#陆地巡洋舰
+localBrand:
+	丰田#一汽丰田#陆地巡洋舰#陆地巡洋舰
+陆地巡洋舰
+foreignBrand:
+	英伦#国产#SC6
+localBrand:
+	英伦#吉利汽车#SC6#SC6
+SC6
+foreignBrand:
+	斯巴鲁#进口#翼豹 WRX STI
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Impreza [翼豹]#Impreza WRX [翼豹 WRX]
+翼豹 WRX STI
+foreignBrand:
+	英菲尼迪#进口#Q60
+localBrand:
+	英菲尼迪#日产汽车#Q60#Q60
+Q60
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#Cooper Clubman
+CLUBMAN
+foreignBrand:
+	海马#国产#海马王子
+localBrand:
+	海马#郑州海马#海马王子#海马王子
+海马王子
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#V系列#V29
+东风小康
+foreignBrand:
+	长城#国产#嘉誉
+localBrand:
+	长城#长城汽车#嘉誉#嘉誉
+嘉誉
+foreignBrand:
+	丰田#合资#普拉多
+localBrand:
+	丰田#一汽丰田#普拉多#普拉多
+普拉多
+foreignBrand:
+	奥迪#合资#A4L
+localBrand:
+	奥迪#一汽奥迪#A4#A4L
+A4L
+foreignBrand:
+	大众#合资#POLO
+localBrand:
+	大众#上海大众#POLO#POLO-两厢
+POLO
+foreignBrand:
+	比亚迪#国产#M6
+localBrand:
+	比亚迪#比亚迪汽车#M6#M6
+M6
+foreignBrand:
+	本田#合资#CR-V
+localBrand:
+	本田#东风本田#CR-V#CR-V
+CR-V
+foreignBrand:
+	威麟#国产#威麟X5
+localBrand:
+	威麟#奇瑞汽车#X5#X5
+威麟X5
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#冲浪-SUV
+风景冲浪
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250 CDI
+C级(进口)
+foreignBrand:
+	永源#国产#A380
+localBrand:
+	永源#永源汽车#A380#A380
+A380
+foreignBrand:
+	奔驰#进口#B级
+localBrand:
+	奔驰#奔驰汽车#B-Class [B级]#B 200
+B级
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TT Coupe
+TT
+foreignBrand:
+	福特#合资#福克斯两厢
+localBrand:
+	福特#长安福特#福克斯#福克斯-两厢
+福克斯两厢
+foreignBrand:
+	帝豪#国产#EC7-RV
+localBrand:
+	帝豪#吉利汽车#EC7#EC7-RV
+EC7-RV
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C-Class AMG CDI [C级 AMG CDI]
+AMG车系
+foreignBrand:
+	广汽#国产#传祺GA5
+localBrand:
+	传祺#广汽乘用车#GA5#GA5
+传祺GA5
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M25L
+M系
+foreignBrand:
+	别克#合资#英朗XT
+localBrand:
+	别克#上海通用#英朗#英朗XT
+英朗XT
+foreignBrand:
+	斯柯达#进口#Yeti
+localBrand:
+	斯柯达#大众汽车#Yeti [野帝]#Yeti [野帝]
+Yeti
+foreignBrand:
+	雷克萨斯#进口#ES
+localBrand:
+	雷克萨斯#丰田汽车#ES#ES300h
+ES
+foreignBrand:
+	江淮#国产#瑞风
+localBrand:
+	江淮#江淮汽车#瑞风#瑞风祥和
+瑞风
+foreignBrand:
+	保时捷#进口#Boxster
+localBrand:
+	保时捷#保时捷汽车#Boxster [博克斯特]#Boxster S [博克斯特 S]
+Boxster
+foreignBrand:
+	雪铁龙#合资#C5
+localBrand:
+	雪铁龙#东风雪铁龙#C5#C5
+C5
+foreignBrand:
+	双龙#进口#主席
+localBrand:
+	双龙#双龙汽车#Chairman [主席]#Chairman [主席]
+主席
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane Coupe [梅甘娜 Coupe]
+梅甘娜
+foreignBrand:
+	奔驰#进口#SLR级
+localBrand:
+	奔驰#奔驰汽车#SLR-Class [SLR级]#SLR
+SLR级
+foreignBrand:
+	长城#国产#哈弗M2
+localBrand:
+	长城#长城汽车#M2#M2
+哈弗M2
+foreignBrand:
+	日产#合资#帕拉骐
+localBrand:
+	日产#郑州日产#帕拉骐#帕拉骐
+帕拉骐
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#120d Coupe [120d 双门轿跑车]
+1系
+foreignBrand:
+	江南#国产#风光
+localBrand:
+	江南#江南汽车#风光#风光
+风光
+foreignBrand:
+	长城#国产#哈弗M4
+localBrand:
+	长城#长城汽车#哈弗M4#哈弗M4
+哈弗M4
+foreignBrand:
+	世爵#进口#C8
+localBrand:
+	世爵#世爵汽车#C8#C8
+C8
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 CGI
+C级(进口)
+foreignBrand:
+	讴歌#进口#ZDX
+localBrand:
+	讴歌#本田汽车#ZDX#ZDX
+ZDX
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat B4 [帕萨特B4]
+帕萨特(进口)
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#C系列#C37
+东风小康
+foreignBrand:
+	日产#合资#颐达
+localBrand:
+	日产#东风日产#颐达#颐达
+颐达
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TT RS Coupe
+TT
+foreignBrand:
+	日产#进口#370Z
+localBrand:
+	日产#日产汽车#370Z#370Z Roadster
+370Z
+foreignBrand:
+	雷诺#进口#梅甘娜
+localBrand:
+	雷诺#雷诺汽车#Megane [梅甘娜]#Megane Estate [梅甘娜 旅行车]
+梅甘娜
+foreignBrand:
+	奔腾#国产#B50
+localBrand:
+	奔腾#一汽轿车#B50#B50
+B50
+foreignBrand:
+	雷克萨斯#进口#ES
+localBrand:
+	雷克萨斯#丰田汽车#ES#ES240
+ES
+foreignBrand:
+	玛莎拉蒂#进口#Spyder
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#GT#GT Spyder
+Spyder
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 500
+ML级
+foreignBrand:
+	大众#进口#高尔夫GTI(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf GTI
+高尔夫GTI(进口)
+foreignBrand:
+	一汽#国产#森雅M80
+localBrand:
+	一汽#一汽吉林#森雅M80#森雅M80
+森雅M80
+foreignBrand:
+	日产#进口#风雅
+localBrand:
+	日产#日产汽车#Fuga [风雅]#Fuga 370 [风雅 370]
+风雅
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M35
+M系
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M37
+M系
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M30
+M系
+foreignBrand:
+	福特#进口#嘉年华(进口)
+localBrand:
+	福特#福特汽车#Fiesta [嘉年华]#Fiesta [嘉年华]
+嘉年华(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#ActiveHybrid 3 [3系 油电混合]
+3系(进口)
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#735Li
+7系
+foreignBrand:
+	雷克萨斯#进口#LX
+localBrand:
+	雷克萨斯#丰田汽车#LX#LX450
+LX
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 535d
+5系GT
+foreignBrand:
+	别克#合资#GL8
+localBrand:
+	别克#上海通用#GL8#GL8 陆尊
+GL8
+foreignBrand:
+	大宇#进口#旅行家
+localBrand:
+	大宇#大宇汽车#Nubira [旅行家]#Nubira [旅行家]
+旅行家
+foreignBrand:
+	路虎#进口#卫士
+localBrand:
+	路虎#路虎汽车#Defender [卫士]#Defender90 [卫士90]
+卫士
+foreignBrand:
+	大众#进口#凯路威
+localBrand:
+	大众#大众汽车#Caravelle [凯路威]#Caravelle [凯路威]
+凯路威
+foreignBrand:
+	红旗#国产#红旗旗舰
+localBrand:
+	红旗#一汽轿车#旗舰#旗舰
+红旗旗舰
+foreignBrand:
+	GMC#进口#Savana
+localBrand:
+	GMC#通用汽车#Savana [赛威]#Savana [赛威]
+Savana
+foreignBrand:
+	华普#国产#海域
+localBrand:
+	华普#上海华普#海域#海域-两厢
+海域
+foreignBrand:
+	吉普#合资#切诺基
+localBrand:
+	Jeep#北京吉普#切诺基#超级切诺基
+切诺基
+foreignBrand:
+	雷诺#进口#科雷傲
+localBrand:
+	雷诺#雷诺三星#Koleos [科雷傲]#Koleos [科雷傲]
+科雷傲
+foreignBrand:
+	奇瑞#国产#奇瑞V5
+localBrand:
+	奇瑞#奇瑞汽车#V5#V5
+奇瑞V5
+foreignBrand:
+	海马#国产#海南马自达323
+localBrand:
+	海马#一汽海马#323#323
+海南马自达323
+foreignBrand:
+	巴博斯#进口#巴博斯 S级
+localBrand:
+	巴博斯#巴博斯汽车#S-class [S级]#38S
+巴博斯 S级
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650i Coupe [650i 双门轿跑车]
+6系
+foreignBrand:
+	奔驰#合资#凌特
+localBrand:
+	奔驰#福建奔驰#凌特#凌特 厢式车
+凌特
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CGI Carbriolet
+E级(进口)
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#G-Class AMG [G级 AMG]#G55 AMG
+AMG车系
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#550i xDrive
+5系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 Tourer
+E级(进口)
+foreignBrand:
+	日产#合资#骏逸
+localBrand:
+	日产#东风日产#骏逸#骏逸
+骏逸
+foreignBrand:
+	依维柯#国产#康果
+localBrand:
+	依维柯#南京依维柯#康果#康果
+康果
+foreignBrand:
+	瑞麒#国产#M1
+localBrand:
+	瑞麒#奇瑞汽车#M1#M1
+M1
+foreignBrand:
+	吉普#合资#大切诺基
+localBrand:
+	Jeep#北京吉普#大切诺基#大切诺基 4000
+大切诺基
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera 4
+保时捷911
+foreignBrand:
+	双环#国产#SCEO
+localBrand:
+	双环#双环汽车#SCEO#SCEO
+SCEO
+foreignBrand:
+	黄海#国产#旗胜CUV
+localBrand:
+	黄海#曙光汽车#旗胜#旗胜CUV
+旗胜CUV
+foreignBrand:
+	吉普#合资#城市猎人
+localBrand:
+	Jeep#北京吉普#城市猎人#城市猎人
+城市猎人
+foreignBrand:
+	凯迪拉克#进口#CTS-V
+localBrand:
+	凯迪拉克#通用汽车#CTS#CTS-V Coupe
+CTS-V
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 290 Tourer
+E级(进口)
+foreignBrand:
+	玛莎拉蒂#进口#Ghibli
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#Ghibli#Ghibli S
+Ghibli
+foreignBrand:
+	帝豪#国产#EC7
+localBrand:
+	帝豪#吉利汽车#EC7#EC7
+EC7
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#520i
+5系(进口)
+foreignBrand:
+	金程车工#国产#赛风
+localBrand:
+	金程#金程汽车#赛风#赛风
+赛风
+foreignBrand:
+	日产#合资#骊威
+localBrand:
+	日产#东风日产#骊威#骊威
+骊威
+foreignBrand:
+	美亚#国产#顺风
+localBrand:
+	美亚#天汽美亚#顺风#顺风
+顺风
+foreignBrand:
+	奥迪#进口#A4(进口)
+localBrand:
+	奥迪#奥迪汽车#A4#A4
+A4(进口)
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#500 SEL
+S级
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera S
+保时捷911
+foreignBrand:
+	莲花#国产#L3两厢
+localBrand:
+	莲花#青年莲花#L3#L3-两厢
+L3两厢
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#panamera Turbo S [帕纳美拉 Turbo S]
+Panamera
+foreignBrand:
+	现代#合资#索纳塔
+localBrand:
+	现代#北京现代#索纳塔#第八代索纳塔
+索纳塔
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 320
+ML级
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CDI Coupe
+E级(进口)
+foreignBrand:
+	雷克萨斯#进口#HS
+localBrand:
+	雷克萨斯#丰田汽车#HS#HS250h
+HS
+foreignBrand:
+	哈飞#国产#哈飞中意
+localBrand:
+	哈飞#哈飞汽车#中意#中意B
+哈飞中意
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera 4 [帕纳美拉 4]
+Panamera
+foreignBrand:
+	大众#合资#高尔夫GTI
+localBrand:
+	大众#一汽大众#高尔夫#高尔夫GTI
+高尔夫GTI
+foreignBrand:
+	大众#合资#捷达
+localBrand:
+	大众#一汽大众#捷达#捷达
+捷达
+foreignBrand:
+	本田#合资#杰德
+localBrand:
+	本田#东风本田#杰德#杰德
+杰德
+foreignBrand:
+	奔驰#进口#R级
+localBrand:
+	奔驰#奔驰汽车#R-Class [R级]#R 500
+R级
+foreignBrand:
+	南汽新雅途#国产#新雅途
+localBrand:
+	新雅途#南京汽车#新雅途#新雅途
+新雅途
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330cd Coupe [330cd 双门轿跑车]
+3系(进口)
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Golf Plus
+高尔夫(进口)
+foreignBrand:
+	华普#国产#海炫
+localBrand:
+	华普#上海华普#海炫#海炫AA
+海炫
+foreignBrand:
+	本田#进口#时韵
+localBrand:
+	本田#本田汽车#Stream [时韵]#Stream [时韵]
+时韵
+foreignBrand:
+	北汽#国产#骑士
+localBrand:
+	北汽#北汽股份#骑士#骑士
+骑士
+foreignBrand:
+	现代#进口#君爵
+localBrand:
+	现代#现代汽车#Grandeur [君爵]#Grandeur XG350 [君爵XG350]
+君爵
+foreignBrand:
+	奔腾#国产#X80
+localBrand:
+	奔腾#一汽轿车#X80#X80
+X80
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320cd Coupe [320cd 双门轿跑车]
+3系(进口)
+foreignBrand:
+	日产#合资#轩逸
+localBrand:
+	日产#东风日产#轩逸#轩逸
+轩逸
+foreignBrand:
+	长安#国产#悦翔两厢
+localBrand:
+	长安#长安汽车#悦翔#悦翔-两厢
+悦翔两厢
+foreignBrand:
+	长城#国产#赛弗
+localBrand:
+	长城#长城汽车#赛弗#赛弗F1
+赛弗
+foreignBrand:
+	北汽#国产#战旗2023
+localBrand:
+	北汽#北汽股份#战旗#战旗
+战旗2023
+foreignBrand:
+	本田#进口#思域（进口）
+localBrand:
+	本田#本田汽车#Civic [思域]#Civic R [思域 R]
+思域（进口）
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#风光#风光
+东风小康
+foreignBrand:
+	全球鹰#国产#自由舰
+localBrand:
+	全球鹰#吉利汽车#自由舰#自由舰
+自由舰
+foreignBrand:
+	本田#合资#歌诗图
+localBrand:
+	本田#广汽本田#歌诗图#歌诗图
+歌诗图
+foreignBrand:
+	法拉利#进口#法拉利360 Modena
+localBrand:
+	法拉利#法拉利汽车#360#360 Modena
+法拉利360 Modena
+foreignBrand:
+	起亚#进口#欧菲莱斯
+localBrand:
+	起亚#起亚汽车#Opirus [欧菲莱斯]#Opirus [欧菲莱斯]
+欧菲莱斯
+foreignBrand:
+	标致#合资#307三厢
+localBrand:
+	标致#神龙汽车#307#307-三厢
+307三厢
+foreignBrand:
+	劳伦士#进口#劳伦士S级
+localBrand:
+	劳伦士#劳伦士汽车#S-Class [S级]#S 300 L
+劳伦士S级
+foreignBrand:
+	众泰#国产#众泰V10
+localBrand:
+	众泰#众泰汽车#V10#V10
+众泰V10
+foreignBrand:
+	吉奥#国产#财运100
+localBrand:
+	吉奥#广汽吉奥#财运#财运100
+财运100
+foreignBrand:
+	林肯#进口#MKT
+localBrand:
+	林肯#福特汽车#MKT#MKT
+MKT
+foreignBrand:
+	丰田#进口#Venza
+localBrand:
+	丰田#丰田汽车#Venza [威飒]#Venza [威飒]
+Venza
+foreignBrand:
+	标致#合资#508
+localBrand:
+	标致#东风标致#508#508
+508
+foreignBrand:
+	永源#国产#永源五星
+localBrand:
+	永源#永源汽车#永源五星#永源五星
+永源五星
+foreignBrand:
+	众泰#国产#众泰T600
+localBrand:
+	众泰#众泰汽车#T600#T600
+众泰T600
+foreignBrand:
+	菲亚特#进口#菲亚特500
+localBrand:
+	菲亚特#菲亚特汽车#500#500C
+菲亚特500
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS200
+IS
+foreignBrand:
+	克莱斯勒#进口#PT漫步者
+localBrand:
+	克莱斯勒#克莱斯勒#PT Cruiser [PT漫步者]#PT Cruiser Convertible [PT漫步者 敞篷]
+PT漫步者
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 270 CDI
+C级(进口)
+foreignBrand:
+	庆铃#国产#庆铃皮卡
+localBrand:
+	庆铃#庆铃汽车#庆铃皮卡#庆铃皮卡
+庆铃皮卡
+foreignBrand:
+	大众#合资#POLO
+localBrand:
+	大众#上海大众#POLO#POLO-三厢
+POLO
+foreignBrand:
+	马自达#进口#马自达3（进口）
+localBrand:
+	马自达#马自达汽车#Mazda3 [马自达3]#Mazda3-Hacthback [马自达3-两厢]
+马自达3（进口）
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i
+3系(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318tds Touring [318tds 旅行车]
+3系(进口)
+foreignBrand:
+	英伦#国产#SC3
+localBrand:
+	英伦#吉利汽车#SC3#SC3
+SC3
+foreignBrand:
+	福迪#国产#雄狮皮卡
+localBrand:
+	福迪#福迪汽车#雄狮#雄狮F16
+雄狮皮卡
+foreignBrand:
+	本田#进口#奥德赛(进口)
+localBrand:
+	本田#本田汽车#Odyssey [奥德赛]#Odyssey [奥德赛]
+奥德赛(进口)
+foreignBrand:
+	奔驰#进口#GLK级
+localBrand:
+	奔驰#奔驰汽车#GLK-Class [GLK级]#GLK 320 CDI
+GLK级
+foreignBrand:
+	大众#合资#高尔夫
+localBrand:
+	大众#一汽大众#高尔夫#高尔夫6
+高尔夫
+foreignBrand:
+	三菱#进口#蓝瑟 翼豪陆神
+localBrand:
+	三菱#三菱汽车#Lancer Evolution [蓝瑟 翼豪陆神]#Lancer Evolution [蓝瑟 翼豪陆神]
+蓝瑟 翼豪陆神
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 420 CDI
+ML级
+foreignBrand:
+	法拉利#进口#法拉利456M
+localBrand:
+	法拉利#法拉利汽车#456#456 GT
+法拉利456M
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#320i Touring [320i 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325ci Convertible [325ci 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	现代#合资#ix35
+localBrand:
+	现代#北京现代#ix35#ix35
+ix35
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#635d Coupe [635d 双门轿跑车]
+6系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318Ci Coupe [318Ci 双门轿跑车]
+3系(进口)
+foreignBrand:
+	雪铁龙#合资#爱丽舍两厢
+localBrand:
+	雪铁龙#神龙汽车#爱丽舍#爱丽舍-两厢
+爱丽舍两厢
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 250 CGI
+C级(进口)
+foreignBrand:
+	雪铁龙#合资#富康
+localBrand:
+	雪铁龙#神龙汽车#富康#富康
+富康
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra GTC [雅特 GTC]
+雅特
+foreignBrand:
+	讴歌#进口#ILX
+localBrand:
+	讴歌#本田汽车#ILX#ILX Hybrid
+ILX
+foreignBrand:
+	雪佛兰#合资#科鲁兹
+localBrand:
+	雪佛兰#上海通用#科鲁兹#科鲁兹掀背
+科鲁兹
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 350
+C级(进口)
+foreignBrand:
+	现代#进口#格锐
+localBrand:
+	现代#现代汽车#Grand SantaFe [格锐]#Grand SantaFe [格锐]
+格锐
+foreignBrand:
+	日产#合资#蓝鸟
+localBrand:
+	日产#东风日产#蓝鸟#蓝鸟 智尊
+蓝鸟
+foreignBrand:
+	奔驰#进口#SLK
+localBrand:
+	奔驰#奔驰汽车#SLK-Class [SLK级]#SLK 200 K
+SLK
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#730d
+7系
+foreignBrand:
+	海马#国产#丘比特
+localBrand:
+	海马#一汽海马#丘比特#丘比特
+丘比特
+foreignBrand:
+	一汽#国产#佳宝
+localBrand:
+	一汽#一汽吉林#佳宝V系列#V55
+佳宝
+foreignBrand:
+	现代#合资#MOINCA名驭
+localBrand:
+	现代#北京现代#名驭#名驭
+MOINCA名驭
+foreignBrand:
+	本田#合资#飞度
+localBrand:
+	本田#广汽本田#飞度#飞度-三厢
+飞度
+foreignBrand:
+	雪铁龙#合资#凯旋
+localBrand:
+	雪铁龙#神龙汽车#凯旋#凯旋
+凯旋
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i xDrive
+3系(进口)
+foreignBrand:
+	中华#国产#骏捷Cross
+localBrand:
+	中华#华晨汽车#骏捷#骏捷Cross
+骏捷Cross
+foreignBrand:
+	法拉利#进口#法拉利458 Italia
+localBrand:
+	法拉利#法拉利汽车#458#458 Italia
+法拉利458 Italia
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CGI Tourer
+E级(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 200 CDI Tourer
+E级(进口)
+foreignBrand:
+	荣威#国产#550
+localBrand:
+	荣威#上海汽车#550#550
+550
+foreignBrand:
+	夏利#国产#夏利A+
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利A+-三厢
+夏利A+
+foreignBrand:
+	日产#进口#公爵
+localBrand:
+	日产#日产汽车#Cedric [公爵王]#Cedric 250 [公爵王 250]
+公爵
+foreignBrand:
+	丰田#进口#陆地巡洋舰(进口)
+localBrand:
+	丰田#丰田汽车#Land Cruiser [兰德酷路泽]#Land Cruiser [兰德酷路泽]
+陆地巡洋舰(进口)
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 320 CDI Tourer
+C级(进口)
+foreignBrand:
+	大迪#国产#都市骏马
+localBrand:
+	大迪#大迪汽车#都市骏马SUV#都市骏马SUV
+都市骏马
+foreignBrand:
+	三菱#合资#菱绅
+localBrand:
+	三菱#东南汽车#菱绅#菱绅
+菱绅
+foreignBrand:
+	现代#进口#雅科仕
+localBrand:
+	现代#现代汽车#Equus [雅科仕]#Equus [雅科仕]
+雅科仕
+foreignBrand:
+	雷诺#进口#塔利斯曼
+localBrand:
+	雷诺#雷诺三星#Talisman [塔利斯曼]#Talisman [塔利斯曼]
+塔利斯曼
+foreignBrand:
+	永源#国产#猎鹰
+localBrand:
+	永源#永源汽车#猎鹰#猎鹰
+猎鹰
+foreignBrand:
+	奇瑞#国产#瑞虎
+localBrand:
+	奇瑞#奇瑞汽车#瑞虎#瑞虎DR欧版
+瑞虎
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#530i
+5系
+foreignBrand:
+	福汽启腾#国产#启腾M70
+localBrand:
+	启腾#福汽新龙马#M70#M70
+启腾M70
+foreignBrand:
+	迈凯伦#进口#迈凯伦12C
+localBrand:
+	迈凯伦#迈凯伦汽车#12C#12C Spider
+迈凯伦12C
+foreignBrand:
+	中兴#国产#田野SUV
+localBrand:
+	中兴#中兴汽车#田野#田野SUV
+田野SUV
+foreignBrand:
+	奔驰#进口#B级
+localBrand:
+	奔驰#奔驰汽车#B-Class [B级]#B 180
+B级
+foreignBrand:
+	华普#国产#飙风
+localBrand:
+	华普#上海华普#飙风#飙风
+飙风
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#530d Touring [530d 旅行车]
+5系(进口)
+foreignBrand:
+	奥迪#合资#Q5
+localBrand:
+	奥迪#一汽奥迪#Q5#Q5
+Q5
+foreignBrand:
+	陆风#国产#新饰界
+localBrand:
+	陆风#陆风汽车#新饰界#新饰界
+新饰界
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#640i xDrive Coupe [640i xDrive 双门轿跑车]
+6系
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 D Tourer
+E级(进口)
+foreignBrand:
+	马自达#合资#马自达3星骋两厢
+localBrand:
+	马自达#长安福特马自达#马自达3#马自达3星骋-两厢
+马自达3星骋两厢
+foreignBrand:
+	依维柯#国产#都灵V
+localBrand:
+	依维柯#南京依维柯#都灵V#都灵V
+都灵V
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 350
+S级
+foreignBrand:
+	奔驰#合资#凌特
+localBrand:
+	奔驰#福建奔驰#凌特#凌特 佳旅
+凌特
+foreignBrand:
+	昌河#国产#福运
+localBrand:
+	昌河#江西昌河汽车#福运#福运
+福运
+foreignBrand:
+	福特#进口#F系列
+localBrand:
+	福特#福特汽车#F-150 [猛禽]#F-150 Harley Davidson
+F系列
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive35i
+X5
+foreignBrand:
+	广汽#国产#传祺GS5
+localBrand:
+	传祺#广汽乘用车#GS5#GS5
+传祺GS5
+foreignBrand:
+	南汽新雅途#国产#君达
+localBrand:
+	新雅途#南京汽车#君达#君达
+君达
+foreignBrand:
+	日产#进口#350Z
+localBrand:
+	日产#日产汽车#350Z#350Z Convertible [350Z 敞篷]
+350Z
+foreignBrand:
+	五菱#国产#五菱荣光
+localBrand:
+	五菱#上汽通用五菱#荣光#荣光
+五菱荣光
+foreignBrand:
+	奥迪#进口#RS5
+localBrand:
+	奥迪#奥迪汽车#A5#RS5 Cabriolet
+RS5
+foreignBrand:
+	纳智捷#国产#大7 SUV
+localBrand:
+	纳智捷#东风裕隆#大7 SUV#大7 SUV
+大7 SUV
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 350 CDI 4MATIC
+GL级
+foreignBrand:
+	北京汽车#国产#绅宝
+localBrand:
+	绅宝#北京汽车#绅宝#绅宝
+绅宝
+foreignBrand:
+	菲亚特#进口#博悦
+localBrand:
+	菲亚特#菲亚特汽车#Bravo [博悦]#Bravo [博悦]
+博悦
+foreignBrand:
+	铃木#进口#超级维特拉
+localBrand:
+	铃木#铃木汽车#Grand Vitara [超级维特拉]#Grand Vitara [超级维特拉]
+超级维特拉
+foreignBrand:
+	克莱斯勒#进口#300M（进口）
+localBrand:
+	克莱斯勒#克莱斯勒#300#300M
+300M（进口）
+foreignBrand:
+	北京汽车#国产#E系列
+localBrand:
+	北京#北京汽车#E系列#E系列
+E系列
+foreignBrand:
+	力帆#国产#630
+localBrand:
+	力帆#力帆汽车#630#630
+630
+foreignBrand:
+	宝马#进口#Z3
+localBrand:
+	宝马#宝马汽车#Z3#Z3 2.2i Convertible [Z3 2.2i 敞篷跑车]
+Z3
+foreignBrand:
+	法拉利#进口#法拉利California
+localBrand:
+	法拉利#法拉利汽车#California#California
+法拉利California
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#320 SE
+S级
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#316i
+3系
+foreignBrand:
+	昌河#国产#爱迪尔
+localBrand:
+	昌河#江西昌河汽车#爱迪尔#爱迪尔
+爱迪尔
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 220 Tourer
+C级(进口)
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#小海狮#小海狮X30
+金杯海狮
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M25
+M系
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G25 Coupe
+G系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325d
+3系(进口)
+foreignBrand:
+	雪佛兰#合资#科帕奇
+localBrand:
+	雪佛兰#上海通用#科帕奇#科帕奇
+科帕奇
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 200 CGI Tourer
+C级(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325i Convertible [325i 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	长城#国产#哈弗派
+localBrand:
+	长城#长城汽车#哈弗派#哈弗派
+哈弗派
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera GTS
+保时捷911
+foreignBrand:
+	宝马#进口#X1(进口)
+localBrand:
+	宝马#宝马汽车#X1#X1 sDrive20i
+X1(进口)
+foreignBrand:
+	迈巴赫#进口#62
+localBrand:
+	迈巴赫#奔驰汽车#Maybach62 [迈巴赫62]#Maybach62 Zeppelin [迈巴赫62 齐柏林]
+62
+foreignBrand:
+	奔驰#进口#SL级
+localBrand:
+	奔驰#奔驰汽车#SL-Class [SL级]#SL 600
+SL级
+foreignBrand:
+	大众#进口#Scirocco尚酷
+localBrand:
+	大众#大众汽车#Scirocco [尚酷]#Scirocco R [尚酷 R]
+Scirocco尚酷
+foreignBrand:
+	起亚#进口#K5(进口)
+localBrand:
+	起亚#起亚汽车#K5#K5 Hybrid
+K5(进口)
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#QX80#QX80
+G系
+foreignBrand:
+	标致#合资#301
+localBrand:
+	标致#东风标致#301#301
+301
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#125i Convertible [125i 敞篷轿跑车]
+1系
+foreignBrand:
+	保时捷#进口#保时捷918
+localBrand:
+	保时捷#保时捷汽车#918#918 Spyder
+保时捷918
+foreignBrand:
+	奇瑞#国产#QQ3
+localBrand:
+	奇瑞#奇瑞汽车#QQ#QQ
+QQ3
+foreignBrand:
+	宝马#进口#5系GT
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#GT 550i
+5系GT
+foreignBrand:
+	东风风神#国产#风神S30
+localBrand:
+	风神#东风汽车#S30#S30
+风神S30
+foreignBrand:
+	劳伦士#进口#劳伦士S级
+localBrand:
+	劳伦士#劳伦士汽车#S-Class [S级]#S 600 L
+劳伦士S级
+foreignBrand:
+	雷克萨斯#进口#RX
+localBrand:
+	雷克萨斯#丰田汽车#RX#RX300
+RX
+foreignBrand:
+	金杯#国产#西部大力神
+localBrand:
+	金杯#华晨金杯#大力神#大力神D25
+西部大力神
+foreignBrand:
+	金杯#国产#西部大力神
+localBrand:
+	金杯#华晨金杯#大力神#大力神D22
+西部大力神
+foreignBrand:
+	海马#国产#海马S7
+localBrand:
+	海马#一汽海马#S7#S7
+海马S7
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#535Li
+5系
+foreignBrand:
+	保时捷#进口#Panamera
+localBrand:
+	保时捷#保时捷汽车#Panamera [帕纳美拉]#Panamera 4S Executive [帕纳美拉 4S Executive]
+Panamera
+foreignBrand:
+	奔驰#进口#SL级
+localBrand:
+	奔驰#奔驰汽车#SL-Class [SL级]#SL 280
+SL级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330xd
+3系(进口)
+foreignBrand:
+	中兴#国产#无限
+localBrand:
+	中兴#中兴汽车#无限#无限
+无限
+foreignBrand:
+	天马#国产#风锐
+localBrand:
+	天马#天马汽车#风锐#风锐
+风锐
+foreignBrand:
+	英菲尼迪#进口#M系
+localBrand:
+	英菲尼迪#日产汽车#M#M35hL
+M系
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 220 CDI Carbriolet
+E级(进口)
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330xi
+3系(进口)
+foreignBrand:
+	本田#进口#本田S2000
+localBrand:
+	本田#本田汽车#S2000#S2000
+本田S2000
+foreignBrand:
+	大众#进口#甲壳虫
+localBrand:
+	大众#大众汽车#Beetle [甲壳虫]#Beetle Sport [甲壳虫 Sport]
+甲壳虫
+foreignBrand:
+	长丰#国产#金麒麟
+localBrand:
+	扬子#长丰扬子汽车#金麒麟#金麒麟
+金麒麟
+foreignBrand:
+	万丰#国产#速威
+localBrand:
+	万丰#上海万丰#速威#速威
+速威
+foreignBrand:
+	华普#国产#朗风
+localBrand:
+	华普#上海华普#朗风#朗风
+朗风
+foreignBrand:
+	宝马#进口#M系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#M6 Convertible [M6 敞篷轿跑车]
+M系
+foreignBrand:
+	MINI#进口#CLUBMAN
+localBrand:
+	MINI#宝马汽车#Clubman#Cooper S Clubman
+CLUBMAN
+foreignBrand:
+	宝马#进口#6系
+localBrand:
+	宝马#宝马汽车#6 Series [6系]#650i xDrive Convertible [650i xDrive 敞篷轿跑车]
+6系
+foreignBrand:
+	奔腾#国产#B90
+localBrand:
+	奔腾#一汽轿车#B90#B90
+B90
+foreignBrand:
+	菲亚特#进口#菲亚特500
+localBrand:
+	菲亚特#菲亚特汽车#500#500
+菲亚特500
+foreignBrand:
+	MINI#进口#MINI ROADSTER
+localBrand:
+	MINI#宝马汽车#Roadster#Cooper S Roadster
+MINI ROADSTER
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#316ti Touring [316ti 旅行车]
+3系(进口)
+foreignBrand:
+	沃尔沃#进口#V70
+localBrand:
+	沃尔沃#沃尔沃汽车#V70#V70
+V70
+foreignBrand:
+	福特#进口#翼虎
+localBrand:
+	福特#福特汽车#Escape/Kuga [翼虎]#Escape/Kuga [翼虎]
+翼虎
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#530d
+5系(进口)
+foreignBrand:
+	雪铁龙#进口#C5(进口)
+localBrand:
+	雪铁龙#雪铁龙汽车#C5#C5 Hatchback [C5 掀背车]
+C5(进口)
+foreignBrand:
+	雪佛兰#合资#开拓者
+localBrand:
+	雪佛兰#金杯通用#开拓者#开拓者
+开拓者
+foreignBrand:
+	雪铁龙#合资#C2
+localBrand:
+	雪铁龙#神龙汽车#C2#C2
+C2
+foreignBrand:
+	捷豹#进口#XFR
+localBrand:
+	捷豹#捷豹汽车#XF#XFR
+XFR
+foreignBrand:
+	长城#国产#酷熊
+localBrand:
+	长城#长城汽车#酷熊#酷熊
+酷熊
+foreignBrand:
+	长丰#国产#奇兵
+localBrand:
+	长丰#广汽长丰#猎豹#猎豹奇兵
+奇兵
+foreignBrand:
+	金杯#国产#金杯海狮
+localBrand:
+	金杯#华晨金杯#海狮#海狮超级领航者
+金杯海狮
+foreignBrand:
+	雪佛兰#合资#赛欧两厢
+localBrand:
+	雪佛兰#上海通用#赛欧#赛欧-两厢
+赛欧两厢
+foreignBrand:
+	中兴#国产#威虎
+localBrand:
+	中兴#中兴汽车#威虎#威虎TUV
+威虎
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 300
+E级(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 320 Tourer
+E级(进口)
+foreignBrand:
+	标致#进口#RCZ
+localBrand:
+	标致#标致汽车#RCZ#RCZ
+RCZ
+foreignBrand:
+	道奇#进口#蝰蛇
+localBrand:
+	道奇#克莱斯勒#Viper [蝰蛇]#Viper SRT-10 Roadster [蝰蛇 SRT-10 敞篷]
+蝰蛇
+foreignBrand:
+	别克#合资#林荫大道
+localBrand:
+	别克#上海通用#林荫大道#林荫大道
+林荫大道
+foreignBrand:
+	江淮#国产#宾悦
+localBrand:
+	江淮#江淮汽车#宾悦#宾悦
+宾悦
+foreignBrand:
+	奇瑞#国产#东方之子Cross
+localBrand:
+	奇瑞#奇瑞汽车#东方之子#东方之子Cross
+东方之子Cross
+foreignBrand:
+	雪佛兰#进口#科迈罗
+localBrand:
+	雪佛兰#通用汽车#Camaro [科迈罗]#Camaro Convertible [科迈罗 敞篷]
+科迈罗
+foreignBrand:
+	夏利#国产#夏利N3
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利N3-三厢
+夏利N3
+foreignBrand:
+	凯迪拉克#进口#帝威
+localBrand:
+	凯迪拉克#通用汽车#Deville [帝威]#Deville [帝威]
+帝威
+foreignBrand:
+	大众#进口#甲壳虫
+localBrand:
+	大众#大众汽车#Beetle [甲壳虫]#Beetle VR6 [甲壳虫 VR6]
+甲壳虫
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 180
+A级
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#335i Touring [335i 旅行车]
+3系(进口)
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#750i xDrive
+7系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#328i Convertible [328i 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	庆铃#国产#竞技者
+localBrand:
+	庆铃#庆铃汽车#竞技者#竞技者
+竞技者
+foreignBrand:
+	标致#合资#408
+localBrand:
+	标致#东风标致#408#408
+408
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#125i
+1系
+foreignBrand:
+	雷克萨斯#进口#RX
+localBrand:
+	雷克萨斯#丰田汽车#RX#RX400h
+RX
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#325td
+3系(进口)
+foreignBrand:
+	奔驰#进口#CL级
+localBrand:
+	奔驰#奔驰汽车#CL-Class [CL级]#CL 600
+CL级
+foreignBrand:
+	斯巴鲁#进口#驰鹏
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Tribeca [驰鹏]#Tribeca [驰鹏]
+驰鹏
+foreignBrand:
+	庞蒂亚克#进口#庞蒂亚克
+localBrand:
+	庞蒂克#通用汽车#Trams-AM [火鸟]#Trams-AM Convertible [火鸟 敞篷]
+庞蒂亚克
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 230 K Tourer
+C级(进口)
+foreignBrand:
+	大众#进口#帕萨特(进口)
+localBrand:
+	大众#大众汽车#Passat [帕萨特]#Passat B5 [帕萨特B5]
+帕萨特(进口)
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 430
+S级
+foreignBrand:
+	北汽#国产#陆霸
+localBrand:
+	北汽#北汽股份#陆霸#陆霸3400
+陆霸
+foreignBrand:
+	本田#合资#思迪
+localBrand:
+	本田#广汽本田#思迪#思迪
+思迪
+foreignBrand:
+	福特#进口#野马
+localBrand:
+	福特#福特汽车#Mustang [野马]#Mustang GT500 Shelby [野马 GT500 眼镜蛇]
+野马
+foreignBrand:
+	标致#合资#308
+localBrand:
+	标致#东风标致#308#308
+308
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G37 Convertible [G37 敞篷]
+G系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#330xi Touring [330xi 旅行车]
+3系(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Carrera 4 GTS Cabriolet
+保时捷911
+foreignBrand:
+	开瑞#国产#优胜
+localBrand:
+	开瑞#奇瑞汽车#优胜#优胜Ⅱ代
+优胜
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CDI Tourer
+E级(进口)
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS350
+IS
+foreignBrand:
+	萨博#进口#9-3
+localBrand:
+	萨博#通用汽车#9-3#9-3 Coupe
+9-3
+foreignBrand:
+	夏利#国产#夏利2000
+localBrand:
+	夏利#天津一汽夏利#夏利#夏利2000
+夏利2000
+foreignBrand:
+	奥迪#进口#S5
+localBrand:
+	奥迪#奥迪汽车#A5#S5 Sportback
+S5
+foreignBrand:
+	菲亚特#进口#菲亚特500
+localBrand:
+	菲亚特#菲亚特汽车#500#500 Abarth
+菲亚特500
+foreignBrand:
+	奥迪#进口#S4
+localBrand:
+	奥迪#奥迪汽车#A4#S4
+S4
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Paceman#Cooper Paceman All 4
+Countryman
+foreignBrand:
+	黑豹#国产#黑豹货车
+localBrand:
+	黑豹#沈阳黑豹#黑豹#黑豹
+黑豹货车
+foreignBrand:
+	哈飞#国产#赛豹V
+localBrand:
+	哈飞#哈飞汽车#赛豹#赛豹V系
+赛豹V
+foreignBrand:
+	大众#合资#桑塔纳
+localBrand:
+	大众#上海大众#桑塔纳#桑塔纳 旅行车
+桑塔纳
+foreignBrand:
+	永源#国产#UFO
+localBrand:
+	永源#永源汽车#飞碟UFO#飞碟UFO
+UFO
+foreignBrand:
+	宝马#进口#Z4
+localBrand:
+	宝马#宝马汽车#Z4#Z4 2.5i
+Z4
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#S-Class AMG [S级 AMG]#S65 AMG
+AMG车系
+foreignBrand:
+	雪铁龙#进口#C4
+localBrand:
+	雪铁龙#雪铁龙汽车#C4#C4 Coupe
+C4
+foreignBrand:
+	马自达#合资#马自达2
+localBrand:
+	马自达#长安马自达#马自达2#马自达2
+马自达2
+foreignBrand:
+	奇瑞#国产#艾瑞泽7
+localBrand:
+	奇瑞#奇瑞汽车#艾瑞泽#艾瑞泽7
+艾瑞泽7
+foreignBrand:
+	东风#国产#东风小康
+localBrand:
+	东风小康#东风汽车#C系列#C35
+东风小康
+foreignBrand:
+	雷克萨斯#进口#IS
+localBrand:
+	雷克萨斯#丰田汽车#IS#IS200 Cross
+IS
+foreignBrand:
+	中华#国产#骏捷
+localBrand:
+	中华#华晨汽车#骏捷#骏捷
+骏捷
+foreignBrand:
+	道奇#合资#凯领
+localBrand:
+	道奇#东南汽车#凯领#凯领
+凯领
+foreignBrand:
+	别克#合资#君越
+localBrand:
+	别克#上海通用#君越#君越eAssist
+君越
+foreignBrand:
+	斯巴鲁#进口#森林人
+localBrand:
+	斯巴鲁#斯巴鲁汽车#Forester [森林人]#Forester [森林人]
+森林人
+foreignBrand:
+	讴歌#进口#RDX
+localBrand:
+	讴歌#本田汽车#RDX#RDX
+RDX
+foreignBrand:
+	金杯#国产#金杯锐驰
+localBrand:
+	金杯#华晨金杯#锐驰#锐驰
+金杯锐驰
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 160
+A级
+foreignBrand:
+	福特#合资#蒙迪欧
+localBrand:
+	福特#长安福特#蒙迪欧#蒙迪欧
+蒙迪欧
+foreignBrand:
+	吉利#国产#豹风GT
+localBrand:
+	吉利#吉利汽车#美人豹#豹风GT
+豹风GT
+foreignBrand:
+	保时捷#进口#卡宴
+localBrand:
+	保时捷#保时捷汽车#Cayenne [卡宴]#Cayenne Turbo S [卡宴 S]
+卡宴
+foreignBrand:
+	长城#国产#炫丽CROSS
+localBrand:
+	长城#长城汽车#炫丽#炫丽Cross
+炫丽CROSS
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 3.0si
+X5
+foreignBrand:
+	日产#合资#骐达
+localBrand:
+	日产#东风日产#骐达#骐达
+骐达
+foreignBrand:
+	长丰#国产#飞铃SUV
+localBrand:
+	扬子#长丰扬子汽车#飞铃#飞铃SUV
+飞铃SUV
+foreignBrand:
+	MINI#进口#JCW COUNTRYMAN
+localBrand:
+	MINI#宝马汽车#Countryman#JCW Countryman All 4
+JCW COUNTRYMAN
+foreignBrand:
+	长丰#国产#猎豹CS7
+localBrand:
+	长丰#广汽长丰#猎豹#猎豹CS7
+猎豹CS7
+foreignBrand:
+	长丰#国产#猎豹CS6
+localBrand:
+	长丰#广汽长丰#猎豹#猎豹CS6
+猎豹CS6
+foreignBrand:
+	本田#进口#元素
+localBrand:
+	本田#本田汽车#Element [元素]#Element [元素]
+元素
+foreignBrand:
+	宝马#进口#X6
+localBrand:
+	宝马#宝马汽车#M Series [M系]#X6 M
+X6
+foreignBrand:
+	开瑞#国产#开瑞3
+localBrand:
+	开瑞#奇瑞汽车#开瑞3#开瑞3
+开瑞3
+foreignBrand:
+	奔驰#进口#SLR级
+localBrand:
+	奔驰#奔驰汽车#SLR-Class [SLR级]#SLR Mclaren
+SLR级
+foreignBrand:
+	雷克萨斯#进口#GS
+localBrand:
+	雷克萨斯#丰田汽车#GS#GS350
+GS
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CLK AMG#CLK55 AMG
+AMG车系
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CLK AMG#CLK55 AMG Carbriletoooo
+AMG车系
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318i Convertible [318i 敞篷轿跑车]
+3系(进口)
+foreignBrand:
+	萨博#进口#9-3
+localBrand:
+	萨博#通用汽车#9-3#9-3 Sportcombi [9-3 旅行车]
+9-3
+foreignBrand:
+	悍马#进口#H2
+localBrand:
+	悍马#通用汽车#H2#H2
+H2
+foreignBrand:
+	斯柯达#进口#弗雷西亚
+localBrand:
+	斯柯达#大众汽车#Felicia [弗雷西亚]#Felicia [弗雷西亚]
+弗雷西亚
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 350 CDI Tourer
+E级(进口)
+foreignBrand:
+	日产#合资#D22皮卡
+localBrand:
+	日产#郑州日产#D22皮卡#D22皮卡
+D22皮卡
+foreignBrand:
+	本田#进口#雅阁(进口)
+localBrand:
+	本田#本田汽车#Accord [雅阁]#Accord Coupe [雅阁 Coupe]
+雅阁(进口)
+foreignBrand:
+	大众#进口#高尔夫(进口)
+localBrand:
+	大众#大众汽车#Golf [高尔夫]#Cross Golf
+高尔夫(进口)
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 260 CGI
+C级(进口)
+foreignBrand:
+	玛莎拉蒂#进口#3200GT
+localBrand:
+	玛莎拉蒂#玛莎拉蒂#3200GT#3200GT
+3200GT
+foreignBrand:
+	丰田#合资#卡罗拉
+localBrand:
+	丰田#一汽丰田#卡罗拉#卡罗拉
+卡罗拉
+foreignBrand:
+	双龙#进口#爱腾
+localBrand:
+	双龙#双龙汽车#Actyon [爱腾]#Actyon [爱腾]
+爱腾
+foreignBrand:
+	风行#国产#菱智
+localBrand:
+	风行#东风汽车#菱智#菱智M3
+菱智
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#C-Class AMG [C级 AMG]#C43 AMG
+AMG车系
+foreignBrand:
+	丰田#合资#YARiS L 致炫
+localBrand:
+	丰田#广汽丰田#雅力士#YARiS L 致炫
+YARiS L 致炫
+foreignBrand:
+	中欧#合资#中欧奔驰房车
+localBrand:
+	中欧#中欧汽车#尊逸#尊逸
+中欧奔驰房车
+foreignBrand:
+	劳伦士#进口#劳伦士S级
+localBrand:
+	劳伦士#劳伦士汽车#S-Class [S级]#S 350 L
+劳伦士S级
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535d Touring [535d 旅行车]
+5系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 400 Coupe
+E级(进口)
+foreignBrand:
+	凯迪拉克#进口#CTS-V
+localBrand:
+	凯迪拉克#通用汽车#CTS#CTS-V
+CTS-V
+foreignBrand:
+	阿斯顿·马丁#进口#Rapide
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Rapide#Rapide S
+Rapide
+foreignBrand:
+	东南#国产#富利卡
+localBrand:
+	东南#东南汽车#富利卡#富利卡
+富利卡
+foreignBrand:
+	宝马#进口#X3
+localBrand:
+	宝马#宝马汽车#X3#X3 3.0i
+X3
+foreignBrand:
+	东风#国产#菱通
+localBrand:
+	风行#东风汽车#菱通#菱通
+菱通
+foreignBrand:
+	比亚迪#国产#秦
+localBrand:
+	比亚迪#比亚迪汽车#秦#秦
+秦
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 260 CGI
+E级(进口)
+foreignBrand:
+	大众#进口#CC(进口)
+localBrand:
+	大众#大众汽车#CC#CC
+CC(进口)
+foreignBrand:
+	奔驰#进口#CLK
+localBrand:
+	奔驰#奔驰汽车#CLK-Class [CLK级]#CLK 200 K Carbriolet
+CLK
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 320 CDI
+ML级
+foreignBrand:
+	威兹曼#进口#GT
+localBrand:
+	威兹曼#威兹曼汽车#MF5#GT MF5
+GT
+foreignBrand:
+	万丰#国产#万丰商务车
+localBrand:
+	万丰#上海万丰#万丰商务车#万丰商务车
+万丰商务车
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#535d xDrive
+5系(进口)
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 320
+GL级
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 450
+GL级
+foreignBrand:
+	开瑞#国产#优派
+localBrand:
+	开瑞#奇瑞汽车#优派#优派
+优派
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 350 Tourer
+C级(进口)
+foreignBrand:
+	宝马#合资#5系
+localBrand:
+	宝马#华晨宝马#5系#520i
+5系
+foreignBrand:
+	阿斯顿·马丁#进口#V8 Vantage
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vantage#V8 Vantage
+V8 Vantage
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 xDrive50i
+X5
+foreignBrand:
+	现代#进口#劳恩斯
+localBrand:
+	现代#现代汽车#Rohens [劳恩斯]#Rohens Coupe [劳恩斯酷派]
+劳恩斯
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#FX#FX30
+FX
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#FX#FX35
+FX
+foreignBrand:
+	英菲尼迪#进口#FX
+localBrand:
+	英菲尼迪#日产汽车#FX#FX37
+FX
+foreignBrand:
+	安驰#国产#雪豹
+localBrand:
+	安驰#江淮安驰#雪豹#雪豹
+雪豹
+foreignBrand:
+	别克#进口#昂科雷
+localBrand:
+	别克#通用汽车#Enclave [昂科雷]#Enclave [昂科雷]
+昂科雷
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#740Li xDrive
+7系
+foreignBrand:
+	川汽野马#国产#野马F10
+localBrand:
+	野马#四川汽车#F10#F10
+野马F10
+foreignBrand:
+	江淮#国产#悦悦
+localBrand:
+	江淮#江淮汽车#悦悦#悦悦Cross
+悦悦
+foreignBrand:
+	东南#国产#菱帅
+localBrand:
+	东南#东南汽车#菱帅#菱帅
+菱帅
+foreignBrand:
+	哈飞#国产#哈飞中意
+localBrand:
+	哈飞#哈飞汽车#中意#中意V5
+哈飞中意
+foreignBrand:
+	华普#国产#海迅
+localBrand:
+	华普#上海华普#海迅#海迅AA
+海迅
+foreignBrand:
+	日产#进口#蓝鸟(进口)
+localBrand:
+	日产#日产汽车#Bluebird [蓝鸟]#Bluebird [蓝鸟]
+蓝鸟(进口)
+foreignBrand:
+	阿斯顿·马丁#进口#Vanquish
+localBrand:
+	阿斯顿马丁#阿斯顿·马丁#Vanquish#Vanquish
+Vanquish
+foreignBrand:
+	宝马#进口#3系(进口)
+localBrand:
+	宝马#宝马汽车#3 Series [3系]#318td Touring [318td 旅行车]
+3系(进口)
+foreignBrand:
+	起亚#合资#RIO锐欧
+localBrand:
+	起亚#东风悦达起亚#锐欧#锐欧
+RIO锐欧
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 180 K
+C级(进口)
+foreignBrand:
+	兰博基尼#进口#Murcielago
+localBrand:
+	兰博基尼#兰博基尼#Murcielago [蝙蝠]#LP640
+Murcielago
+foreignBrand:
+	日产#进口#阳光(进口)
+localBrand:
+	日产#日产汽车#Sunny [阳光]#Sunny Wagon [阳光 旅行版]
+阳光(进口)
+foreignBrand:
+	奔驰#合资#E级
+localBrand:
+	奔驰#北京奔驰#E级#E 280
+E级
+foreignBrand:
+	奔驰#进口#GL级
+localBrand:
+	奔驰#奔驰汽车#GL-Class [GL级]#GL 320 CDI
+GL级
+foreignBrand:
+	标致#合资#206
+localBrand:
+	标致#神龙汽车#206#206
+206
+foreignBrand:
+	长城#国产#哈弗H5
+localBrand:
+	哈弗#长城汽车#H5#H5
+哈弗H5
+foreignBrand:
+	兰博基尼#进口#盖拉多
+localBrand:
+	兰博基尼#兰博基尼#Gallardo [盖拉多]#LP520-2 Spyder
+盖拉多
+foreignBrand:
+	奥迪#进口#TT
+localBrand:
+	奥迪#奥迪汽车#TT#TT RS Roadster
+TT
+foreignBrand:
+	开瑞#国产#优雅
+localBrand:
+	开瑞#奇瑞汽车#优雅#优雅
+优雅
+foreignBrand:
+	路虎#进口#卫士
+localBrand:
+	路虎#路虎汽车#Defender [卫士]#Defender110 [卫士110]
+卫士
+foreignBrand:
+	本田#进口#雅阁(进口)
+localBrand:
+	本田#本田汽车#Accord [雅阁]#Accord Tourer [雅阁 旅行车]
+雅阁(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#911 Coupe
+保时捷911
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#CLK AMG#CLK63 AMG Carbriletoooo
+AMG车系
+foreignBrand:
+	福田#国产#奥铃
+localBrand:
+	福田#福田汽车#奥铃#奥铃
+奥铃
+foreignBrand:
+	莲花#国产#L5
+localBrand:
+	莲花#青年莲花#L5#L5 GT
+L5
+foreignBrand:
+	比亚迪#国产#L3
+localBrand:
+	比亚迪#比亚迪汽车#L3#L3
+L3
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#320i
+3系
+foreignBrand:
+	红旗#国产#红旗
+localBrand:
+	红旗#一汽轿车#红旗#红旗
+红旗
+foreignBrand:
+	红旗#国产#盛世
+localBrand:
+	红旗#一汽轿车#盛世#盛世
+盛世
+foreignBrand:
+	宝马#合资#3系
+localBrand:
+	宝马#华晨宝马#3系#320Li
+3系
+foreignBrand:
+	宝马#进口#X5
+localBrand:
+	宝马#宝马汽车#X5#X5 4.4i
+X5
+foreignBrand:
+	捷豹#进口#XK
+localBrand:
+	捷豹#捷豹汽车#XK#XK Convertible
+XK
+foreignBrand:
+	卡威#国产#卡威K1
+localBrand:
+	卡威#卡威汽车#K1#K1
+卡威K1
+foreignBrand:
+	奇瑞#国产#瑞虎
+localBrand:
+	奇瑞#奇瑞汽车#瑞虎#瑞虎S
+瑞虎
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 600
+S级
+foreignBrand:
+	日产#合资#楼兰Murano
+localBrand:
+	日产#东风日产#楼兰#楼兰
+楼兰Murano
+foreignBrand:
+	奔驰#进口#ML级
+localBrand:
+	奔驰#奔驰汽车#M-Class [M级]#ML 300
+ML级
+foreignBrand:
+	道奇#进口#翼龙
+localBrand:
+	道奇#克莱斯勒#Nitro [翼龙]#Nitro [翼龙]
+翼龙
+foreignBrand:
+	欧宝#进口#雅特
+localBrand:
+	欧宝#通用汽车#Astra [雅特]#Astra A+ [雅特 A+]
+雅特
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#M Series [M系]#1 Series M Coupe [1系M 双门轿跑车]
+1系
+foreignBrand:
+	华普#国产#海迅
+localBrand:
+	华普#上海华普#海迅#海迅-两厢
+海迅
+foreignBrand:
+	长丰#国产#骐菱
+localBrand:
+	长丰#广汽长丰#骐菱#骐菱
+骐菱
+foreignBrand:
+	昌河#国产#福瑞达
+localBrand:
+	昌河#江西昌河汽车#福瑞达#福瑞达
+福瑞达
+foreignBrand:
+	华翔富奇#国产#驭虎
+localBrand:
+	富奇#华翔汽车#驭虎#驭虎
+驭虎
+foreignBrand:
+	别克#合资#凯越HRV
+localBrand:
+	别克#上海通用#凯越#凯越HRV
+凯越HRV
+foreignBrand:
+	奥迪#进口#A1
+localBrand:
+	奥迪#奥迪汽车#A1#A1
+A1
+foreignBrand:
+	依维柯#国产#都灵V
+localBrand:
+	依维柯#南京依维柯#都灵V#都灵V A37
+都灵V
+foreignBrand:
+	本田#进口#里程
+localBrand:
+	本田#本田汽车#Legend [里程]#Legend [里程]
+里程
+foreignBrand:
+	宝马#进口#1系
+localBrand:
+	宝马#宝马汽车#1 Series [1系]#118d Coupe [118d 双门轿跑车]
+1系
+foreignBrand:
+	奥迪#合资#A6L
+localBrand:
+	奥迪#一汽奥迪#A6#A6L
+A6L
+foreignBrand:
+	现代#进口#Veloster飞思
+localBrand:
+	现代#现代汽车#Veloster [飞思]#Veloster [飞思]
+Veloster飞思
+foreignBrand:
+	奔驰#进口#AMG车系
+localBrand:
+	奔驰#奔驰汽车#S-Class AMG [S级 AMG]#S63 AMG
+AMG车系
+foreignBrand:
+	三菱#进口#ASX劲炫
+localBrand:
+	三菱#三菱汽车#ASX [劲炫]#ASX [劲炫]
+ASX劲炫
+foreignBrand:
+	陆风#国产#陆风X6
+localBrand:
+	陆风#陆风汽车#X6#X6
+陆风X6
+foreignBrand:
+	精灵smart#进口#fortwo
+localBrand:
+	Smart#奔驰汽车#Fortwo#Fortwo Cabrio
+fortwo
+foreignBrand:
+	海马#国产#海马骑士
+localBrand:
+	海马#一汽海马#骑士#骑士
+海马骑士
+foreignBrand:
+	马自达#进口#ATENZA(进口)
+localBrand:
+	马自达#马自达汽车#ATENZA#ATENZA
+ATENZA(进口)
+foreignBrand:
+	长安#国产#CX20
+localBrand:
+	长安#长安汽车#CX20#CX20
+CX20
+foreignBrand:
+	斯巴鲁#进口#斯巴鲁BRZ
+localBrand:
+	斯巴鲁#斯巴鲁汽车#BRZ#BRZ
+斯巴鲁BRZ
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#740iL
+7系
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#525i xDrive
+5系(进口)
+foreignBrand:
+	福田#国产#风景冲浪
+localBrand:
+	福田#福田汽车#风景#爱尔法
+风景冲浪
+foreignBrand:
+	GMC#进口#SIERRA
+localBrand:
+	GMC#通用汽车#Sierra [西拉]#Sierra 1500 Hybrid [西拉 1500 油电混合]
+SIERRA
+foreignBrand:
+	海马#国产#福仕达荣达
+localBrand:
+	海马#郑州海马#福仕达#荣达
+福仕达荣达
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 190
+A级
+foreignBrand:
+	MINI#进口#Countryman
+localBrand:
+	MINI#宝马汽车#Paceman#Cooper S Paceman All 4
+Countryman
+foreignBrand:
+	奔驰#进口#A级
+localBrand:
+	奔驰#奔驰汽车#A-Class [A级]#A 180 CDI
+A级
+foreignBrand:
+	雷诺#进口#拉古那
+localBrand:
+	雷诺#雷诺汽车#Laguna [拉古娜]#Laguna Estate [拉古娜 旅行车]
+拉古那
+foreignBrand:
+	英菲尼迪#进口#G系
+localBrand:
+	英菲尼迪#日产汽车#G#G25-Sedan [G25-三厢]
+G系
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 280
+C级(进口)
+foreignBrand:
+	奥迪#进口#A5
+localBrand:
+	奥迪#奥迪汽车#A5#A5 Cabriolet
+A5
+foreignBrand:
+	大众#进口#Tiguan
+localBrand:
+	大众#大众汽车#Tiguan [途欢]#Tiguan [途欢]
+Tiguan
+foreignBrand:
+	宝马#进口#7系
+localBrand:
+	宝马#宝马汽车#7 Series [7系]#725tds
+7系
+foreignBrand:
+	宝马#进口#5系(进口)
+localBrand:
+	宝马#宝马汽车#5 Series [5系]#540i
+5系(进口)
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#300 TE
+E级(进口)
+foreignBrand:
+	川汽野马#国产#野马F99
+localBrand:
+	野马#四川汽车#F99#F99
+野马F99
+foreignBrand:
+	开瑞#国产#优雅
+localBrand:
+	开瑞#奇瑞汽车#优雅#优雅Ⅱ代
+优雅
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 300 Tourer
+E级(进口)
+foreignBrand:
+	保时捷#进口#保时捷911
+localBrand:
+	保时捷#保时捷汽车#911#Targa 4
+保时捷911
+foreignBrand:
+	吉奥#国产#凯睿
+localBrand:
+	吉奥#广汽吉奥#凯睿#凯睿
+凯睿
+foreignBrand:
+	荣威#国产#550
+localBrand:
+	荣威#上海汽车#550#550S
+550
+foreignBrand:
+	马自达#进口#CX-7
+localBrand:
+	马自达#马自达汽车#CX-7#CX-7
+CX-7
+foreignBrand:
+	奔驰#进口#S级
+localBrand:
+	奔驰#奔驰汽车#S-Class [S级]#S 420
+S级
+foreignBrand:
+	荣威#国产#550
+localBrand:
+	荣威#上海汽车#550#550D
+550
+foreignBrand:
+	荣威#国产#550
+localBrand:
+	荣威#上海汽车#550#550G
+550
+foreignBrand:
+	雷诺#进口#雷诺Clio
+localBrand:
+	雷诺#雷诺汽车#Clio#Clio-Hatchback GT [Clio-两厢 GT]
+雷诺Clio
+foreignBrand:
+	沃尔沃#进口#C70
+localBrand:
+	沃尔沃#沃尔沃汽车#C70#C70 Coupe
+C70
+foreignBrand:
+	丰田#合资#花冠
+localBrand:
+	丰田#一汽丰田#花冠#花冠
+花冠
+foreignBrand:
+	奔驰#进口#C级(进口)
+localBrand:
+	奔驰#奔驰汽车#C-Class [C级]#C 230 Coupe
+C级(进口)
+foreignBrand:
+	MINI#进口#MINI
+localBrand:
+	MINI#宝马汽车#Mini#Mini One
+MINI
+foreignBrand:
+	奔驰#进口#E级(进口)
+localBrand:
+	奔驰#奔驰汽车#E-Class [E级]#E 250 CGI Coupe
+E级(进口)
